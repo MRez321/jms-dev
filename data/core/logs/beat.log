@@ -6826,3 +6826,9 @@ Get beat lock start to run it
 2026-06-30 17:31:17 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
 2026-06-30 17:31:18 [DEBU] Create activity log for celery task: 26eb83ce-a7b5-48bc-875f-bee8284b06e0
 2026-06-30 17:31:18 Create activity log for celery task: 26eb83ce-a7b5-48bc-875f-bee8284b06e0
+2026-06-30 17:41:17 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-06-30 17:41:17 [DEBU] Create activity log for celery task: 0fb943da-fcca-41fc-8b74-8a3e52a1e339
+2026-06-30 17:41:17 Create activity log for celery task: 0fb943da-fcca-41fc-8b74-8a3e52a1e339
+2026-06-30 17:51:17 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-06-30 17:51:17 [DEBU] Create activity log for celery task: b2cd4b19-0228-4983-b457-aa2e58b3193a
+2026-06-30 17:51:17 Create activity log for celery task: b2cd4b19-0228-4983-b457-aa2e58b3193a

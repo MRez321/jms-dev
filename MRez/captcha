@@ -1,0 +1,113 @@
+Option 1: Enter the container and run commands directly (easier)
+
+powershell
+# Enter the container
+docker exec -it jms_core bash
+Then inside the container, run these commands one by one:
+
+bash
+cd /opt/jumpserver/apps
+python manage.py shell
+Then at the Python shell (>>> prompt), type:
+
+python
+from settings.models import Setting
+Setting.objects.update_or_create(
+    name='LOGIN_CAPTCHA_ENABLED',
+    defaults={'value': 'false', 'category': 'security'}
+)
+exit()
+Then exit the container:
+
+bash
+exit
+Then restart:
+
+powershell
+docker restart jms_core
+
+
+================================================
+================================================
+================================================
+
+If you're still seeing the captcha, try this to force a reload of the setting:
+
+powershell
+docker exec -it jms_core bash
+Then inside:
+
+bash
+cd /opt/jumpserver/apps
+python manage.py shell
+At the Python prompt:
+
+python
+from settings.models import Setting
+from django.core.cache import cache
+
+# Clear cache
+cache.clear()
+
+# Verify setting exists
+setting = Setting.objects.filter(name='LOGIN_CAPTCHA_ENABLED').first()
+if setting:
+    print(f"Setting found: {setting.name} = {setting.value}")
+    # Force update it again
+    setting.value = 'false'
+    setting.save()
+    print("Updated to false")
+else:
+    print("Setting not found - creating it")
+    Setting.objects.create(name='LOGIN_CAPTCHA_ENABLED', value='false', category='security')
+
+exit()
+Then exit and restart:
+
+bash
+exit
+powershell
+docker restart jms_core
+Wait 30 seconds and try again. Let me know if it's still there!
+
+
+=================================
+=================================
+=================================
+
+ash
+cd /opt/jumpserver/apps
+python manage.py shell
+At the Python prompt:
+
+python
+from settings.models import Setting
+
+# Check what settings exist
+settings_list = Setting.objects.filter(name__icontains='captcha')
+for s in settings_list:
+    print(f"{s.name} = {s.value}")
+
+# Create or update the correct setting
+setting, created = Setting.objects.update_or_create(
+    name='SECURITY_LOGIN_CAPTCHA_ENABLED',
+    defaults={'value': 'false', 'category': 'security'}
+)
+print(f"Setting {'created' if created else 'updated'}: {setting.name} = {setting.value}")
+
+# Also set the old one to be safe
+Setting.objects.update_or_create(
+    name='LOGIN_CAPTCHA_ENABLED',
+    defaults={'value': 'false', 'category': 'security'}
+)
+
+# Clear cache
+from django.core.cache import cache
+cache.clear()
+print("Cache cleared")
+
+exit()
+Now exit and restart:
+
+bash
+exit

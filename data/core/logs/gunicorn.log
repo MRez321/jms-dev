@@ -4209,3 +4209,2269 @@ tr/toastr.min.js
 2026-06-30 19:33:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 172.18.0.8:53858 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
 172.18.0.9:60006 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:39376 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:34:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:36264 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:34:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:59004 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:40802 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:37810 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:35:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:49902 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:35:37 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 19:35:37 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 19:35:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:34076 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:33878 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:33892 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:36:27 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:36:27 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:36:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35062 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:36:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:49362 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:33182 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:39720 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:37:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60226 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:37:37 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 19:37:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:53068 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:57506 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:38:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:54294 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:38:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:45272 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:54180 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:39:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:55704 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:39:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:51148 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:36386 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:40:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:53228 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:40:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:43320 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:57786 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:41:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56096 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:41:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:49718 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:50714 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.1:60504 - "GET /core/auth/login/?csrf_failure=1&admin=1 HTTP/1.1" 200
+2026-06-30 19:42:03 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:60524 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:42:03 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:60520 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 19:42:03 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:60526 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 19:42:03 [WARN] Not Found: /static/css/style.css
+172.18.0.1:60538 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 19:42:04 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:60548 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 19:42:04 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:60560 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:42:04 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:60578 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:42:04 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:60576 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:60592 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:41370 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:41380 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:41406 - "GET /static/img/logo.png HTTP/1.1" 404
+172.18.0.1:41392 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:41420 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:41414 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:41432 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:41434 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:41436 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:41458 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:41442 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:42:05 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:41460 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:41440 - "GET /core/auth/captcha/image/f8e8352c8bc0d162e79b5bd6da575029884bee5b/ HTTP/1.1" 200
+2026-06-30 19:42:06 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:42:06 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:41468 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:41478 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:41482 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:42:07 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:42:07 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:41510 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:41492 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:41524 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:42:07 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:41498 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:42:07 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:42:07 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:41532 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:41534 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:42:08 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:41546 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:42:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:42:08 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:41562 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+n.js
+172.18.0.1:41554 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:41548 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:41560 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:42:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:41576 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+.3.2.min.js
+2026-06-30 19:42:08 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:41570 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:41578 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:42:08 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:41588 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.9:44258 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+172.18.0.9:44270 - "GET /core/auth/captcha/image/e5e95f9d05ea5fbaaaac3c11359a6db2ca6c69f0/ HTTP/1.0" 200
+2026-06-30 19:42:13 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x766194264a90>
+2026-06-30 19:42:13 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x766194267dd0>
+172.18.0.9:44290 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:42:13 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x76619411b2d0>
+2026-06-30 19:42:13 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x76619415b550>
+2026-06-30 19:42:13 [DEBU] User login failed: admin
+Instance added to cache. Cache size: 1
+172.18.0.9:44282 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.9:44314 - "GET /core/auth/captcha/image/235b4a06588fa4418d9a6fb1d101792966c7ba6c/ HTTP/1.0" 200
+172.18.0.9:44302 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.9:33452 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.9:33462 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.9:33470 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.9:33476 - "GET /core/auth/captcha/image/2e9f8fb7dea1b9c4acc427cdac92a94050523c1a/ HTTP/1.0" 200
+172.18.0.9:33492 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.1:50096 - "GET /core/auth/login/?csrf_failure=1&admin=1 HTTP/1.1" 200
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:45498 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:45512 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/style.css
+172.18.0.1:45540 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/login-style.css
+HTTP/1.1" 404
+172.18.0.1:45556 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:45548 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:45564 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:42:25 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:42:25 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:45608 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:45616 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:45576 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:45592 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:45622 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 19:42:25 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:45630 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:45642 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:45636 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:45658 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:45644 - "GET /core/auth/captcha/image/5cee13505d44855dfe3e9227ea6c398fbfcd82c5/ HTTP/1.1" 200
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:45666 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:45682 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:45692 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+
+172.18.0.1:45700 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:45706 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:45738 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:45750 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:45720 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:45740 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:45726 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:45754 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:45768 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:45776 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:42:26 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:45790 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:45802 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:45812 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:45824 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+P/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:45836 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:45828 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:45866 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+172.18.0.1:45852 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:45882 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:42:27 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:45892 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 19:42:27 [DEBU] pid 33 executor submit run update_user_last_used
+2026-06-30 19:42:27 [DEBU] pid 33 executor submit run update_token_last_used
+2026-06-30 19:42:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:53484 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:42:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:53752 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:37438 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:60194 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:43:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60682 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:43:37 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 19:43:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:51258 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:36830 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:59106 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:44:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:45800 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:44:39 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:43208 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:39304 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.9:39326 - "GET /core/auth/captcha/image/f6846b8c0cf9363e624e5f2b159ddedf4bf14ee1/ HTTP/1.0" 200
+172.18.0.9:39320 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.1:36110 - "GET /core/auth/login/?csrf_failure=1&admin=1 HTTP/1.1" 200
+2026-06-30 19:44:46 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:36112 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:44:46 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:36124 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+172.18.0.9:43728 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 19:44:46 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:44:46 [WARN] Not Found: /static/css/login-style.css
+HTTP/1.1" 404
+172.18.0.1:36170 - "GET /static/css/login-style.css HTTP/1.1" 404
+select2.min.css
+172.18.0.1:36156 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 19:44:46 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:36174 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:36150 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 19:44:46 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:36180 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:36188 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/bootstrap.min.js
+
+172.18.0.1:36194 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:36216 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:36224 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:44:47 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:36236 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:36242 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:36262 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:36252 - "GET /core/auth/captcha/image/46620df67a9ae965ff182644995feeb5b3947621/ HTTP/1.1" 200
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:36278 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:36290 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:36322 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:36306 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:44:47 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:36332 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:36344 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:36358 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:36366 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:36388 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:36368 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:36408 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:36414 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:36400 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:36420 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:36426 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:36436 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:44:48 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+1.1" 404
+172.18.0.1:36464 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:36476 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:44:49 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:44:49 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:36484 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:36494 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:36496 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.9:49878 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:45:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37566 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:45:39 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:45:39 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:45:39 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:36766 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:44184 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:35230 - "GET /api/health/ HTTP/1.0" 200
+[2026-06-30 19:46:23 +0800] [29] [INFO] connection closed
+2026-06-30 19:46:23 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7661ac2e9650>
+2026-06-30 19:46:23 [DEBU] Subscription unsubscribed
+2026-06-30 19:46:23 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7661ac2e9650>
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [INFO] Retry subscribe channel: fm.orgs_mapping
+2026-06-30 19:46:24 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7661aecaafd0>
+2026-06-30 19:46:24 [INFO] Retry subscribe channel: fm.node_asset_mapping
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+2026-06-30 19:46:24 [ERRO] Consume msg error: Connection closed by server.
+[2026-06-30 19:47:35 +0800] [22] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 19:47:35 +0800] [22] [INFO] Listening at: http://0.0.0.0:8080 (22)
+[2026-06-30 19:47:35 +0800] [22] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 19:47:35 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 19:47:35 +0800] [29] [INFO] Booting worker with pid: 29
+[2026-06-30 19:47:35 +0800] [30] [INFO] Booting worker with pid: 30
+[2026-06-30 19:47:35 +0800] [31] [INFO] Booting worker with pid: 31
+2026-06-30 19:48:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:48:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:48:01 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:48:01 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:48:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:48:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:48:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:01 [DEBU] Start subscribe vault change
+2026-06-30 19:48:01 [DEBU] Start subscribe vault change
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:48:02 [INFO] Start subscribe for stop job execution
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:02 [DEBU] Start subscribe setting change
+2026-06-30 19:48:02 [DEBU] Start subscribe vault change
+2026-06-30 19:48:02 [DEBU] Start subscribe vault change
+2026-06-30 19:48:02 [INFO] Start subscribe for stop job execution
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:02 [DEBU] Start subscribe setting change
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:02 [INFO] Start subscribe for stop job execution
+2026-06-30 19:48:02 [INFO] Start subscribe for stop job execution
+2026-06-30 19:48:02 [DEBU] Start subscribe setting change
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:02 [DEBU] Start subscribe setting change
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 19:48:03 +0800] [31] [INFO] Started server process [31]
+[2026-06-30 19:48:03 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 19:48:03 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 19:48:03 +0800] [30] [INFO] Started server process [30]
+[2026-06-30 19:48:03 +0800] [31] [INFO] Waiting for application startup.
+[2026-06-30 19:48:03 +0800] [29] [INFO] Started server process [29]
+[2026-06-30 19:48:03 +0800] [29] [INFO] Waiting for application startup.
+[2026-06-30 19:48:03 +0800] [30] [INFO] Waiting for application startup.
+[2026-06-30 19:48:03 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:48:03 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 19:48:03 +0800] [31] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:48:03 +0800] [31] [INFO] Application startup complete.
+[2026-06-30 19:48:03 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:48:03 +0800] [29] [INFO] Application startup complete.
+[2026-06-30 19:48:03 +0800] [30] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:48:03 +0800] [30] [INFO] Application startup complete.
+172.18.0.4:43498 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.5:47204 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.9:47290 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.9:37998 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-06-30 19:48:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:38008 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:48:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+[2026-06-30 19:48:19 +0800] [29] [INFO] ('172.18.0.9', 38010) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:48:19 +0800] [29] [INFO] connection open
+2026-06-30 19:48:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:34684 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.9:38018 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:56806 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-06-30 19:48:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+[2026-06-30 19:48:24 +0800] [26] [INFO] ('172.18.0.5', 56820) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:48:24 +0800] [26] [INFO] connection open
+172.18.0.5:56834 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:48:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:34698 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 19:48:24 +0800] [31] [INFO] ('172.18.0.4', 34700) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:48:24 +0800] [31] [INFO] connection open
+172.18.0.7:44222 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:59752 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:59764 - "GET /core/auth/captcha/image/5abeb948c6efdf837fb47bd82b272e4c85b6708f/ HTTP/1.0" 200
+172.18.0.1:50886 - "GET /core/auth/login/?csrf_failure=1&admin=1 HTTP/1.1" 200
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:50892 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+172.18.0.1:50888 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:50902 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/style.css
+172.18.0.1:50916 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:50924 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:50934 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:48:26 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:50950 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:48:27 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:50954 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.7:59780 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:59794 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:59808 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:59814 - "GET /core/auth/captcha/image/36cc4e3572ef7a96342220a34b0f2fa74af928b7/ HTTP/1.0" 200
+172.18.0.7:59816 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:32938 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+172.18.0.7:32940 - "GET /core/auth/captcha/image/084545e67f0210dbfbae10b776aa0c137b657076/ HTTP/1.0" 200
+172.18.0.7:32954 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+172.18.0.7:32956 - "GET /core/auth/captcha/image/116964d7a98137c4f01ed6b7cbcded3869cefab6/ HTTP/1.0" 200
+172.18.0.7:32972 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+172.18.0.7:32984 - "GET /core/auth/captcha/image/d062754f1bc57a720502358533412068fdef47cf/ HTTP/1.0" 200
+2026-06-30 19:48:40 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:48:40 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:32886 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 19:48:40 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:32902 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:32898 - "GET /core/auth/captcha/image/824ee54b6c95be5a8463bd9b524d777f9c703d70/ HTTP/1.1" 200
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+2026-06-30 19:48:41 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:32914 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-06-30 19:48:41 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:32930 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.7:32988 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+2026-06-30 19:48:41 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:32956 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:48:41 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:32946 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.7:32994 - "GET /core/auth/captcha/image/190bf05f4e888a512b785bd71dc95ec1140c79ce/ HTTP/1.0" 200
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:32966 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:32980 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:32994 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:33008 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:33024 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:33032 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:33030 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+min.js
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:33046 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:33062 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:33050 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.4:41260 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:33078 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:33086 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:33098 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:48:42 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:33104 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.7:32996 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+172.18.0.7:33006 - "GET /core/auth/captcha/image/19f33fbac12932ca3bf5ac04fbfc19a8bb8ce9e6/ HTTP/1.0" 200
+2026-06-30 19:48:43 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:33114 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.7:46776 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:46782 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:46788 - "GET /core/auth/captcha/image/ba58df96e83fde38bd61b8bc1aa4369394e304f8/ HTTP/1.0" 200
+172.18.0.7:46794 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.1:34532 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 19:48:59 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:34552 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:34518 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 19:49:00 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34558 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 19:49:00 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:34536 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:34568 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 19:49:01 [WARN] Not Found: /static/css/style.css
+172.18.0.1:34582 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 19:49:01 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:34592 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:49:01 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:34600 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:49:01 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:34614 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:49:01 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:34620 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:34630 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:34638 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:34640 - "GET /core/jsi18n/ HTTP/1.1" 200
+tication/user-session/
+2026-06-30 19:49:02 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:34636 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:34672 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:34656 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:34676 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:34688 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:34702 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:49:02 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:49:02 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:34724 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:34710 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:49:03 [WARN] Not Found: /static/img/logo.png
+4
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:34754 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:34736 - "GET /core/auth/captcha/image/59991b62b858fa4993d5b8500bafeff60f0e6e10/ HTTP/1.1" 200
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:34770 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:34772 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:34788 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:34792 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:34800 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:34802 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:49:03 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:34812 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:43128 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 19:49:07 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:43138 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:49:07 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:43152 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:49:07 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:43142 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:49:07 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:43172 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 19:49:07 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:43166 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:49:08 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:43176 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:49:08 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:43192 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:49:08 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:43200 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:49:08 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:43218 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+js
+172.18.0.1:43210 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+3.2.min.js
+172.18.0.1:43226 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:49:08 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:43236 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:49:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:43244 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.7:51916 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:51918 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:51924 - "GET /core/auth/captcha/image/e906a092d7ca6162b8315c00cb302e89c53e606f/ HTTP/1.0" 200
+172.18.0.7:51940 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 19:49:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:33814 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:49:25 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:49:25 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:49:25 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:44454 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:53862 - "GET /api/health/ HTTP/1.0" 200
+[2026-06-30 19:49:54 +0800] [26] [INFO] connection closed
+2026-06-30 19:49:54 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ce5c9e40b10>
+2026-06-30 19:49:54 [DEBU] Subscription unsubscribed
+2026-06-30 19:49:54 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ce5c9e40b10>
+[2026-06-30 19:49:55 +0800] [30] [INFO] ('172.18.0.5', 40980) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:49:55 +0800] [30] [INFO] connection open
+172.18.0.7:36084 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:50:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:33262 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:50:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:53224 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:54808 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:38614 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:51:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:40650 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:51:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:52932 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:54366 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:35672 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:52:20 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:52:20 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:52:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:52780 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:52:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:44882 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:55326 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:53:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:40784 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:53:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:57438 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:54196 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:54:20 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:54:20 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:54:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:59550 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:54:24 [DEBU] pid 29 executor submit run update_user_last_used
+2026-06-30 19:54:24 [DEBU] pid 29 executor submit run update_token_last_used
+2026-06-30 19:54:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:48046 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:39300 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:55:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:42040 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:55:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:57618 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:53598 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 19:56:20 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:56:20 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:56:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:33884 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:56:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:59022 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 19:57:31 +0800] [22] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 19:57:31 +0800] [22] [INFO] Listening at: http://0.0.0.0:8080 (22)
+[2026-06-30 19:57:31 +0800] [22] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 19:57:31 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 19:57:31 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-06-30 19:57:32 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-06-30 19:57:32 +0800] [29] [INFO] Booting worker with pid: 29
+2026-06-30 19:57:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:57:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:57:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:57:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe vault change
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:57:56 [INFO] Start subscribe for stop job execution
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe setting change
+2026-06-30 19:57:56 [DEBU] Start subscribe vault change
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe vault change
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe vault change
+2026-06-30 19:57:56 [INFO] Start subscribe for stop job execution
+2026-06-30 19:57:56 [INFO] Start subscribe for stop job execution
+2026-06-30 19:57:56 [DEBU] Start subscribe setting change
+2026-06-30 19:57:56 [DEBU] Start subscribe setting change
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [INFO] Start subscribe for stop job execution
+2026-06-30 19:57:56 [DEBU] Start subscribe setting change
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 19:57:57 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 19:57:57 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 19:57:57 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:57:57 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 19:57:57 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 19:57:57 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 19:57:57 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:57:57 +0800] [28] [INFO] Started server process [28]
+[2026-06-30 19:57:57 +0800] [28] [INFO] Waiting for application startup.
+[2026-06-30 19:57:57 +0800] [27] [INFO] Application startup complete.
+[2026-06-30 19:57:57 +0800] [29] [INFO] Started server process [29]
+[2026-06-30 19:57:57 +0800] [29] [INFO] Waiting for application startup.
+[2026-06-30 19:57:57 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:57:57 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:57:57 +0800] [28] [INFO] Application startup complete.
+[2026-06-30 19:57:57 +0800] [29] [INFO] Application startup complete.
+[2026-06-30 19:57:57 +0800] [26] [INFO] ('172.18.0.5', 46790) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:57:57 +0800] [26] [INFO] connection open
+[2026-06-30 19:57:58 +0800] [26] [INFO] ('172.18.0.9', 40026) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:57:58 +0800] [26] [INFO] connection open
+[2026-06-30 19:57:59 +0800] [26] [INFO] ('172.18.0.4', 51692) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:57:59 +0800] [26] [INFO] connection open
+172.18.0.7:33928 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.1:50886 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+172.18.0.7:38816 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+2026-06-30 19:58:09 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:40428 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 19:58:09 [WARN] Not Found: /static/css/style.css
+172.18.0.1:40434 - "GET /static/css/style.css HTTP/1.1" 404
+172.18.0.7:34674 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 19:58:10 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:40448 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.7:34676 - "GET /core/auth/captcha/image/8e4e759230fade2193b627e93762874dfa73f98e/ HTTP/1.0" 200
+172.18.0.7:34678 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 19:58:17 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:40404 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:58:18 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:59202 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:58:18 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:58:18 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:40458 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:40418 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 19:58:18 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:59214 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 19:58:18 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:59242 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:59230 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 19:58:18 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:59250 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:58:18 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:59264 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:58:18 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:59280 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 19:58:19 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:59284 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:58:19 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:59292 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:59294 - "GET /core/auth/captcha/image/6c2b0ee8c79ecf1219fdd1dc9b5767d37e29d7ed/ HTTP/1.1" 200
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:59302 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:59310 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:59320 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:59364 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:59342 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:59352 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:59326 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 19:58:19 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:59374 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:59390 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:59396 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:59408 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:59418 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:59424 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:59430 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 19:58:20 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:59436 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:59442 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:59452 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+.min.js
+2026-06-30 19:58:21 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:59464 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:59478 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:59458 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:59486 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:59500 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:58:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:47512 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:59516 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:58:21 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:59530 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:59518 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.7:54204 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:54214 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:54220 - "GET /core/auth/captcha/image/765cb364b983232bcf577bba19dfbf4b4e2d64dc/ HTTP/1.0" 200
+172.18.0.7:54228 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 19:58:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:48294 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:59532 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 19:58:24 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:45282 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:45306 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+172.18.0.1:45286 - "GET /static/css/style.css HTTP/1.1" 404
+172.18.0.1:45292 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:45352 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:45322 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:45336 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:45358 - "GET /core/jsi18n/ HTTP/1.1" 200
+tstrap.min.js
+172.18.0.1:45354 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:45362 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:58:25 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:45398 - "GET /static/img/logo.png HTTP/1.1" 404
+172.18.0.1:45384 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:45374 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:58:25 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:45422 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:45408 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:45444 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:45434 - "GET /core/auth/captcha/image/04907944a4f80b2c942aa98a7dbcb96a37ec4cd0/ HTTP/1.1" 200
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:45448 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:45458 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:45462 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:45466 - "GET /core/jsi18n/ HTTP/1.1" 200
+ery-3.6.1.min.js
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:45482 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 42026-06-30 19:58:26 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:45496 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:45500 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:45508 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:45514 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:45524 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:45540 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:45550 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:58:26 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:45554 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 19:58:27 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:45568 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 19:58:27 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:45584 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 19:58:27 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:45586 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 19:58:27 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:45588 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 19:58:28 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:45590 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 19:58:28 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:45592 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 19:58:28 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:45596 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 19:58:28 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:58:28 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:45610 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:45626 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:45630 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 19:58:28 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:45644 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.7:42504 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:42512 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:42524 - "GET /core/auth/captcha/image/eb0d174126cfa31230fddb2bf9b030cd79cc51da/ HTTP/1.0" 200
+172.18.0.7:42538 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:34054 - "GET /core/auth/captcha/refresh/ HTTP/1.0" 200
+172.18.0.7:34060 - "GET /core/auth/captcha/image/190f9abbb2c74007077652e05cd6209ab8e9ce09/ HTTP/1.0" 200
+2026-06-30 19:58:41 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x768406487dd0>
+2026-06-30 19:58:41 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7683e2bbf110>
+2026-06-30 19:58:41 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x7683e2bcc390>
+2026-06-30 19:58:41 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x7683e2c222d0>
+2026-06-30 19:58:41 [DEBU] User login failed: admin
+Instance added to cache. Cache size: 1
+172.18.0.7:34076 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:34088 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:34104 - "GET /core/auth/captcha/image/6a75205908fe1035053e4e0d01b643db035654d8/ HTTP/1.0" 200
+172.18.0.7:34118 - "GET /core/jsi18n/ HTTP/1.0" 200
+[2026-06-30 19:59:36 +0800] [20] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 19:59:36 +0800] [20] [INFO] Listening at: http://0.0.0.0:8080 (20)
+[2026-06-30 19:59:36 +0800] [20] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 19:59:36 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 19:59:36 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-06-30 19:59:36 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-06-30 19:59:37 +0800] [29] [INFO] Booting worker with pid: 29
+2026-06-30 19:59:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:59:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:59:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:59:52 [DEBU] Start subscribe vault change
+2026-06-30 19:59:52 [INFO] Start subscribe for stop job execution
+2026-06-30 19:59:52 [DEBU] Start subscribe setting change
+2026-06-30 19:59:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:59:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:59:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+[2026-06-30 19:59:52 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 19:59:52 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 19:59:52 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:59:52 +0800] [26] [INFO] Application startup complete.
+2026-06-30 19:59:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe vault change
+2026-06-30 19:59:53 [INFO] Start subscribe for stop job execution
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe setting change
+[2026-06-30 19:59:53 +0800] [26] [INFO] ('172.18.0.4', 58092) - "WebSocket /ws/terminal-task/" [accepted]
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 19:59:53 +0800] [26] [INFO] connection open
+2026-06-30 19:59:53 [DEBU] Start subscribe vault change
+[2026-06-30 19:59:53 +0800] [26] [INFO] ('172.18.0.5', 49772) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:59:53 +0800] [26] [INFO] connection open
+[2026-06-30 19:59:53 +0800] [26] [INFO] ('172.18.0.9', 39966) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 19:59:53 +0800] [26] [INFO] connection open
+2026-06-30 19:59:53 [INFO] Start subscribe for stop job execution
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe setting change
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:59:53 [DEBU] Start subscribe vault change
+2026-06-30 19:59:53 [INFO] Start subscribe for stop job execution
+2026-06-30 19:59:53 [DEBU] Start subscribe setting change
+2026-06-30 19:59:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 19:59:53 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 19:59:53 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 19:59:53 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:59:53 +0800] [27] [INFO] Application startup complete.
+[2026-06-30 19:59:53 +0800] [29] [INFO] Started server process [29]
+[2026-06-30 19:59:53 +0800] [29] [INFO] Waiting for application startup.
+[2026-06-30 19:59:53 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:59:53 +0800] [29] [INFO] Application startup complete.
+[2026-06-30 19:59:53 +0800] [28] [INFO] Started server process [28]
+[2026-06-30 19:59:53 +0800] [28] [INFO] Waiting for application startup.
+[2026-06-30 19:59:53 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 19:59:53 +0800] [28] [INFO] Application startup complete.
+172.18.0.7:46394 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:53506 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.1:37438 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 20:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:46898 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:42518 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:37452 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.7:53490 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+2026-06-30 20:00:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:37468 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.7:32984 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 20:00:41 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:37454 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 20:00:41 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:37464 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.7:32992 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 20:00:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:36420 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:36426 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 20:00:42 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.7:36428 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-06-30 20:00:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:37490 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:37482 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 20:00:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:36442 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:36438 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.1:37494 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:00:43 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:37506 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+172.18.0.1:37518 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 20:00:43 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:37536 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 20:00:43 [WARN] Not Found: /static/css/style.css
+172.18.0.1:37550 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 20:00:43 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:37560 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.7:36456 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:00:43 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:37566 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:00:43 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:37578 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:00:43 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:37594 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 20:00:43 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 20:00:44 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:37580 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:37610 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.7:36466 - "GET /core/auth/captcha/image/9b648ef0fcfa1bb1d1c5c7afe5b2d08ac91260d8/ HTTP/1.0" 200
+2026-06-30 20:00:44 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 20:00:44 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:37520 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+172.18.0.1:37624 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 20:00:44 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:37630 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:37628 - "GET /core/auth/captcha/image/6930fa0c1a7005b0428d2efe1ffbd9c4baee9d50/ HTTP/1.1" 200
+2026-06-30 20:00:44 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:37636 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:37652 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:37668 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:56970 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:56986 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/plugins/select2/sel172.18.0.1:57004 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:56988 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:00:44 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:57014 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:00:45 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:57016 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:00:45 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:57024 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:57026 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.7:50750 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:57042 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:57046 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:57076 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:57078 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:57080 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:57096 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:57098 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:57108 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:57132 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:57118 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:57134 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:00:46 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:57138 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.7:50754 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:50764 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:50772 - "GET /core/auth/captcha/image/d1f4ef16b5f60be96a3be53f8d7dbbc321bb65ed/ HTTP/1.0" 200
+172.18.0.7:50778 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:34760 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:01:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:46592 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:01:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:43316 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:59614 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:58540 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:02:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:38238 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:02:51 +0800] [24] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 20:02:51 +0800] [24] [INFO] Listening at: http://0.0.0.0:8080 (24)
+[2026-06-30 20:02:51 +0800] [24] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 20:02:51 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 20:02:52 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-06-30 20:02:52 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-06-30 20:02:52 +0800] [29] [INFO] Booting worker with pid: 29
+2026-06-30 20:03:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:03:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:03:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:03:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe vault change
+2026-06-30 20:03:06 [INFO] Start subscribe for stop job execution
+2026-06-30 20:03:06 [DEBU] Start subscribe setting change
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe vault change
+2026-06-30 20:03:06 [DEBU] Start subscribe vault change
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe vault change
+2026-06-30 20:03:06 [INFO] Start subscribe for stop job execution
+2026-06-30 20:03:06 [DEBU] Start subscribe setting change
+2026-06-30 20:03:06 [INFO] Start subscribe for stop job execution
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [DEBU] Start subscribe setting change
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:03:06 [INFO] Start subscribe for stop job execution
+2026-06-30 20:03:06 [DEBU] Start subscribe setting change
+2026-06-30 20:03:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 20:03:07 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 20:03:07 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 20:03:07 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 20:03:07 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 20:03:07 +0800] [28] [INFO] Started server process [28]
+[2026-06-30 20:03:07 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:03:07 +0800] [28] [INFO] Waiting for application startup.
+[2026-06-30 20:03:07 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:03:07 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 20:03:07 +0800] [27] [INFO] Application startup complete.
+[2026-06-30 20:03:07 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:03:07 +0800] [28] [INFO] Application startup complete.
+[2026-06-30 20:03:07 +0800] [29] [INFO] Started server process [29]
+[2026-06-30 20:03:07 +0800] [29] [INFO] Waiting for application startup.
+[2026-06-30 20:03:07 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:03:07 +0800] [29] [INFO] Application startup complete.
+[2026-06-30 20:03:07 +0800] [26] [INFO] ('172.18.0.4', 45044) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:03:07 +0800] [26] [INFO] connection open
+[2026-06-30 20:03:07 +0800] [26] [INFO] ('172.18.0.9', 38048) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:03:07 +0800] [26] [INFO] connection open
+[2026-06-30 20:03:07 +0800] [26] [INFO] ('172.18.0.5', 36644) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:03:07 +0800] [26] [INFO] connection open
+172.18.0.7:51020 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:50888 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:03:25 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:51914 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:03:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:48998 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:41976 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.1:59132 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 20:04:00 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:59134 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 20:04:01 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:59150 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.7:34990 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 20:04:02 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:35002 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+2026-06-30 20:04:02 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.7:35010 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-06-30 20:04:03 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:35026 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:35030 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 20:04:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:35040 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:35042 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 20:04:04 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.7:35054 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-06-30 20:04:05 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:48222 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:48220 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:48224 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:48238 - "GET /core/auth/captcha/image/1eaf3890267b5f9202a023bd719f2c2cdaa38ae0/ HTTP/1.0" 200
+172.18.0.1:59124 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:59156 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:35902 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:35914 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:35912 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35922 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/style.css
+172.18.0.1:35924 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:35930 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:35942 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:35958 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:04:07 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:35962 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:35974 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:04:08 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:35982 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 20:04:08 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:04:08 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:35992 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:35990 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 20:04:08 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:36000 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 20:04:08 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 20:04:08 [WARN] Not Found: /static/css/jumpserver.css
+
+172.18.0.1:36014 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:36030 - "GET /core/auth/captcha/image/cbba72050b1162e1ee5159d33fbdcb67e761a9e1/ HTTP/1.1" 200
+2026-06-30 20:04:08 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:36036 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:04:08 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:36044 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:04:08 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:36058 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:04:08 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:36062 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:36070 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:36076 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:36080 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+172.18.0.7:48242 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:36094 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/jumpserver.js
+isMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:36136 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:36122 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:36152 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:36160 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:36162 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:36174 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:36186 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:36224 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:36200 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:36216 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:04:09 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:36228 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:04:11 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:36254 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 20:04:11 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 20:04:11 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:36238 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:36256 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:04:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:43310 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:45444 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:04:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:36714 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:54834 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:05:24 [DEBU] pid 29 executor submit run update_user_last_used
+2026-06-30 20:05:24 [DEBU] pid 29 executor submit run update_token_last_used
+2026-06-30 20:05:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:53604 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:54232 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:05:37 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:05:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:37914 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:52296 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:52298 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:52302 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/style.css
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/login-style.css
+HTTP/1.1" 404
+172.18.0.1:52306 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:52320 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:52316 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 20:05:48 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:52324 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:05:48 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:52334 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.7:46332 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+2026-06-30 20:05:49 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:52360 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:05:49 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:52370 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:52336 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+js
+172.18.0.1:52396 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:52350 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.7:46338 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:46352 - "GET /core/auth/captcha/image/841c2a2d133511e56ea371e2953640daf52f84b9/ HTTP/1.0" 200
+2026-06-30 20:05:49 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:52402 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:52406 - "GET /core/auth/captcha/image/4c9e627c5e5c1a07ed5f144744aa390140f267ba/ HTTP/1.1" 200
+2026-06-30 20:05:49 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:52410 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:05:49 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:52414 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:05:49 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:52420 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:05:49 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:52426 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:52440 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:52448 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:52458 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:52470 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:52482 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:52494 - "GET /core/jsi18n/ HTTP/1.1" 200
+gins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:52498 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:52524 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:52510 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:52528 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:52540 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:52554 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:05:50 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:52570 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 20:05:51 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:52582 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 20:05:52 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:05:52 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:52584 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:05:52 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+" 404
+172.18.0.1:52594 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+3.2.min.js
+172.18.0.1:52610 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:05:52 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:52614 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:52626 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:05:53 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:52638 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.7:45956 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:06:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:54898 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:07:04 +0800] [22] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 20:07:04 +0800] [22] [INFO] Listening at: http://0.0.0.0:8080 (22)
+[2026-06-30 20:07:04 +0800] [22] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 20:07:04 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 20:07:04 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-06-30 20:07:05 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-06-30 20:07:05 +0800] [29] [INFO] Booting worker with pid: 29
+2026-06-30 20:07:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:07:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:07:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe vault change
+2026-06-30 20:07:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:07:31 [INFO] Start subscribe for stop job execution
+2026-06-30 20:07:31 [DEBU] Start subscribe setting change
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe vault change
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe vault change
+2026-06-30 20:07:31 [INFO] Start subscribe for stop job execution
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe setting change
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe vault change
+2026-06-30 20:07:31 [INFO] Start subscribe for stop job execution
+[2026-06-30 20:07:31 +0800] [29] [INFO] Started server process [29]
+[2026-06-30 20:07:31 +0800] [29] [INFO] Waiting for application startup.
+[2026-06-30 20:07:31 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:07:31 +0800] [29] [INFO] Application startup complete.
+2026-06-30 20:07:31 [DEBU] Start subscribe setting change
+2026-06-30 20:07:31 [INFO] Start subscribe for stop job execution
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:07:31 [DEBU] Start subscribe setting change
+[2026-06-30 20:07:31 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 20:07:31 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 20:07:31 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:07:31 +0800] [26] [INFO] Application startup complete.
+2026-06-30 20:07:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 20:07:32 +0800] [28] [INFO] Started server process [28]
+[2026-06-30 20:07:32 +0800] [28] [INFO] Waiting for application startup.
+[2026-06-30 20:07:32 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:07:32 +0800] [28] [INFO] Application startup complete.
+[2026-06-30 20:07:32 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 20:07:32 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 20:07:32 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:07:32 +0800] [27] [INFO] Application startup complete.
+[2026-06-30 20:07:32 +0800] [29] [INFO] ('172.18.0.4', 57944) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:07:32 +0800] [29] [INFO] connection open
+[2026-06-30 20:07:32 +0800] [29] [INFO] ('172.18.0.9', 51642) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:07:32 +0800] [29] [INFO] connection open
+[2026-06-30 20:07:32 +0800] [29] [INFO] ('172.18.0.5', 34178) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:07:32 +0800] [29] [INFO] connection open
+2026-06-30 20:07:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60048 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.4:48682 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:37440 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.1:57894 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 20:07:37 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:33480 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+172.18.0.7:51610 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:07:37 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:33490 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 20:07:37 [WARN] Not Found: /static/css/style.css
+172.18.0.1:33492 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 20:07:38 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:33506 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 20:07:38 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:33534 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:07:38 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:33546 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.7:51620 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.1:33554 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:07:41 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:33466 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 20:07:42 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:33576 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 20:07:42 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:33598 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 20:07:42 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:33522 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:07:42 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 20:07:42 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:33560 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 20:07:42 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:33594 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:33588 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 20:07:42 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:51214 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:07:42 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 20:07:42 [WARN] Not Found: /static/css/jumpserver.css
+Menu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:33608 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:33618 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:33630 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:33632 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:33638 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:33650 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:33666 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:33682 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:07:43 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:33686 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:33698 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:33712 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:07:44 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:33714 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:54802 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:54804 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+sMenu.3.0.7.js
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/jumpserver.js
+isMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:54832 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:54820 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:54836 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:54850 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:54858 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:54860 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:07:44 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:54876 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+min.js
+172.18.0.1:54864 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:54886 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 20:08:01 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x748e45a5e710>
+2026-06-30 20:08:01 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x748e45a5f250>
+2026-06-30 20:08:01 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x748e45a5f4d0>
+2026-06-30 20:08:01 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x748e463f0190>
+2026-06-30 20:08:01 [DEBU] User login failed: admin
+Instance added to cache. Cache size: 1
+172.18.0.7:60274 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:60278 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:60304 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:60292 - "GET /core/auth/captcha/image/6d1f77edd69d4184eece2d7d850d6ec8dd474220/ HTTP/1.0" 200
+172.18.0.7:51810 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:51812 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:51818 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:51824 - "GET /core/auth/captcha/image/189fa003ea9c9d794df9864cab9fdebc3944e7eb/ HTTP/1.0" 200
+172.18.0.7:51836 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:51852 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:51862 - "GET /core/auth/captcha/image/49e263db8674f91cf477c573140a8bacd4d2c30c/ HTTP/1.0" 200
+172.18.0.7:51870 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:52006 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.7:52018 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 20:08:18 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:52030 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:52042 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 20:08:18 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.7:52048 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+172.18.0.7:52058 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:52080 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:52086 - "GET /core/auth/captcha/image/bde0749406d834588be69f74e2307ca58ecd5f3c/ HTTP/1.0" 200
+2026-06-30 20:08:19 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:52074 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.1:55630 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:55634 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 20:08:20 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55648 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 20:08:20 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:55664 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 20:08:21 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:55676 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:55692 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 20:08:21 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 20:08:21 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:55700 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 20:08:21 [WARN] Not Found: /static/css/bootstrap.min.css
+04
+172.18.0.1:55716 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 20:08:21 [WARN] Not Found: /static/css/style.css
+2026-06-30 20:08:21 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:55730 - "GET /static/css/style.css HTTP/1.1" 404
+e.css
+172.18.0.1:55740 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:55752 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:08:22 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:55768 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:08:22 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55784 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:55788 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:55804 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/jumpserver.js
+04
+172.18.0.1:55824 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:08:22 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:55828 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+
+172.18.0.1:55834 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:55850 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:55864 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 20:08:22 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:55900 - "GET /static/js/inspinia.js HTTP/1.1" 404
+tr/toastr.min.js
+172.18.0.1:55876 - "GET /static/img/logo.png HTTP/1.1" 404
+172.18.0.1:55894 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:55884 - "GET /core/auth/captcha/image/03fb53a7191261b661d12ad72e43adeed1bc062f/ HTTP/1.1" 200
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:55908 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:08:22 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:55916 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:08:23 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:55932 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:08:23 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:55956 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:08:23 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 20:08:23 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:55968 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:08:23 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:55972 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 20:08:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:40636 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:57258 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:08:28 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:52476 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+6-30 20:08:28 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:52498 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:52466 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:52484 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 20:08:28 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 20:08:28 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:52528 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:52512 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:52540 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:52550 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:52556 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:52562 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:52578 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:52590 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:52594 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:08:29 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:52600 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 20:08:42 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:46458 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:47234 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:44858 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:09:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:57396 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:09:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:39868 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:44938 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:60930 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:10:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:52504 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:10:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:44010 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:60374 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:55586 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:11:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:34772 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:11:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:54962 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:12:41 +0800] [20] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 20:12:41 +0800] [20] [INFO] Listening at: http://0.0.0.0:8080 (20)
+[2026-06-30 20:12:41 +0800] [20] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 20:12:41 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 20:12:41 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-06-30 20:12:41 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-06-30 20:12:41 +0800] [29] [INFO] Booting worker with pid: 29
+2026-06-30 20:13:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:13:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:13:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe vault change
+2026-06-30 20:13:01 [DEBU] Start subscribe vault change
+2026-06-30 20:13:01 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:13:01 [INFO] Start subscribe for stop job execution
+2026-06-30 20:13:01 [INFO] Start subscribe for stop job execution
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe setting change
+2026-06-30 20:13:01 [DEBU] Start subscribe setting change
+2026-06-30 20:13:01 [DEBU] Start subscribe vault change
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [INFO] Start subscribe for stop job execution
+2026-06-30 20:13:01 [DEBU] Start subscribe setting change
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:13:01 [DEBU] Start subscribe vault change
+2026-06-30 20:13:01 [INFO] Start subscribe for stop job execution
+2026-06-30 20:13:01 [DEBU] Start subscribe setting change
+2026-06-30 20:13:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 20:13:01 +0800] [29] [INFO] Started server process [29]
+[2026-06-30 20:13:01 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 20:13:01 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 20:13:01 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 20:13:01 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 20:13:01 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:13:01 +0800] [29] [INFO] Waiting for application startup.
+[2026-06-30 20:13:01 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:13:01 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:13:01 +0800] [27] [INFO] Application startup complete.
+[2026-06-30 20:13:01 +0800] [29] [INFO] Application startup complete.
+[2026-06-30 20:13:01 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 20:13:01 +0800] [28] [INFO] Started server process [28]
+[2026-06-30 20:13:01 +0800] [28] [INFO] Waiting for application startup.
+[2026-06-30 20:13:01 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 20:13:01 +0800] [28] [INFO] Application startup complete.
+[2026-06-30 20:13:01 +0800] [29] [INFO] ('172.18.0.5', 58724) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:13:01 +0800] [29] [INFO] connection open
+[2026-06-30 20:13:01 +0800] [29] [INFO] ('172.18.0.9', 50544) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:13:01 +0800] [29] [INFO] connection open
+[2026-06-30 20:13:02 +0800] [29] [INFO] ('172.18.0.4', 38388) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 20:13:02 +0800] [29] [INFO] connection open
+2026-06-30 20:13:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:50536 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:46734 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:13:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:44610 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:39664 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.7:39668 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.7:52976 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 20:13:45 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:52980 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:52992 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 20:13:46 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:53000 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:53002 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 20:13:48 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:53034 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+172.18.0.7:53018 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+2026-06-30 20:13:49 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.7:53036 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-06-30 20:13:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.7:53054 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.7:53040 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.1:52746 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.7:53058 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:13:53 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:52752 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:52758 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 20:13:53 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52766 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 20:13:54 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:52780 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:52794 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:52804 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:52816 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:52826 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/style.css
+172.18.0.1:52834 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:47298 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:47304 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:47306 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:13:54 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:47314 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+sion/
+172.18.0.1:47312 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:47324 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:13:54 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:47332 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:47340 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 20:13:55 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:47352 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:47378 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:47380 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 20:13:55 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:47404 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:47392 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:47414 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:47422 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 20:13:55 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 20:13:55 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:47432 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:47446 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+172.18.0.1:47442 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:13:56 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:47460 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 20:13:56 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 20:13:56 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:47474 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:47484 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.7:43860 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:14:05 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:34516 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 20:14:05 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:34548 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:34532 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 20:14:05 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:14:05 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:34552 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:34556 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 20:14:05 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:34564 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:34574 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:34586 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:34598 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+HTTP/1.1" 404
+172.18.0.1:34612 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:34618 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 20:14:06 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:34626 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 20:14:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:34134 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:14:08 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7fa182cc9950>
+2026-06-30 20:14:08 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7fa182cca710>
+2026-06-30 20:14:08 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x7fa182ccb510>
+2026-06-30 20:14:08 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x7fa182cc8a90>
+2026-06-30 20:14:08 [DEBU] User login failed: admin
+Instance added to cache. Cache size: 1
+172.18.0.7:47608 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:47624 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:47634 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:14:14 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7fa183985e90>
+2026-06-30 20:14:14 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7fa182b73ad0>
+2026-06-30 20:14:14 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x7fa182b76250>
+2026-06-30 20:14:14 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x7fa182b4a810>
+2026-06-30 20:14:14 [DEBU] User login failed: admin
+Instance added to cache. Cache size: 1
+172.18.0.7:47640 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.7:47652 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:41848 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:14:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:52920 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:59324 - "GET /api/health/ HTTP/1.0" 200
+2026-06-30 20:14:48 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7fa182b243d0>
+2026-06-30 20:14:48 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7fa182b24590>
+172.18.0.7:59336 - "POST /core/auth/login/?next=/ui/ HTTP/1.0" 302
+172.18.0.7:59338 - "GET /core/common/flash-message/?code=LjuGIZOIB98m HTTP/1.0" 200
+172.18.0.7:59342 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:59358 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:59364 - "GET /core/auth/password/reset/?token=Pd2gKvpGNZS7mWYr5ddPHXCI2SePCPmQBrPfk8SY0vAxnWXtkI HTTP/1.0" 200
+172.18.0.7:59378 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:59392 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:15:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:38264 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:15:15 [DEBU] Create activity log for celery task: 6590ae40-abc5-4507-957a-3a0abadf11d6
+172.18.0.7:44842 - "POST /core/auth/password/reset/?token=Pd2gKvpGNZS7mWYr5ddPHXCI2SePCPmQBrPfk8SY0vAxnWXtkI HTTP/1.0" 302
+172.18.0.7:54996 - "GET /core/common/flash-message/?code=Zd5N0bs3p69f HTTP/1.0" 200
+172.18.0.7:55006 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:55018 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:55026 - "GET /core/auth/login/ HTTP/1.0" 200
+172.18.0.7:55036 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:55042 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 20:15:23 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7fa1819ff0d0>
+2026-06-30 20:15:23 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7fa1819fefd0>
+2026-06-30 20:15:24 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:15:24 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:15:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:50814 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:55058 - "POST /core/auth/login/ HTTP/1.0" 302
+2026-06-30 20:15:24 [DEBU] User login success: admin
+172.18.0.7:55066 - "GET /core/auth/login/guard/ HTTP/1.0" 302
+172.18.0.7:49216 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.7:49228 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 200
+172.18.0.7:49238 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+172.18.0.7:49254 - "GET /api/v1/users/profile/ HTTP/1.0" 200
+172.18.0.7:49256 - "GET /api/v1/users/profile/permissions/ HTTP/1.0" 200
+172.18.0.7:49268 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.7:49276 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.7:49288 - "GET /api/v1/orgs/orgs/current/ HTTP/1.0" 200
+[2026-06-30 20:15:26 +0800] [29] [INFO] ('172.18.0.7', 49310) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-06-30 20:15:26 +0800] [29] [INFO] connection open
+2026-06-30 20:15:26 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+172.18.0.7:49318 - "GET /api/v1/users/profile/?id= HTTP/1.0" 200
+172.18.0.7:49326 - "OPTIONS /api/v1/users/profile/ HTTP/1.0" 200
+172.18.0.7:49336 - "GET /api/v1/common/countries/ HTTP/1.0" 200
+172.18.0.7:49296 - "GET /api/v1/assets/categories/?limit=1000 HTTP/1.0" 200
+172.18.0.7:49338 - "GET /api/v1/users/profile/?id= HTTP/1.0" 200
+172.18.0.7:49350 - "GET /api/v1/common/countries/ HTTP/1.0" 200
+172.18.0.7:45268 - "PATCH /api/v1/users/profile/ HTTP/1.0" 200
+172.18.0.7:45282 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.7:45298 - "GET /api/v1/orgs/orgs/current/ HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:15:54 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+172.18.0.7:45316 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:15:54 [DEBU] Attempt acquire lock: lock_id=nFTfjPRytXn+LQiCIYXK3BaZ lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:45344 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.0" 200
+172.18.0.7:45382 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+ache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-06-30 20:15:54 [DEBU] Acquired lock: ok=True lock_id=nFTfjPRytXn+LQiCIYXK3BaZ lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:15:54 [DEBU] Attempt acquire lock: lock_id=KFc71jaYneZK8yeXaveN7HiJ lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:15:54 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] Start init cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=users_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:45328 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.019782543182373047 field=users_amount value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+172.18.0.7:45384 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=assets_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.01952385902404785 field=assets_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=new_users_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField User.date_joined received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.01475381851196289 field=new_users_amount_this_week value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=new_assets_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Asset.date_created received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.008298158645629883 field=new_assets_amount_this_week value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=nodes_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+172.18.0.7:45388 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:45402 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.11119699478149414 field=nodes_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=zones_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.03969001770019531 field=zones_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=groups_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.004258871078491211 field=groups_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=accounts_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+172.18.0.7:47120 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.0" 200
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.0363924503326416 field=accounts_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=asset_perms_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.044836997985839844 field=asset_perms_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=total_count_online_users key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.0032629966735839844 field=total_count_online_users value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=total_count_online_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.002219676971435547 field=total_count_online_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=total_count_today_active_assets key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-30 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.006317853927612305 field=total_count_today_active_assets value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Start compute cache field: field=total_count_today_failed_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] End compute cache field: cost=0.00475311279296875 field=total_count_today_failed_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Set data to cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={'users_amount': 1, 'assets_amount': 0, 'new_users_amount_this_week': 1, 'new_assets_amount_this_week': 0, 'nodes_amount': 0, 'zones_amount': 0, 'groups_amount': 0, 'accounts_amount': 0, 'asset_perms_amount': 0, 'total_count_online_users': 0, 'total_count_online_sessions': 0, 'total_count_today_active_assets': 0, 'total_count_today_failed_sessions': 0}
+2026-06-30 20:15:54 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:15:54 [DEBU] End init cache: cost=0.37386155128479004 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:15:54 [DEBU] Released lock: lock_id=nFTfjPRytXn+LQiCIYXK3BaZ lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:15:54 [DEBU] Acquired lock: ok=True lock_id=KFc71jaYneZK8yeXaveN7HiJ lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-30 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:15:54 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:15:54 [DEBU] Released lock: lock_id=KFc71jaYneZK8yeXaveN7HiJ lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+172.18.0.7:45366 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.0" 200
+172.18.0.7:45358 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.0" 200
+172.18.0.7:45302 - "GET /api/v1/assets/categories/?limit=1000 HTTP/1.0" 200
+172.18.0.7:47122 - "GET /api/v1/common/countries/ HTTP/1.0" 200
+172.18.0.7:43770 - "GET /api/v1/users/profile/ HTTP/1.0" 200
+172.18.0.7:43776 - "GET /api/v1/users/profile/password/?id= HTTP/1.0" 200
+172.18.0.7:43778 - "OPTIONS /api/v1/users/profile/password/ HTTP/1.0" 200
+172.18.0.7:43788 - "OPTIONS /api/v1/authentication/access-keys/?draw=1&display=1 HTTP/1.0" 200
+172.18.0.7:43794 - "OPTIONS /api/v1/authentication/access-keys/?display=1 HTTP/1.0" 200
+2026-06-30 20:16:06 [DEBU] Api require perms: {'authentication.view_accesskey'}, result: True
+172.18.0.7:43800 - "GET /api/v1/authentication/access-keys/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+172.18.0.7:43802 - "OPTIONS /api/v1/authentication/connection-token/?draw=1&display=1 HTTP/1.0" 200
+172.18.0.7:43818 - "OPTIONS /api/v1/authentication/connection-token/?display=1 HTTP/1.0" 200
+2026-06-30 20:16:07 [DEBU] Api require perms: {'authentication.view_accesskey'}, result: True
+172.18.0.7:43820 - "GET /api/v1/authentication/access-keys/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+2026-06-30 20:16:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:40386 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:43834 - "OPTIONS /api/v1/authentication/access-tokens/?display=1 HTTP/1.0" 200
+2026-06-30 20:16:07 [DEBU] Api require perms: ['authentication.view_connectiontoken'], result: True
+172.18.0.7:43838 - "GET /api/v1/authentication/connection-token/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+172.18.0.7:43844 - "GET /api/v1/users/preference/?category=luna HTTP/1.0" 200
+2026-06-30 20:16:07 [DEBU] Api require perms: {'oauth2_provider.view_accesstoken'}, result: True
+172.18.0.7:43854 - "OPTIONS /api/v1/users/preference/?category=lina HTTP/1.0" 200
+172.18.0.7:43852 - "GET /api/v1/authentication/access-tokens/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+172.18.0.7:43860 - "GET /api/v1/users/preference/?category=lina&id= HTTP/1.0" 200
+172.18.0.7:43876 - "GET /api/v1/common/countries/ HTTP/1.0" 200
+2026-06-30 20:16:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:52364 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:57406 - "POST /core/auth/login/?next=/ui/ HTTP/1.1" 302
+172.18.0.1:57418 - "GET /core/auth/login/?csrf_failure=1&admin=1 HTTP/1.1" 302
+172.18.0.1:57446 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:57430 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:57452 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:57454 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:57464 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:57472 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:57474 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:57490 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+172.18.0.1:57502 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:57506 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-06-30 20:16:31 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:57514 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:57530 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:16:32 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:57546 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:57520 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:57582 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+[2026-06-30 20:16:32 +0800] [28] [INFO] ('172.18.0.1', 57568) - "WebSocket /ws/notifications/site-msg/" [accepted]
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-30 00:00:00) while time zone support is active.
+  warnings.warn(
+[2026-06-30 20:16:32 +0800] [28] [INFO] connection open
+2026-06-30 20:16:32 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+172.18.0.1:57554 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:57592 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:57598 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:57636 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:57612 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+172.18.0.1:57624 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:37766 - "OPTIONS /api/v1/users/users/?draw=1&display=1 HTTP/1.1" 200
+172.18.0.1:37770 - "OPTIONS /api/v1/users/users/?display=1 HTTP/1.1" 200
+2026-06-30 20:16:39 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.1:37780 - "GET /api/v1/users/users/?offset=0&limit=15&display=1&draw=1 HTTP/1.1" 200
+2026-06-30 20:16:42 [DEBU] Api require perms: {'rbac.view_role'}, result: True
+172.18.0.1:37794 - "GET /api/v1/rbac/roles/ HTTP/1.1" 200
+2026-06-30 20:16:42 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:16:42 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.1:37798 - "GET /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/?id=4926d10b-1b63-4482-91e3-ba76b3a24c96 HTTP/1.1" 200
+172.18.0.1:37812 - "OPTIONS /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/ HTTP/1.1" 200
+2026-06-30 20:16:43 [DEBU] Api require perms: {'users.view_usergroup'}, result: True
+172.18.0.1:37822 - "GET /api/v1/users/groups/?search=&offset=0&limit=10 HTTP/1.1" 200
+2026-06-30 20:16:44 [WARN] Forbidden: /api/v1/common/resources/cache/
+172.18.0.1:37832 - "POST /api/v1/common/resources/cache/ HTTP/1.1" 403
+2026-06-30 20:16:57 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.1:33670 - "GET /api/v1/users/users/?email=MRez321%40gmail.com HTTP/1.1" 200
+2026-06-30 20:16:57 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.1:33686 - "GET /api/v1/users/users/?name=Administrator HTTP/1.1" 200
+2026-06-30 20:16:57 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.1:33696 - "GET /api/v1/users/users/?username=admin HTTP/1.1" 200
+2026-06-30 20:16:57 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.1:33706 - "GET /api/v1/users/users/?email=MRez321%40gmail.com HTTP/1.1" 200
+2026-06-30 20:16:57 [WARN] Forbidden: /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/
+172.18.0.1:33710 - "PUT /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/ HTTP/1.1" 403
+172.18.0.7:38208 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.7:38222 - "GET /api/v1/orgs/orgs/current/ HTTP/1.0" 200
+172.18.0.7:38234 - "GET /api/v1/assets/categories/?limit=1000 HTTP/1.0" 200
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:38238 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+: True
+2026-06-30 20:17:06 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:38250 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+172.18.0.7:38262 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.0" 200
+2026-06-30 20:17:06 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.7:38254 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.0" 200
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-30 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:38280 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+172.18.0.7:38256 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.0" 200
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:38284 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+172.18.0.7:38274 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+2026-06-30 20:17:06 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:38288 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+2026-06-30 20:17:07 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:38290 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.0" 200
+2026-06-30 20:17:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:38200 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:38294 - "OPTIONS /api/v1/users/users/?draw=1&display=1 HTTP/1.0" 200
+172.18.0.7:38302 - "OPTIONS /api/v1/users/users/?display=1 HTTP/1.0" 200
+2026-06-30 20:17:08 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:38306 - "GET /api/v1/users/users/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+2026-06-30 20:17:10 [DEBU] Api require perms: {'rbac.view_role'}, result: True
+172.18.0.7:38308 - "GET /api/v1/rbac/roles/ HTTP/1.0" 200
+2026-06-30 20:17:10 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:17:10 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:38310 - "GET /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/?id=4926d10b-1b63-4482-91e3-ba76b3a24c96 HTTP/1.0" 200
+172.18.0.7:38322 - "OPTIONS /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/ HTTP/1.0" 200
+172.18.0.7:38332 - "GET /api/v1/common/countries/ HTTP/1.0" 200
+2026-06-30 20:17:11 [DEBU] Api require perms: {'users.view_usergroup'}, result: True
+172.18.0.7:38338 - "POST /api/v1/common/resources/cache/ HTTP/1.0" 200
+172.18.0.7:38330 - "GET /api/v1/users/groups/?search=&offset=0&limit=10 HTTP/1.0" 200
+2026-06-30 20:17:11 [DEBU] Api require perms: {'rbac.view_systemrole'}, result: True
+172.18.0.7:38348 - "GET /api/v1/rbac/system-roles/?id!=00000000-0000-0000-0000-000000000004&search=&spm=9c1ab901-6927-441d-9079-3fe5076d5564&offset=0&limit=10 HTTP/1.0" 200
+2026-06-30 20:17:11 [DEBU] Api require perms: {'rbac.view_systemrole'}, result: True
+172.18.0.7:38354 - "GET /api/v1/rbac/system-roles/?id!=00000000-0000-0000-0000-000000000004&search=&offset=0&limit=10 HTTP/1.0" 200
+2026-06-30 20:17:22 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:53424 - "GET /api/v1/users/users/?email=MRez321%40gmail.com HTTP/1.0" 200
+2026-06-30 20:17:22 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:17:22 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:17:22 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:53466 - "GET /api/v1/users/users/?email=MRez321%40gmail.com HTTP/1.0" 200
+172.18.0.7:53440 - "GET /api/v1/users/users/?username=admin HTTP/1.0" 200
+172.18.0.7:53456 - "GET /api/v1/users/users/?name=Administrator HTTP/1.0" 200
+2026-06-30 20:17:22 [DEBU] Api require perms: {'users.change_user'}, result: True
+2026-06-30 20:17:22 [DEBU] Api require perms: {'users.change_user'}, result: True
+2026-06-30 20:17:22 [DEBU] Disallow update self fields: {'system_roles', 'org_roles', 'is_active'}
+172.18.0.7:53476 - "PUT /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/ HTTP/1.0" 200
+2026-06-30 20:17:23 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:53482 - "GET /api/v1/users/users/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+2026-06-30 20:17:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:47798 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:17:28 [DEBU] Api require perms: {'rbac.view_role'}, result: True
+172.18.0.7:38156 - "GET /api/v1/rbac/roles/ HTTP/1.0" 200
+2026-06-30 20:17:28 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:17:28 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:38162 - "GET /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/?id=4926d10b-1b63-4482-91e3-ba76b3a24c96 HTTP/1.0" 200
+2026-06-30 20:17:28 [DEBU] Api require perms: {'users.view_usergroup'}, result: True
+172.18.0.7:38182 - "POST /api/v1/common/resources/cache/ HTTP/1.0" 200
+172.18.0.7:38170 - "GET /api/v1/users/groups/?search=&offset=0&limit=10 HTTP/1.0" 200
+172.18.0.7:38196 - "GET /api/v1/common/countries/ HTTP/1.0" 200
+2026-06-30 20:17:28 [DEBU] Api require perms: {'rbac.view_systemrole'}, result: True
+172.18.0.7:38198 - "GET /api/v1/rbac/system-roles/?id!=00000000-0000-0000-0000-000000000004&search=&spm=c9dc2c0d-3b63-4d14-aa8f-d27a4d58eb53&offset=0&limit=10 HTTP/1.0" 200
+2026-06-30 20:17:28 [DEBU] Api require perms: {'rbac.view_systemrole'}, result: True
+172.18.0.7:38212 - "GET /api/v1/rbac/system-roles/?id!=00000000-0000-0000-0000-000000000004&search=&offset=0&limit=10 HTTP/1.0" 200
+2026-06-30 20:17:33 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:38220 - "GET /api/v1/users/users/?name=MRez HTTP/1.0" 200
+2026-06-30 20:17:33 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:17:33 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-06-30 20:17:33 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:38224 - "GET /api/v1/users/users/?name=MRez HTTP/1.0" 200
+172.18.0.7:38240 - "GET /api/v1/users/users/?username=admin HTTP/1.0" 200
+172.18.0.7:38242 - "GET /api/v1/users/users/?email=MRez321%40gmail.com HTTP/1.0" 200
+2026-06-30 20:17:33 [DEBU] Api require perms: {'users.change_user'}, result: True
+2026-06-30 20:17:33 [DEBU] Api require perms: {'users.change_user'}, result: True
+2026-06-30 20:17:33 [DEBU] Disallow update self fields: {'system_roles', 'org_roles', 'is_active'}
+172.18.0.7:38246 - "PUT /api/v1/users/users/4926d10b-1b63-4482-91e3-ba76b3a24c96/ HTTP/1.0" 200
+2026-06-30 20:17:34 [DEBU] Api require perms: {'users.view_user'}, result: True
+172.18.0.7:38264 - "GET /api/v1/users/users/?offset=0&limit=15&display=1&draw=1 HTTP/1.0" 200
+2026-06-30 20:18:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:41966 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:18:20 +0800] [28] [INFO] ('172.18.0.7', 35476) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-06-30 20:18:20 +0800] [28] [INFO] connection open
+2026-06-30 20:18:20 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+172.18.0.7:35486 - "GET /api/v1/settings/setting/?category=basic&id= HTTP/1.0" 200
+172.18.0.7:35492 - "OPTIONS /api/v1/settings/setting/?category=basic HTTP/1.0" 200
+2026-06-30 20:18:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:50566 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.7:59700 - "GET /api/v1/settings/setting/?category=security_auth&id= HTTP/1.0" 200
+172.18.0.7:59710 - "OPTIONS /api/v1/settings/setting/?category=security_auth HTTP/1.0" 200
+172.18.0.7:59712 - "GET /api/v1/settings/setting/?category=security_session&id= HTTP/1.0" 200
+172.18.0.7:59728 - "OPTIONS /api/v1/settings/setting/?category=security_session HTTP/1.0" 200
+172.18.0.7:48352 - "PATCH /api/v1/settings/setting/?category=security_session HTTP/1.0" 200
+2026-06-30 20:18:42 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:53040 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+172.18.0.1:53042 - "GET /api/v1/settings/setting/?category=basic&id= HTTP/1.1" 200
+[2026-06-30 20:18:42 +0800] [27] [INFO] ('172.18.0.1', 53056) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-06-30 20:18:42 +0800] [27] [INFO] connection open
+2026-06-30 20:18:42 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+172.18.0.1:53066 - "OPTIONS /api/v1/settings/setting/?category=basic HTTP/1.1" 200
+172.18.0.1:53072 - "GET /api/v1/settings/setting/?category=security_auth&id= HTTP/1.1" 200
+172.18.0.1:53080 - "OPTIONS /api/v1/settings/setting/?category=security_auth HTTP/1.1" 200
+172.18.0.1:58568 - "GET /api/v1/settings/setting/?category=security_session&id= HTTP/1.1" 200
+172.18.0.1:58576 - "OPTIONS /api/v1/settings/setting/?category=security_session HTTP/1.1" 200
+2026-06-30 20:18:47 [WARN] Forbidden: /api/v1/settings/setting/
+172.18.0.1:58588 - "PATCH /api/v1/settings/setting/?category=security_session HTTP/1.1" 403
+172.18.0.7:60660 - "PATCH /api/v1/settings/setting/?category=security_session HTTP/1.0" 200
+2026-06-30 20:19:07 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:19:07 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:19:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:49618 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:19:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:52912 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:20:03 +0800] [27] [INFO] connection closed
+2026-06-30 20:20:03 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182d3c3d0>
+[2026-06-30 20:20:03 +0800] [28] [INFO] connection closed
+2026-06-30 20:20:03 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c32c650>
+2026-06-30 20:20:03 [DEBU] Subscription unsubscribed
+2026-06-30 20:20:03 [DEBU] Subscription unsubscribed
+2026-06-30 20:20:03 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182d3c3d0>
+2026-06-30 20:20:03 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c32c650>
+2026-06-30 20:20:03 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35942 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:35958 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 20:20:07 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:35974 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:35994 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:35980 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 20:20:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:39972 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:36006 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:36008 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+2026-06-30 20:20:09 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:36018 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+172.18.0.1:36032 - "GET /api/v1/settings/setting/?category=security_auth&id= HTTP/1.1" 200
+[2026-06-30 20:20:09 +0800] [27] [INFO] ('172.18.0.1', 36056) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-06-30 20:20:09 +0800] [27] [INFO] connection open
+tegory=security_auth HTTP/1.1" 200
+2026-06-30 20:20:09 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+2026-06-30 20:20:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:34286 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:49564 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:49574 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-06-30 20:20:45 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:49590 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-06-30 20:20:45 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:45 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49600 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:20:45 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:45 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:45 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:45 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+172.18.0.1:49592 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:20:45 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-06-30 20:20:45 [DEBU] Attempt acquire lock: lock_id=4ETEgl+YC1KHxRzq2j5AnkTA lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:20:45 [DEBU] Attempt acquire lock: lock_id=mY7EKW4wONXhP9b3Rl4bL8In lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:20:45 [DEBU] Acquired lock: ok=True lock_id=4ETEgl+YC1KHxRzq2j5AnkTA lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:20:45 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-06-30 20:20:45 [DEBU] Start init cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:45 [DEBU] Start compute cache field: field=users_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:45 [DEBU] End compute cache field: cost=0.016181230545043945 field=users_amount value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:45 [DEBU] Start compute cache field: field=assets_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:45 [DEBU] End compute cache field: cost=0.0029554367065429688 field=assets_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:45 [DEBU] Start compute cache field: field=new_users_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+[2026-06-30 20:20:45 +0800] [26] [INFO] ('172.18.0.1', 49640) - "WebSocket /ws/notifications/site-msg/" [accepted]
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField User.date_joined received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.012980222702026367 field=new_users_amount_this_week value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=new_assets_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Asset.date_created received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.003847837448120117 field=new_assets_amount_this_week value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=nodes_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.006185293197631836 field=nodes_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=zones_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.004856586456298828 field=zones_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=groups_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.002791881561279297 field=groups_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=accounts_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.010196447372436523 field=accounts_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+[2026-06-30 20:20:46 +0800] [26] [INFO] connection open
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=asset_perms_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.008585214614868164 field=asset_perms_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=total_count_online_users key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.010826826095581055 field=total_count_online_users value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=total_count_online_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.0030052661895751953 field=total_count_online_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=total_count_today_active_assets key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-30 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.010647773742675781 field=total_count_today_active_assets value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Start compute cache field: field=total_count_today_failed_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] End compute cache field: cost=0.002925395965576172 field=total_count_today_failed_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Set data to cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={'users_amount': 1, 'assets_amount': 0, 'new_users_amount_this_week': 1, 'new_assets_amount_this_week': 0, 'nodes_amount': 0, 'zones_amount': 0, 'groups_amount': 0, 'accounts_amount': 0, 'asset_perms_amount': 0, 'total_count_online_users': 0, 'total_count_online_sessions': 0, 'total_count_today_active_assets': 0, 'total_count_today_failed_sessions': 0}
+2026-06-30 20:20:46 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:20:46 [DEBU] End init cache: cost=0.12768316268920898 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-06-30 20:20:46 [DEBU] Released lock: lock_id=4ETEgl+YC1KHxRzq2j5AnkTA lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:20:46 [DEBU] Acquired lock: ok=True lock_id=mY7EKW4wONXhP9b3Rl4bL8In lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-06-30 20:20:46 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:20:46 [DEBU] Released lock: lock_id=mY7EKW4wONXhP9b3Rl4bL8In lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+172.18.0.1:49626 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+172.18.0.1:49612 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-06-30 20:20:46 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49654 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:20:46 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49660 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:20:46 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49670 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-06-30 20:20:46 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49672 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:20:46 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49684 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.7:43532 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.7:43542 - "GET /api/v1/orgs/orgs/current/ HTTP/1.0" 200
+172.18.0.7:43546 - "GET /api/v1/assets/categories/?limit=1000 HTTP/1.0" 200
+[2026-06-30 20:20:47 +0800] [28] [INFO] ('172.18.0.7', 43550) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-06-30 20:20:47 +0800] [28] [INFO] connection open
+2026-06-30 20:20:47 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:47 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:20:47 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.7:43552 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.0" 200
+['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:43584 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+172.18.0.7:43566 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.0" 200
+172.18.0.7:43592 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+172.18.0.7:43582 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.0" 200
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:43594 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:43598 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:43612 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.7:43616 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.0" 200

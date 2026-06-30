@@ -1,0 +1,32 @@
+Option 2: Disable Via Database (Direct Command)
+If the setting persists or you prefer a command-line approach, you can update the database setting directly, similar to how you modified the captcha setting earlier.
+
+bash
+# Enter the container first
+docker exec -it jms_core bash
+
+# Navigate to the app directory and open Django shell
+cd /opt/jumpserver/apps
+python manage.py shell
+At the Python prompt, run:
+
+python
+from settings.models import Setting
+from django.core.cache import cache
+
+# Disable the watermark
+Setting.objects.update_or_create(
+    name='SECURITY_WATERMARK_ENABLED',
+    defaults={'value': 'false', 'category': 'security'}
+)
+print("Watermark disabled.")
+
+# Clear cache to apply immediately
+cache.clear()
+print("Cache cleared.")
+exit()
+After updating the database, restart the container for good measure:
+
+bash
+exit
+docker restart jms_core

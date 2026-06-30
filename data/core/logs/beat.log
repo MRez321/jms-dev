@@ -45257,3 +45257,34 @@ Get beat lock start to run it
 2026-06-30 19:30:07 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
 2026-06-30 19:30:07 [DEBU] Create activity log for celery task: 3d45ed2f-7f8d-4d75-9202-3e5151c73e16
 2026-06-30 19:30:07 Create activity log for celery task: 3d45ed2f-7f8d-4d75-9202-3e5151c73e16
+2026-06-30 19:40:07 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-06-30 19:40:07 [DEBU] Create activity log for celery task: 2c96116a-59f3-4c7e-8a19-009a05fa9fe7
+2026-06-30 19:40:07 Create activity log for celery task: 2c96116a-59f3-4c7e-8a19-009a05fa9fe7
+2026-06-30 19:48:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:48:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:48:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:01 [DEBU] Start subscribe vault change
+2026-06-30 19:48:01 [INFO] Start subscribe for stop job execution
+2026-06-30 19:48:01 [DEBU] Start subscribe setting change
+2026-06-30 19:48:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:48:18 beat: Starting...
+2026-06-30 19:49:19 DatabaseScheduler: Schedule changed.
+2026-06-30 19:57:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:57:56 [DEBU] Start subscribe vault change
+2026-06-30 19:57:56 [INFO] Start subscribe for stop job execution
+2026-06-30 19:57:56 [DEBU] Start subscribe setting change
+2026-06-30 19:57:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:58:17 beat: Starting...
+2026-06-30 19:58:20 DatabaseScheduler: Schedule changed.
+2026-06-30 20:00:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 20:00:10 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 20:00:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:00:10 [DEBU] Start subscribe vault change
+2026-06-30 20:00:10 [INFO] Start subscribe for stop job execution
+2026-06-30 20:00:10 [DEBU] Start subscribe setting change
+2026-06-30 20:00:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 20:00:44 beat: Starting...
+2026-06-30 20:03:44 DatabaseScheduler: Schedule changed.
+2026-06-30 20:07:45 DatabaseScheduler: Schedule changed.

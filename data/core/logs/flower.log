@@ -241,3 +241,327 @@
      'users.tasks.check_user_expired',
      'users.tasks.check_user_expired_periodic']
 [I 260630 17:22:39 mixins:228] Connected to redis://redis:6379/3
+2026-06-30 18:38:55 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+[I 260630 18:38:55 models:227] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire orgs mapping from memory
+[D 260630 18:38:55 common:42] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:38:55 node_assets_mapping:63] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe vault change
+[D 260630 18:38:55 signal_handlers:109] Start subscribe vault change
+2026-06-30 18:38:55 [INFO] Start subscribe for stop job execution
+[I 260630 18:38:55 signal_handlers:169] Start subscribe for stop job execution
+2026-06-30 18:38:55 [DEBU] Start subscribe setting change
+[D 260630 18:38:55 signal_handlers:60] Start subscribe setting change
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:38:55 applet:98] Start subscribe for expire node assets id mapping from memory
+[I 260630 18:39:01 command:168] Visit me at http://0.0.0.0:5555//core/flower/
+[I 260630 18:39:01 command:176] Broker: redis://redis:6379/3
+[I 260630 18:39:01 command:177] Registered tasks: 
+    ['accounts.tasks.automation.clean_change_secret_and_push_record_period',
+     'accounts.tasks.automation.execute_account_automation_task',
+     'accounts.tasks.automation.execute_automation_record_task',
+     'accounts.tasks.push_account.change_secret_accounts_to_assets_task',
+     'accounts.tasks.push_account.push_accounts_to_assets_task',
+     'accounts.tasks.remove_account.clean_historical_accounts',
+     'accounts.tasks.remove_account.remove_accounts_task',
+     'accounts.tasks.template.template_sync_related_accounts',
+     'accounts.tasks.vault.sync_secret_to_vault',
+     'accounts.tasks.verify_account.verify_accounts_connectivity_task',
+     'assets.tasks.automation.execute_asset_automation_task',
+     'assets.tasks.gather_facts.gather_assets_facts_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_period_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_task',
+     'assets.tasks.ping.test_assets_connectivity_task',
+     'assets.tasks.ping_gateway.test_gateways_connectivity_task',
+     'audits.tasks.clean_audits_log_period',
+     'audits.tasks.upload_ftp_file_to_external_storage',
+     'authentication.tasks.clean_django_sessions',
+     'authentication.tasks.clean_expire_token',
+     'celery.accumulate',
+     'celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'common.tasks.send_mail_async',
+     'common.tasks.send_mail_attachment_async',
+     'common.tasks.upload_backup_to_obj_storage',
+     'common.utils.verify_code.send_sms_async',
+     'notifications.notifications.publish_task',
+     'ops.tasks.check_server_performance_period',
+     'ops.tasks.clean_celery_periodic_tasks',
+     'ops.tasks.clean_job_execution_period',
+     'ops.tasks.clean_up_unexpected_jobs',
+     'ops.tasks.create_or_update_registered_periodic_tasks',
+     'ops.tasks.run_ops_job',
+     'ops.tasks.run_ops_job_execution',
+     'orgs.tasks.refresh_org_cache_task',
+     'perms.tasks.check_asset_permission_expired',
+     'perms.tasks.check_asset_permission_will_expired',
+     'settings.tasks.ldap.import_ldap_ha_user',
+     'settings.tasks.ldap.import_ldap_ha_user_periodic',
+     'settings.tasks.ldap.import_ldap_user',
+     'settings.tasks.ldap.import_ldap_user_periodic',
+     'terminal.tasks.applet_host_generate_accounts',
+     'terminal.tasks.check_command_replay_storage_connectivity',
+     'terminal.tasks.clean_orphan_session',
+     'terminal.tasks.delete_terminal_status_period',
+     'terminal.tasks.run_applet_host_deployment',
+     'terminal.tasks.run_applet_host_deployment_install_applet',
+     'terminal.tasks.run_applet_host_deployment_uninstall_applet',
+     'terminal.tasks.upload_session_replay_file_to_external_storage',
+     'terminal.tasks.upload_session_replay_to_external_storage',
+     'users.signal_handlers.clean_expired_user_session_period',
+     'users.tasks.check_password_expired',
+     'users.tasks.check_password_expired_periodic',
+     'users.tasks.check_unused_users',
+     'users.tasks.check_user_expired',
+     'users.tasks.check_user_expired_periodic']
+[I 260630 18:39:02 mixins:228] Connected to redis://redis:6379/3
+2026-06-30 18:45:02 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+[I 260630 18:45:02 models:227] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:45:02 [DEBU] Start subscribe for expire orgs mapping from memory
+[D 260630 18:45:02 common:42] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:45:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:45:02 node_assets_mapping:63] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:02 [DEBU] Start subscribe vault change
+[D 260630 18:45:02 signal_handlers:109] Start subscribe vault change
+2026-06-30 18:45:02 [INFO] Start subscribe for stop job execution
+[I 260630 18:45:02 signal_handlers:169] Start subscribe for stop job execution
+2026-06-30 18:45:02 [DEBU] Start subscribe setting change
+[D 260630 18:45:02 signal_handlers:60] Start subscribe setting change
+2026-06-30 18:45:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:45:02 applet:98] Start subscribe for expire node assets id mapping from memory
+[I 260630 18:45:04 command:168] Visit me at http://0.0.0.0:5555//core/flower/
+[I 260630 18:45:04 command:176] Broker: redis://redis:6379/3
+[I 260630 18:45:04 command:177] Registered tasks: 
+    ['accounts.tasks.automation.clean_change_secret_and_push_record_period',
+     'accounts.tasks.automation.execute_account_automation_task',
+     'accounts.tasks.automation.execute_automation_record_task',
+     'accounts.tasks.push_account.change_secret_accounts_to_assets_task',
+     'accounts.tasks.push_account.push_accounts_to_assets_task',
+     'accounts.tasks.remove_account.clean_historical_accounts',
+     'accounts.tasks.remove_account.remove_accounts_task',
+     'accounts.tasks.template.template_sync_related_accounts',
+     'accounts.tasks.vault.sync_secret_to_vault',
+     'accounts.tasks.verify_account.verify_accounts_connectivity_task',
+     'assets.tasks.automation.execute_asset_automation_task',
+     'assets.tasks.gather_facts.gather_assets_facts_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_period_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_task',
+     'assets.tasks.ping.test_assets_connectivity_task',
+     'assets.tasks.ping_gateway.test_gateways_connectivity_task',
+     'audits.tasks.clean_audits_log_period',
+     'audits.tasks.upload_ftp_file_to_external_storage',
+     'authentication.tasks.clean_django_sessions',
+     'authentication.tasks.clean_expire_token',
+     'celery.accumulate',
+     'celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'common.tasks.send_mail_async',
+     'common.tasks.send_mail_attachment_async',
+     'common.tasks.upload_backup_to_obj_storage',
+     'common.utils.verify_code.send_sms_async',
+     'notifications.notifications.publish_task',
+     'ops.tasks.check_server_performance_period',
+     'ops.tasks.clean_celery_periodic_tasks',
+     'ops.tasks.clean_job_execution_period',
+     'ops.tasks.clean_up_unexpected_jobs',
+     'ops.tasks.create_or_update_registered_periodic_tasks',
+     'ops.tasks.run_ops_job',
+     'ops.tasks.run_ops_job_execution',
+     'orgs.tasks.refresh_org_cache_task',
+     'perms.tasks.check_asset_permission_expired',
+     'perms.tasks.check_asset_permission_will_expired',
+     'settings.tasks.ldap.import_ldap_ha_user',
+     'settings.tasks.ldap.import_ldap_ha_user_periodic',
+     'settings.tasks.ldap.import_ldap_user',
+     'settings.tasks.ldap.import_ldap_user_periodic',
+     'terminal.tasks.applet_host_generate_accounts',
+     'terminal.tasks.check_command_replay_storage_connectivity',
+     'terminal.tasks.clean_orphan_session',
+     'terminal.tasks.delete_terminal_status_period',
+     'terminal.tasks.run_applet_host_deployment',
+     'terminal.tasks.run_applet_host_deployment_install_applet',
+     'terminal.tasks.run_applet_host_deployment_uninstall_applet',
+     'terminal.tasks.upload_session_replay_file_to_external_storage',
+     'terminal.tasks.upload_session_replay_to_external_storage',
+     'users.signal_handlers.clean_expired_user_session_period',
+     'users.tasks.check_password_expired',
+     'users.tasks.check_password_expired_periodic',
+     'users.tasks.check_unused_users',
+     'users.tasks.check_user_expired',
+     'users.tasks.check_user_expired_periodic']
+[I 260630 18:45:04 mixins:228] Connected to redis://redis:6379/3
+2026-06-30 18:54:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+[I 260630 18:54:25 models:227] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire orgs mapping from memory
+[D 260630 18:54:25 common:42] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:54:25 node_assets_mapping:63] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:25 [DEBU] Start subscribe vault change
+[D 260630 18:54:25 signal_handlers:109] Start subscribe vault change
+2026-06-30 18:54:25 [INFO] Start subscribe for stop job execution
+[I 260630 18:54:25 signal_handlers:169] Start subscribe for stop job execution
+2026-06-30 18:54:25 [DEBU] Start subscribe setting change
+[D 260630 18:54:25 signal_handlers:60] Start subscribe setting change
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:54:25 applet:98] Start subscribe for expire node assets id mapping from memory
+[I 260630 18:54:28 command:168] Visit me at http://0.0.0.0:5555//core/flower/
+[I 260630 18:54:28 command:176] Broker: redis://redis:6379/3
+[I 260630 18:54:28 command:177] Registered tasks: 
+    ['accounts.tasks.automation.clean_change_secret_and_push_record_period',
+     'accounts.tasks.automation.execute_account_automation_task',
+     'accounts.tasks.automation.execute_automation_record_task',
+     'accounts.tasks.push_account.change_secret_accounts_to_assets_task',
+     'accounts.tasks.push_account.push_accounts_to_assets_task',
+     'accounts.tasks.remove_account.clean_historical_accounts',
+     'accounts.tasks.remove_account.remove_accounts_task',
+     'accounts.tasks.template.template_sync_related_accounts',
+     'accounts.tasks.vault.sync_secret_to_vault',
+     'accounts.tasks.verify_account.verify_accounts_connectivity_task',
+     'assets.tasks.automation.execute_asset_automation_task',
+     'assets.tasks.gather_facts.gather_assets_facts_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_period_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_task',
+     'assets.tasks.ping.test_assets_connectivity_task',
+     'assets.tasks.ping_gateway.test_gateways_connectivity_task',
+     'audits.tasks.clean_audits_log_period',
+     'audits.tasks.upload_ftp_file_to_external_storage',
+     'authentication.tasks.clean_django_sessions',
+     'authentication.tasks.clean_expire_token',
+     'celery.accumulate',
+     'celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'common.tasks.send_mail_async',
+     'common.tasks.send_mail_attachment_async',
+     'common.tasks.upload_backup_to_obj_storage',
+     'common.utils.verify_code.send_sms_async',
+     'notifications.notifications.publish_task',
+     'ops.tasks.check_server_performance_period',
+     'ops.tasks.clean_celery_periodic_tasks',
+     'ops.tasks.clean_job_execution_period',
+     'ops.tasks.clean_up_unexpected_jobs',
+     'ops.tasks.create_or_update_registered_periodic_tasks',
+     'ops.tasks.run_ops_job',
+     'ops.tasks.run_ops_job_execution',
+     'orgs.tasks.refresh_org_cache_task',
+     'perms.tasks.check_asset_permission_expired',
+     'perms.tasks.check_asset_permission_will_expired',
+     'settings.tasks.ldap.import_ldap_ha_user',
+     'settings.tasks.ldap.import_ldap_ha_user_periodic',
+     'settings.tasks.ldap.import_ldap_user',
+     'settings.tasks.ldap.import_ldap_user_periodic',
+     'terminal.tasks.applet_host_generate_accounts',
+     'terminal.tasks.check_command_replay_storage_connectivity',
+     'terminal.tasks.clean_orphan_session',
+     'terminal.tasks.delete_terminal_status_period',
+     'terminal.tasks.run_applet_host_deployment',
+     'terminal.tasks.run_applet_host_deployment_install_applet',
+     'terminal.tasks.run_applet_host_deployment_uninstall_applet',
+     'terminal.tasks.upload_session_replay_file_to_external_storage',
+     'terminal.tasks.upload_session_replay_to_external_storage',
+     'users.signal_handlers.clean_expired_user_session_period',
+     'users.tasks.check_password_expired',
+     'users.tasks.check_password_expired_periodic',
+     'users.tasks.check_unused_users',
+     'users.tasks.check_user_expired',
+     'users.tasks.check_user_expired_periodic']
+[I 260630 18:54:28 mixins:228] Connected to redis://redis:6379/3
+2026-06-30 18:58:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+[I 260630 18:58:04 models:227] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:04 [DEBU] Start subscribe for expire orgs mapping from memory
+[D 260630 18:58:04 common:42] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:58:04 node_assets_mapping:63] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:04 [DEBU] Start subscribe vault change
+[D 260630 18:58:04 signal_handlers:109] Start subscribe vault change
+2026-06-30 18:58:05 [INFO] Start subscribe for stop job execution
+[I 260630 18:58:05 signal_handlers:169] Start subscribe for stop job execution
+2026-06-30 18:58:05 [DEBU] Start subscribe setting change
+[D 260630 18:58:05 signal_handlers:60] Start subscribe setting change
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+[D 260630 18:58:05 applet:98] Start subscribe for expire node assets id mapping from memory
+[I 260630 18:58:07 command:168] Visit me at http://0.0.0.0:5555//core/flower/
+[I 260630 18:58:07 command:176] Broker: redis://redis:6379/3
+[I 260630 18:58:07 command:177] Registered tasks: 
+    ['accounts.tasks.automation.clean_change_secret_and_push_record_period',
+     'accounts.tasks.automation.execute_account_automation_task',
+     'accounts.tasks.automation.execute_automation_record_task',
+     'accounts.tasks.push_account.change_secret_accounts_to_assets_task',
+     'accounts.tasks.push_account.push_accounts_to_assets_task',
+     'accounts.tasks.remove_account.clean_historical_accounts',
+     'accounts.tasks.remove_account.remove_accounts_task',
+     'accounts.tasks.template.template_sync_related_accounts',
+     'accounts.tasks.vault.sync_secret_to_vault',
+     'accounts.tasks.verify_account.verify_accounts_connectivity_task',
+     'assets.tasks.automation.execute_asset_automation_task',
+     'assets.tasks.gather_facts.gather_assets_facts_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_period_task',
+     'assets.tasks.nodes_amount.check_node_assets_amount_task',
+     'assets.tasks.ping.test_assets_connectivity_task',
+     'assets.tasks.ping_gateway.test_gateways_connectivity_task',
+     'audits.tasks.clean_audits_log_period',
+     'audits.tasks.upload_ftp_file_to_external_storage',
+     'authentication.tasks.clean_django_sessions',
+     'authentication.tasks.clean_expire_token',
+     'celery.accumulate',
+     'celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'common.tasks.send_mail_async',
+     'common.tasks.send_mail_attachment_async',
+     'common.tasks.upload_backup_to_obj_storage',
+     'common.utils.verify_code.send_sms_async',
+     'notifications.notifications.publish_task',
+     'ops.tasks.check_server_performance_period',
+     'ops.tasks.clean_celery_periodic_tasks',
+     'ops.tasks.clean_job_execution_period',
+     'ops.tasks.clean_up_unexpected_jobs',
+     'ops.tasks.create_or_update_registered_periodic_tasks',
+     'ops.tasks.run_ops_job',
+     'ops.tasks.run_ops_job_execution',
+     'orgs.tasks.refresh_org_cache_task',
+     'perms.tasks.check_asset_permission_expired',
+     'perms.tasks.check_asset_permission_will_expired',
+     'settings.tasks.ldap.import_ldap_ha_user',
+     'settings.tasks.ldap.import_ldap_ha_user_periodic',
+     'settings.tasks.ldap.import_ldap_user',
+     'settings.tasks.ldap.import_ldap_user_periodic',
+     'terminal.tasks.applet_host_generate_accounts',
+     'terminal.tasks.check_command_replay_storage_connectivity',
+     'terminal.tasks.clean_orphan_session',
+     'terminal.tasks.delete_terminal_status_period',
+     'terminal.tasks.run_applet_host_deployment',
+     'terminal.tasks.run_applet_host_deployment_install_applet',
+     'terminal.tasks.run_applet_host_deployment_uninstall_applet',
+     'terminal.tasks.upload_session_replay_file_to_external_storage',
+     'terminal.tasks.upload_session_replay_to_external_storage',
+     'users.signal_handlers.clean_expired_user_session_period',
+     'users.tasks.check_password_expired',
+     'users.tasks.check_password_expired_periodic',
+     'users.tasks.check_unused_users',
+     'users.tasks.check_user_expired',
+     'users.tasks.check_user_expired_periodic']
+[I 260630 18:58:07 mixins:228] Connected to redis://redis:6379/3

@@ -1230,3 +1230,1752 @@ js
 2026-06-30 18:00:03 [WARN] Forbidden: /api/v1/authentication/user-session/
 2026-06-30 18:00:10 [WARN] Unauthorized: /api/v1/settings/public/
 2026-06-30 18:00:10 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:00:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:00:48 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:00:50 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:01:03 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:01:03 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:01:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:01:05 [WARN] Not Found: /static/css/bootstrap.min.css
+ss
+2026-06-30 18:01:05 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:01:05 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:01:05 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:01:05 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:01:05 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:01:05 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:01:05 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:01:05 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:01:05 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:01:06 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:01:06 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/jumpserver.js
+2/select2.full.min.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:01:06 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:01:07 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:01:07 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:01:07 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:01:07 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:01:07 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:01:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:01:11 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:01:11 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:01:11 [WARN] Not Found: /static/css/login-style.css
+s
+2026-06-30 18:01:11 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:01:11 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:01:17 [DEBU] Create activity log for celery task: 8ed7905c-58cb-4a98-9d53-32aee0ffcdbf
+2026-06-30 18:01:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:01:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/img/logo.png
+ge.png
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:02:10 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 18:02:10 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:02:12 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:02:15 [WARN] Not Found: /static/css/plugins/select2/se2026-06-30 18:02:15 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:02:15 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:02:15 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:02:15 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:02:15 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:02:15 [WARN] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-06-30 18:02:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:02:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/jumpserver.css
+
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:03:22 [WARN] Not Found: /static/img/logo.png
+ge.png
+.chrome.devtools.json
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:03:22 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:03:22 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+min.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/jumpserver.js
+ypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/bootstrap.min.js
+js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+n.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+s
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:03:23 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+n.js
+2026-06-30 18:03:39 [WARN] Not Found: /static/
+2026-06-30 18:03:39 [WARN] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-06-30 18:03:39 [WARN] Not Found: /favicon.ico
+2026-06-30 18:03:43 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:03:43 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:03:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:03:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:04:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:04:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:05:36 [WARN] Not Found: /static/css/bootstrap.min.css
+ss
+2026-06-30 18:05:36 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:05:36 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:05:36 [WARN] Not Found: /static/css/jumpserver.css
+.js
+2026-06-30 18:05:36 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:05:36 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:05:36 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:05:36 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:05:36 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:05:36 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:05:36 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:05:36 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /.well-known/appspecific/com.chrome.devtools.json
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:05:37 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:05:44 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:05:44 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:05:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:05:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:06:06 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:06:06 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:06:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:06:51 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:06:51 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:06:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:07:12 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:07:21 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:07:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:07:51 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:08:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:08:51 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:08:52 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:08:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:09:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:09:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:10:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:10:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:11:17 [DEBU] Create activity log for celery task: 03e15b4d-0e96-43f6-889f-19f36ae5e14c
+2026-06-30 18:11:32 [WARN] Not Found: /api/v1/settings/public/open/y
+2026-06-30 18:11:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:11:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:12:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:12:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:13:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:13:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:13:50 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:13:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:13:52 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 18:13:52 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 18:13:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:13:52 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:13:52 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:13:52 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:13:52 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:13:52 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:13:53 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:13:53 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:13:53 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:13:53 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:13:53 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:13:53 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:13:53 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:13:53 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:13:53 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:13:54 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:13:54 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:13:54 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:14:09 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:14:09 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:14:09 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/jumpserver.js
+2/i18n/zh-CN.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:14:10 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:14:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:14:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:15:38 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:15:39 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:15:39 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:15:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:15:52 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:15:52 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:15:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:16:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:16:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:17:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:17:53 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:17:53 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:17:53 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:18:30 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7e07f93bfd90>
+2026-06-30 18:18:30 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7e0821961310>
+2026-06-30 18:18:30 [DEBU] Subscription unsubscribed
+2026-06-30 18:18:30 [DEBU] Subscription unsubscribed
+2026-06-30 18:18:30 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7e07f93bfd90>
+2026-06-30 18:18:30 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7e0821961310>
+2026-06-30 18:18:30 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7e07fa419050>
+2026-06-30 18:18:30 [DEBU] Subscription unsubscribed
+2026-06-30 18:18:30 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7e07fa419050>
+2026-06-30 18:19:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:19:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:19:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:19:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:15 [DEBU] Start subscribe vault change
+2026-06-30 18:19:15 [INFO] Start subscribe for stop job execution
+2026-06-30 18:19:15 [DEBU] Start subscribe setting change
+2026-06-30 18:19:15 [INFO] Start subscribe for stop job execution
+2026-06-30 18:19:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:15 [DEBU] Start subscribe setting change
+2026-06-30 18:19:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:19:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:19:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:19:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:45 [DEBU] Start subscribe vault change
+2026-06-30 18:19:45 [DEBU] Start subscribe vault change
+2026-06-30 18:19:45 [INFO] Start subscribe for stop job execution
+2026-06-30 18:19:45 [DEBU] Start subscribe setting change
+2026-06-30 18:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:45 [INFO] Start subscribe for stop job execution
+2026-06-30 18:19:45 [DEBU] Start subscribe setting change
+2026-06-30 18:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:19:55 [DEBU] Work ready signal recv
+2026-06-30 18:19:55 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:20:30 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:20:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:20:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:20:31 [DEBU] Start subscribe vault change
+2026-06-30 18:20:31 [INFO] Start subscribe for stop job execution
+2026-06-30 18:20:31 [DEBU] Start subscribe setting change
+2026-06-30 18:20:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:20:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:20:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:20:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:20:40 [DEBU] Start subscribe vault change
+2026-06-30 18:20:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:20:40 [DEBU] Start subscribe setting change
+2026-06-30 18:20:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:20:58 [DEBU] Worker shutdown signal recv
+2026-06-30 18:20:58 [DEBU] Clean period tasks: []
+2026-06-30 18:21:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:04 [DEBU] Start subscribe vault change
+2026-06-30 18:21:04 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:04 [DEBU] Start subscribe setting change
+2026-06-30 18:21:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:10 [DEBU] Start subscribe vault change
+2026-06-30 18:21:10 [DEBU] Start subscribe vault change
+2026-06-30 18:21:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:10 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:10 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:10 [DEBU] Start subscribe setting change
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:10 [DEBU] Start subscribe setting change
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:10 [DEBU] Start subscribe vault change
+2026-06-30 18:21:10 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:10 [DEBU] Start subscribe setting change
+2026-06-30 18:21:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:14 [DEBU] Work ready signal recv
+2026-06-30 18:21:15 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:21:40 [DEBU] Worker shutdown signal recv
+2026-06-30 18:21:40 [DEBU] Clean period tasks: []
+2026-06-30 18:21:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:45 [DEBU] Start subscribe vault change
+2026-06-30 18:21:46 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:46 [DEBU] Start subscribe setting change
+2026-06-30 18:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:50 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:50 [DEBU] Start subscribe vault change
+2026-06-30 18:21:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:51 [DEBU] Start subscribe vault change
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:51 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:51 [DEBU] Start subscribe setting change
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:51 [DEBU] Start subscribe vault change
+2026-06-30 18:21:51 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:51 [DEBU] Start subscribe setting change
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:51 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:51 [DEBU] Start subscribe setting change
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:51 [DEBU] Start subscribe vault change
+2026-06-30 18:21:51 [INFO] Start subscribe for stop job execution
+2026-06-30 18:21:51 [DEBU] Start subscribe setting change
+2026-06-30 18:21:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:21:55 [DEBU] Work ready signal recv
+2026-06-30 18:21:55 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:22:22 [DEBU] Worker shutdown signal recv
+2026-06-30 18:22:22 [DEBU] Clean period tasks: []
+2026-06-30 18:22:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:22:28 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:22:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:28 [DEBU] Start subscribe vault change
+2026-06-30 18:22:28 [INFO] Start subscribe for stop job execution
+2026-06-30 18:22:28 [DEBU] Start subscribe setting change
+2026-06-30 18:22:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:22:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:33 [DEBU] Start subscribe vault change
+2026-06-30 18:22:33 [INFO] Start subscribe for stop job execution
+2026-06-30 18:22:33 [DEBU] Start subscribe setting change
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:33 [DEBU] Start subscribe vault change
+2026-06-30 18:22:33 [INFO] Start subscribe for stop job execution
+2026-06-30 18:22:33 [DEBU] Start subscribe setting change
+2026-06-30 18:22:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:22:43 [DEBU] Work ready signal recv
+2026-06-30 18:22:43 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:23:06 [DEBU] Worker shutdown signal recv
+2026-06-30 18:23:06 [DEBU] Clean period tasks: []
+2026-06-30 18:23:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:23:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:23:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:15 [DEBU] Start subscribe vault change
+2026-06-30 18:23:15 [INFO] Start subscribe for stop job execution
+2026-06-30 18:23:15 [DEBU] Start subscribe setting change
+2026-06-30 18:23:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:23:16 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:23:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:16 [DEBU] Start subscribe vault change
+2026-06-30 18:23:16 [INFO] Start subscribe for stop job execution
+2026-06-30 18:23:16 [DEBU] Start subscribe setting change
+2026-06-30 18:23:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:21 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:23:21 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:21 [DEBU] Start subscribe vault change
+2026-06-30 18:23:21 [INFO] Start subscribe for stop job execution
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:23:21 [DEBU] Start subscribe setting change
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:21 [INFO] Start subscribe for stop job execution
+2026-06-30 18:23:21 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:23:21 [DEBU] Start subscribe setting change
+ assets id mapping from memory
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:21 [DEBU] Start subscribe vault change
+2026-06-30 18:23:21 [INFO] Start subscribe for stop job execution
+2026-06-30 18:23:21 [DEBU] Start subscribe setting change
+2026-06-30 18:23:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:27 [DEBU] Work ready signal recv
+2026-06-30 18:23:27 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:23:51 [DEBU] Worker shutdown signal recv
+2026-06-30 18:23:51 [DEBU] Clean period tasks: []
+2026-06-30 18:23:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:23:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:23:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:23:56 [DEBU] Start subscribe vault change
+2026-06-30 18:23:56 [INFO] Start subscribe for stop job execution
+2026-06-30 18:23:56 [DEBU] Start subscribe setting change
+2026-06-30 18:23:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:00 [DEBU] Start subscribe vault change
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:00 [DEBU] Start subscribe vault change
+2026-06-30 18:24:00 [DEBU] Start subscribe setting change
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:00 [DEBU] Start subscribe setting change
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:00 [DEBU] Start subscribe vault change
+2026-06-30 18:24:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:00 [DEBU] Start subscribe setting change
+2026-06-30 18:24:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:03 [DEBU] Work ready signal recv
+2026-06-30 18:24:03 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:24:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:24 [DEBU] Start subscribe vault change
+2026-06-30 18:24:24 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:24 [DEBU] Start subscribe setting change
+2026-06-30 18:24:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:32 [DEBU] Worker shutdown signal recv
+2026-06-30 18:24:32 [DEBU] Clean period tasks: []
+2026-06-30 18:24:36 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:36 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:36 [DEBU] Start subscribe vault change
+2026-06-30 18:24:36 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:36 [DEBU] Start subscribe setting change
+2026-06-30 18:24:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+
+2026-06-30 18:24:40 [DEBU] Start subscribe vault change
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:40 [DEBU] Start subscribe vault change
+de assets id mapping from memory
+2026-06-30 18:24:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:40 [DEBU] Start subscribe setting change
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:40 [DEBU] Start subscribe vault change
+2026-06-30 18:24:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:24:40 [DEBU] Start subscribe setting change
+2026-06-30 18:24:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:24:49 [DEBU] Work ready signal recv
+2026-06-30 18:24:49 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:25:10 [DEBU] Worker shutdown signal recv
+2026-06-30 18:25:11 [DEBU] Clean period tasks: []
+2026-06-30 18:25:18 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:25:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:25:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:19 [DEBU] Start subscribe vault change
+2026-06-30 18:25:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:25:19 [DEBU] Start subscribe setting change
+2026-06-30 18:25:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:25:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:25 [DEBU] Start subscribe vault change
+2026-06-30 18:25:25 [INFO] Start subscribe for stop job execution
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:25 [DEBU] Start subscribe vault change
+de assets id mapping from memory
+2026-06-30 18:25:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:25:25 [INFO] Start subscribe for stop job execution
+2026-06-30 18:25:25 [DEBU] Start subscribe setting change
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:25 [DEBU] Start subscribe vault change
+2026-06-30 18:25:25 [INFO] Start subscribe for stop job execution
+2026-06-30 18:25:25 [DEBU] Start subscribe setting change
+2026-06-30 18:25:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:30 [DEBU] Work ready signal recv
+2026-06-30 18:25:30 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:25:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:25:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:25:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:34 [DEBU] Start subscribe vault change
+2026-06-30 18:25:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:25:34 [DEBU] Start subscribe setting change
+2026-06-30 18:25:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:25:54 [DEBU] Worker shutdown signal recv
+2026-06-30 18:25:54 [DEBU] Clean period tasks: []
+2026-06-30 18:26:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:00 [DEBU] Start subscribe vault change
+2026-06-30 18:26:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:00 [DEBU] Start subscribe setting change
+2026-06-30 18:26:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:04 [DEBU] Start subscribe vault change
+2026-06-30 18:26:04 [DEBU] Start subscribe vault change
+2026-06-30 18:26:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:05 [DEBU] Start subscribe setting change
+2026-06-30 18:26:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:05 [DEBU] Start subscribe setting change
+2026-06-30 18:26:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:05 [DEBU] Start subscribe vault change
+2026-06-30 18:26:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:05 [DEBU] Start subscribe setting change
+2026-06-30 18:26:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:08 [DEBU] Work ready signal recv
+2026-06-30 18:26:08 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:26:35 [DEBU] Worker shutdown signal recv
+2026-06-30 18:26:35 [DEBU] Clean period tasks: []
+2026-06-30 18:26:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:40 [DEBU] Start subscribe vault change
+2026-06-30 18:26:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:40 [DEBU] Start subscribe setting change
+2026-06-30 18:26:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:42 [DEBU] Start subscribe vault change
+2026-06-30 18:26:42 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:42 [DEBU] Start subscribe setting change
+2026-06-30 18:26:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:44 [DEBU] Start subscribe vault change
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:44 [DEBU] Start subscribe vault change
+2026-06-30 18:26:44 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:44 [DEBU] Start subscribe setting change
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:44 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:44 [DEBU] Start subscribe setting change
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:44 [DEBU] Start subscribe vault change
+2026-06-30 18:26:44 [INFO] Start subscribe for stop job execution
+2026-06-30 18:26:44 [DEBU] Start subscribe setting change
+2026-06-30 18:26:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:26:49 [DEBU] Work ready signal recv
+2026-06-30 18:26:49 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:27:16 [DEBU] Worker shutdown signal recv
+2026-06-30 18:27:16 [DEBU] Clean period tasks: []
+2026-06-30 18:27:21 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:27:21 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:27:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:21 [DEBU] Start subscribe vault change
+2026-06-30 18:27:21 [INFO] Start subscribe for stop job execution
+2026-06-30 18:27:21 [DEBU] Start subscribe setting change
+2026-06-30 18:27:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:27:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:27:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:27:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:25 [DEBU] Start subscribe vault change
+2026-06-30 18:27:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:27:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:25 [INFO] Start subscribe for stop job execution
+2026-06-30 18:27:25 [DEBU] Start subscribe vault change
+2026-06-30 18:27:25 [DEBU] Start subscribe setting change
+2026-06-30 18:27:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:25 [INFO] Start subscribe for stop job execution
+2026-06-30 18:27:25 [DEBU] Start subscribe setting change
+2026-06-30 18:27:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:27:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:27:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:26 [DEBU] Start subscribe vault change
+2026-06-30 18:27:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:27:26 [DEBU] Start subscribe setting change
+2026-06-30 18:27:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:33 [DEBU] Work ready signal recv
+2026-06-30 18:27:33 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:27:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:27:50 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:27:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:50 [DEBU] Start subscribe vault change
+2026-06-30 18:27:50 [INFO] Start subscribe for stop job execution
+2026-06-30 18:27:50 [DEBU] Start subscribe setting change
+2026-06-30 18:27:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:27:58 [DEBU] Worker shutdown signal recv
+2026-06-30 18:27:58 [DEBU] Clean period tasks: []
+2026-06-30 18:28:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:03 [DEBU] Start subscribe vault change
+2026-06-30 18:28:03 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:03 [DEBU] Start subscribe setting change
+2026-06-30 18:28:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:07 [DEBU] Start subscribe vault change
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:07 [DEBU] Start subscribe vault change
+2026-06-30 18:28:07 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:07 [DEBU] Start subscribe setting change
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:07 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:07 [DEBU] Start subscribe setting change
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:07 [DEBU] Start subscribe vault change
+2026-06-30 18:28:07 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:07 [DEBU] Start subscribe setting change
+2026-06-30 18:28:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:11 [DEBU] Work ready signal recv
+2026-06-30 18:28:11 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:28:37 [DEBU] Worker shutdown signal recv
+2026-06-30 18:28:38 [DEBU] Clean period tasks: []
+2026-06-30 18:28:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:43 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:43 [DEBU] Start subscribe vault change
+2026-06-30 18:28:43 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:43 [DEBU] Start subscribe setting change
+2026-06-30 18:28:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe vault change
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe vault change
+2026-06-30 18:28:47 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:47 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:47 [DEBU] Start subscribe setting change
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe setting change
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:47 [DEBU] Start subscribe vault change
+2026-06-30 18:28:47 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:48 [DEBU] Start subscribe setting change
+2026-06-30 18:28:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:52 [DEBU] Work ready signal recv
+2026-06-30 18:28:52 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:28:57 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:28:57 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:28:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:28:57 [DEBU] Start subscribe vault change
+2026-06-30 18:28:57 [INFO] Start subscribe for stop job execution
+2026-06-30 18:28:57 [DEBU] Start subscribe setting change
+2026-06-30 18:28:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:18 [DEBU] Worker shutdown signal recv
+2026-06-30 18:29:18 [DEBU] Clean period tasks: []
+2026-06-30 18:29:22 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:29:22 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:29:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:22 [DEBU] Start subscribe vault change
+2026-06-30 18:29:23 [INFO] Start subscribe for stop job execution
+2026-06-30 18:29:23 [DEBU] Start subscribe setting change
+2026-06-30 18:29:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:29:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:26 [DEBU] Start subscribe vault change
+2026-06-30 18:29:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:29:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:29:26 [DEBU] Start subscribe setting change
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:26 [DEBU] Start subscribe vault change
+2026-06-30 18:29:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:29:26 [DEBU] Start subscribe setting change
+2026-06-30 18:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:29:31 [DEBU] Work ready signal recv
+2026-06-30 18:29:31 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:29:59 [DEBU] Worker shutdown signal recv
+2026-06-30 18:29:59 [DEBU] Clean period tasks: []
+2026-06-30 18:30:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:30:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:30:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:07 [DEBU] Start subscribe vault change
+2026-06-30 18:30:07 [INFO] Start subscribe for stop job execution
+2026-06-30 18:30:07 [DEBU] Start subscribe setting change
+2026-06-30 18:30:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:30:50 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:30:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:50 [DEBU] Start subscribe vault change
+2026-06-30 18:30:50 [INFO] Start subscribe for stop job execution
+2026-06-30 18:30:50 [DEBU] Start subscribe setting change
+2026-06-30 18:30:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:30:50 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:30:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:50 [DEBU] Start subscribe vault change
+2026-06-30 18:30:50 [INFO] Start subscribe for stop job execution
+2026-06-30 18:30:50 [DEBU] Start subscribe setting change
+2026-06-30 18:30:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:30:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:30:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:30:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:56 [DEBU] Start subscribe vault change
+2026-06-30 18:30:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:30:56 [INFO] Start subscribe for stop job execution
+2026-06-30 18:30:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:56 [DEBU] Start subscribe setting change
+2026-06-30 18:30:56 [DEBU] Start subscribe vault change
+2026-06-30 18:30:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:56 [INFO] Start subscribe for stop job execution
+2026-06-30 18:30:56 [DEBU] Start subscribe setting change
+2026-06-30 18:30:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:57 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:30:57 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:30:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:30:57 [DEBU] Start subscribe vault change
+2026-06-30 18:30:57 [INFO] Start subscribe for stop job execution
+2026-06-30 18:30:57 [DEBU] Start subscribe setting change
+2026-06-30 18:30:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:01 [DEBU] Work ready signal recv
+2026-06-30 18:31:01 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:31:26 [DEBU] Worker shutdown signal recv
+2026-06-30 18:31:26 [DEBU] Clean period tasks: []
+2026-06-30 18:31:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:31:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:31:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:31 [DEBU] Start subscribe vault change
+2026-06-30 18:31:31 [INFO] Start subscribe for stop job execution
+2026-06-30 18:31:31 [DEBU] Start subscribe setting change
+2026-06-30 18:31:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:31:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:34 [DEBU] Start subscribe vault change
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:31:34 [DEBU] Start subscribe vault change
+2026-06-30 18:31:34 [DEBU] Start subscribe setting change
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:31:34 [DEBU] Start subscribe setting change
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:34 [DEBU] Start subscribe vault change
+2026-06-30 18:31:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:31:34 [DEBU] Start subscribe setting change
+2026-06-30 18:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:38 [DEBU] Work ready signal recv
+2026-06-30 18:31:38 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:31:59 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:31:59 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:31:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:31:59 [DEBU] Start subscribe vault change
+2026-06-30 18:31:59 [INFO] Start subscribe for stop job execution
+2026-06-30 18:31:59 [DEBU] Start subscribe setting change
+2026-06-30 18:31:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:07 [DEBU] Worker shutdown signal recv
+2026-06-30 18:32:07 [DEBU] Clean period tasks: []
+2026-06-30 18:32:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:14 [DEBU] Start subscribe vault change
+2026-06-30 18:32:15 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:15 [DEBU] Start subscribe setting change
+2026-06-30 18:32:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe vault change
+2026-06-30 18:32:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:19 [DEBU] Start subscribe setting change
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe vault change
+2026-06-30 18:32:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:19 [DEBU] Start subscribe setting change
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:19 [DEBU] Start subscribe vault change
+2026-06-30 18:32:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:19 [DEBU] Start subscribe setting change
+2026-06-30 18:32:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:22 [DEBU] Work ready signal recv
+2026-06-30 18:32:22 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:32:50 [DEBU] Worker shutdown signal recv
+2026-06-30 18:32:50 [DEBU] Clean period tasks: []
+2026-06-30 18:32:55 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:55 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:55 [DEBU] Start subscribe vault change
+2026-06-30 18:32:55 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:55 [DEBU] Start subscribe setting change
+2026-06-30 18:32:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:58 [DEBU] Start subscribe vault change
+2026-06-30 18:32:58 [DEBU] Start subscribe vault change
+2026-06-30 18:32:58 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:58 [DEBU] Start subscribe setting change
+2026-06-30 18:32:58 [DEBU] Start subscribe setting change
+ assets id mapping from memory
+2026-06-30 18:32:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:59 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:32:59 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:32:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:32:59 [DEBU] Start subscribe vault change
+2026-06-30 18:32:59 [INFO] Start subscribe for stop job execution
+2026-06-30 18:32:59 [DEBU] Start subscribe setting change
+2026-06-30 18:32:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:02 [DEBU] Work ready signal recv
+2026-06-30 18:33:02 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:33:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:33:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:33:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:07 [DEBU] Start subscribe vault change
+2026-06-30 18:33:07 [INFO] Start subscribe for stop job execution
+2026-06-30 18:33:07 [DEBU] Start subscribe setting change
+2026-06-30 18:33:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:30 [DEBU] Worker shutdown signal recv
+2026-06-30 18:33:30 [DEBU] Clean period tasks: []
+2026-06-30 18:33:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:33:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:33:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:35 [DEBU] Start subscribe vault change
+2026-06-30 18:33:35 [INFO] Start subscribe for stop job execution
+2026-06-30 18:33:35 [DEBU] Start subscribe setting change
+2026-06-30 18:33:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:33:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:40 [DEBU] Start subscribe vault change
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:33:40 [DEBU] Start subscribe vault change
+2026-06-30 18:33:40 [DEBU] Start subscribe setting change
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:33:40 [DEBU] Start subscribe setting change
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:40 [DEBU] Start subscribe vault change
+2026-06-30 18:33:40 [INFO] Start subscribe for stop job execution
+2026-06-30 18:33:40 [DEBU] Start subscribe setting change
+2026-06-30 18:33:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:33:46 [DEBU] Work ready signal recv
+2026-06-30 18:33:46 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:34:10 [DEBU] Worker shutdown signal recv
+2026-06-30 18:34:10 [DEBU] Clean period tasks: []
+2026-06-30 18:34:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:34:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:34:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:14 [DEBU] Start subscribe vault change
+2026-06-30 18:34:15 [INFO] Start subscribe for stop job execution
+2026-06-30 18:34:15 [DEBU] Start subscribe setting change
+2026-06-30 18:34:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:34:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:34:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:15 [DEBU] Start subscribe vault change
+2026-06-30 18:34:15 [INFO] Start subscribe for stop job execution
+2026-06-30 18:34:15 [DEBU] Start subscribe setting change
+2026-06-30 18:34:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:34:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:19 [DEBU] Start subscribe vault change
+2026-06-30 18:34:19 [DEBU] Start subscribe vault change
+2026-06-30 18:34:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:34:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:34:19 [DEBU] Start subscribe setting change
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:19 [DEBU] Start subscribe vault change
+2026-06-30 18:34:19 [INFO] Start subscribe for stop job execution
+2026-06-30 18:34:19 [DEBU] Start subscribe setting change
+2026-06-30 18:34:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:23 [DEBU] Work ready signal recv
+2026-06-30 18:34:24 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:34:52 [DEBU] Worker shutdown signal recv
+2026-06-30 18:34:52 [DEBU] Clean period tasks: []
+2026-06-30 18:34:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:34:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:34:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:34:56 [DEBU] Start subscribe vault change
+2026-06-30 18:34:56 [INFO] Start subscribe for stop job execution
+2026-06-30 18:34:56 [DEBU] Start subscribe setting change
+2026-06-30 18:34:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:00 [DEBU] Start subscribe vault change
+2026-06-30 18:35:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:00 [DEBU] Start subscribe setting change
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:00 [DEBU] Start subscribe setting change
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:00 [DEBU] Start subscribe vault change
+2026-06-30 18:35:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:00 [DEBU] Start subscribe setting change
+2026-06-30 18:35:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:03 [DEBU] Work ready signal recv
+2026-06-30 18:35:03 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:35:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:28 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:28 [DEBU] Start subscribe vault change
+2026-06-30 18:35:28 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:28 [DEBU] Start subscribe setting change
+2026-06-30 18:35:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:29 [DEBU] Start subscribe vault change
+2026-06-30 18:35:29 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:29 [DEBU] Start subscribe setting change
+2026-06-30 18:35:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:33 [DEBU] Start subscribe vault change
+2026-06-30 18:35:33 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:33 [DEBU] Start subscribe setting change
+2026-06-30 18:35:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:34 [DEBU] Start subscribe vault change
+2026-06-30 18:35:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:34 [DEBU] Start subscribe setting change
+2026-06-30 18:35:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:35:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:35:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:34 [DEBU] Start subscribe vault change
+2026-06-30 18:35:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:35:34 [DEBU] Start subscribe setting change
+2026-06-30 18:35:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:35:38 [DEBU] Work ready signal recv
+2026-06-30 18:35:38 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:36:03 [DEBU] Worker shutdown signal recv
+2026-06-30 18:36:03 [DEBU] Clean period tasks: []
+2026-06-30 18:36:08 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:08 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:08 [DEBU] Start subscribe vault change
+2026-06-30 18:36:08 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:08 [DEBU] Start subscribe setting change
+2026-06-30 18:36:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe vault change
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe vault change
+2026-06-30 18:36:12 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:12 [DEBU] Start subscribe setting change
+ecution
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe setting change
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:12 [DEBU] Start subscribe vault change
+2026-06-30 18:36:12 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:12 [DEBU] Start subscribe setting change
+2026-06-30 18:36:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:16 [DEBU] Work ready signal recv
+2026-06-30 18:36:16 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:36:37 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:37 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:37 [DEBU] Start subscribe vault change
+2026-06-30 18:36:37 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:37 [DEBU] Start subscribe setting change
+2026-06-30 18:36:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:45 [DEBU] Worker shutdown signal recv
+2026-06-30 18:36:45 [DEBU] Clean period tasks: []
+2026-06-30 18:36:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:50 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:50 [DEBU] Start subscribe vault change
+2026-06-30 18:36:50 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:50 [DEBU] Start subscribe setting change
+2026-06-30 18:36:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:53 [DEBU] Start subscribe for expire orgs mapping from memory
+om memory
+2026-06-30 18:36:53 [DEBU] Start subscribe vault change
+2026-06-30 18:36:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:53 [DEBU] Start subscribe vault change
+2026-06-30 18:36:53 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:53 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:53 [DEBU] Start subscribe setting change
+2026-06-30 18:36:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:53 [DEBU] Start subscribe setting change
+2026-06-30 18:36:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:36:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:36:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:54 [DEBU] Start subscribe vault change
+2026-06-30 18:36:54 [INFO] Start subscribe for stop job execution
+2026-06-30 18:36:54 [DEBU] Start subscribe setting change
+2026-06-30 18:36:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:36:59 [DEBU] Work ready signal recv
+2026-06-30 18:36:59 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:37:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:37:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:37:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:37:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:37:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:37:52 [DEBU] Start subscribe vault change
+2026-06-30 18:37:52 [DEBU] Start subscribe vault change
+2026-06-30 18:37:52 [INFO] Start subscribe for stop job execution
+2026-06-30 18:37:52 [INFO] Start subscribe for stop job execution
+2026-06-30 18:37:52 [DEBU] Start subscribe setting change
+2026-06-30 18:37:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe vault change
+2026-06-30 18:38:11 [DEBU] Start subscribe vault change
+2026-06-30 18:38:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:11 [INFO] Start subscribe for stop job execution
+2026-06-30 18:38:11 [DEBU] Start subscribe setting change
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:11 [DEBU] Start subscribe vault change
+2026-06-30 18:38:11 [INFO] Start subscribe for stop job execution
+2026-06-30 18:38:11 [DEBU] Start subscribe setting change
+2026-06-30 18:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:23 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:38:24 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 3383e38f-7421-41db-9461-599595ea58b3
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 61346156-0c40-465f-b566-2d29ede6d9c3
+2026-06-30 18:38:27 [DEBU] Work ready signal recv
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: d05feaf6-39b5-48c9-8855-14931d3e51b5
+2026-06-30 18:38:27 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 74254e5a-b98c-466a-bb8c-7bd6b03392fd
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 4624fff2-cbf8-4781-a16d-7238aed3db7a
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 747617b2-964a-4556-99a4-379cbd3b93c8
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: d03cef21-991e-4e54-97f6-90eb7635feee
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 25760410-77dd-4387-af88-e5d363e6403e
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 76966f30-a509-4461-ab8e-e6634c6e3093
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: b56b9dd5-902d-4224-adec-45164d755155
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 323fd503-dc04-43ea-975e-cd67dcabb307
+2026-06-30 18:38:27 [DEBU] Create activity log for celery task: 57f76f85-e080-422f-bd49-c90a90b879ea
+2026-06-30 18:38:28 [DEBU] Create activity log for celery task: 3d322deb-d7e7-45a7-8df6-546fc4131639
+2026-06-30 18:38:28 [INFO] Checking expired permissions: [] ...
+2026-06-30 18:38:28 [INFO] Start clean celery periodic tasks.
+2026-06-30 18:38:28 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 18:38:28 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 18:38:28 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 18:38:29 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 18:38:29 [DEBU] New site msg created, publish it
+2026-06-30 18:38:32 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:38:32 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:38:32 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:38:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:38:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:38:53 [DEBU] Start subscribe vault change
+2026-06-30 18:38:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:53 [DEBU] Start subscribe vault change
+gs mapping from memory
+2026-06-30 18:38:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:53 [DEBU] Start subscribe vault change
+2026-06-30 18:38:54 [INFO] Start subscribe for stop job execution
+2026-06-30 18:38:55 [DEBU] Start subscribe setting change
+2026-06-30 18:38:55 [INFO] Start subscribe for stop job execution
+2026-06-30 18:38:55 [DEBU] Start subscribe setting change
+2026-06-30 18:38:55 [INFO] Start subscribe for stop job execution
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe setting change
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe setting change
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:55 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:38:55 [DEBU] Start subscribe vault change
+2026-06-30 18:38:55 [INFO] Start subscribe for stop job execution
+2026-06-30 18:38:55 [DEBU] Start subscribe setting change
+2026-06-30 18:38:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:39:00 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:39:02 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:39:03 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:39:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:39:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:39:04 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:39:04 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:39:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:39:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:39:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:39:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:39:10 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 18:39:11 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:39:11 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:39:11 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:39:12 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:39:12 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:39:12 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:39:12 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:39:12 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:39:13 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:14 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:39:14 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:39:14 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:39:15 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:39:15 [WARN] Not Found: /static/css/style.css
+lect2/select2.min.css
+2026-06-30 18:39:15 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:39:15 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:39:15 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:39:16 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:39:16 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:39:17 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:39:17 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:39:17 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:39:17 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:39:17 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:39:17 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:39:17 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:39:17 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:18 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:39:18 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:39:18 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:39:18 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:39:18 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/inspinia.js
+n.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:39:20 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:39:39 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:39:39 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:40:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:40:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:41:04 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:41:04 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:41:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:41:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:41:56 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:41:56 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:41:56 [WARN] Not Found: /static/css/jumpserver.css
+ss
+2026-06-30 18:41:56 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:41:56 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:41:56 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:42:05 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:42:09 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:42:09 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:42:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:43:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:43:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:43:41 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:43:41 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:43:41 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:43:41 [DEBU] Start subscribe vault change
+2026-06-30 18:43:41 [INFO] Start subscribe for stop job execution
+2026-06-30 18:43:41 [DEBU] Start subscribe setting change
+2026-06-30 18:43:41 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:44:04 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 18:44:04 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 18:44:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:44:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:44:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:44:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:44:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:44:24 [DEBU] Start subscribe vault change
+2026-06-30 18:44:24 [INFO] Start subscribe for stop job execution
+2026-06-30 18:44:24 [DEBU] Start subscribe setting change
+2026-06-30 18:44:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:44:46 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:44:46 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:44:46 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:45:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:45:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:45:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:45:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe vault change
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe vault change
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe vault change
+e
+2026-06-30 18:45:00 [DEBU] Start subscribe vault change
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:45:00 [DEBU] Start subscribe setting change
+2026-06-30 18:45:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:45:00 [INFO] Start subscribe for stop job execution
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe setting change
+2026-06-30 18:45:00 [DEBU] Start subscribe setting change
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:02 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:45:02 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:45:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:02 [DEBU] Start subscribe vault change
+2026-06-30 18:45:02 [INFO] Start subscribe for stop job execution
+2026-06-30 18:45:02 [DEBU] Start subscribe setting change
+2026-06-30 18:45:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:45:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:45:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:45:24 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:45:24 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:45:25 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:45:27 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:45:27 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:45:27 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:45:44 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:45:44 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:45:46 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:45:47 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 18:45:47 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:45:47 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:47 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:45:47 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:48 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:48 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:45:49 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:45:50 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:45:50 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:45:58 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:45:58 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:45:58 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:45:58 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:45:59 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+tisMenu.3.0.7.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:45:59 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:46:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:46:09 [DEBU] pid 24 executor submit run update_user_last_used
+2026-06-30 18:46:09 [DEBU] pid 24 executor submit run update_token_last_used
+2026-06-30 18:46:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:46:15 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:46:15 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 18:46:22 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/style.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/jumpserver.css
+/select2.min.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 18:46:23 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 18:46:23 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:46:23 [WARN] Not Found: /static/img/logo.png
+2026-06-30 18:46:23 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 18:46:23 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:46:23 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/bootstrap.min.js
+js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/jumpserver.js
+2/i18n/zh-CN.js
+2026-06-30 18:46:24 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 18:46:25 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 18:46:25 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 18:46:25 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 18:46:28 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 18:46:29 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 18:47:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:47:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:48:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:48:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:48:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:48:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:48:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:48:21 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:48:22 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:48:27 [DEBU] Create activity log for celery task: faa343aa-1e70-413d-b1ea-2861f83c9f68
+2026-06-30 18:49:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:49:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:49:49 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:49:49 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:49:49 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:49:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:50:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:50:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:51:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:04 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:51:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:51:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:51:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:21 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:51:22 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:23 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:23 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:23 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:51:23 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:51:24 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:51:24 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:52:04 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:52:10 [DEBU] pid 24 executor submit run update_user_last_used
+2026-06-30 18:52:10 [DEBU] pid 24 executor submit run update_token_last_used
+2026-06-30 18:52:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:52:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:52:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:52:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:52:31 [DEBU] Start subscribe vault change
+2026-06-30 18:52:31 [INFO] Start subscribe for stop job execution
+2026-06-30 18:52:31 [DEBU] Start subscribe setting change
+2026-06-30 18:52:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:05 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:53:05 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x73aeb271ded0>
+2026-06-30 18:53:05 [DEBU] Subscription unsubscribed
+2026-06-30 18:53:05 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x73aeb271ded0>
+2026-06-30 18:53:05 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x73aeb270a810>
+2026-06-30 18:53:05 [DEBU] Subscription unsubscribed
+2026-06-30 18:53:05 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x73aeb270a810>
+2026-06-30 18:53:06 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x73aec01e9e50>
+2026-06-30 18:53:06 [DEBU] Subscription unsubscribed
+2026-06-30 18:53:06 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x73aec01e9e50>
+2026-06-30 18:53:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:53:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:53:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:31 [DEBU] Start subscribe vault change
+2026-06-30 18:53:31 [INFO] Start subscribe for stop job execution
+2026-06-30 18:53:32 [DEBU] Start subscribe setting change
+2026-06-30 18:53:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:53:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:53:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:33 [DEBU] Start subscribe vault change
+2026-06-30 18:53:34 [INFO] Start subscribe for stop job execution
+2026-06-30 18:53:34 [DEBU] Start subscribe setting change
+2026-06-30 18:53:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:53:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:53:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe vault change
+gs mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe vault change
+2026-06-30 18:53:52 [INFO] Start subscribe for stop job execution
+2026-06-30 18:53:52 [INFO] Start subscribe for stop job execution
+2026-06-30 18:53:52 [INFO] Start subscribe for stop job execution
+2026-06-30 18:53:52 [DEBU] Start subscribe setting change
+2026-06-30 18:53:52 [DEBU] Start subscribe setting change
+2026-06-30 18:53:52 [DEBU] Start subscribe setting change
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:07 [DEBU] Work ready signal recv
+2026-06-30 18:54:07 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:54:07 [DEBU] Create activity log for celery task: 362671cd-9ce3-4c67-b383-ef68e46c41bd
+2026-06-30 18:54:07 [DEBU] Create activity log for celery task: 51ae1b68-20aa-4473-bd8d-562db55247ad
+2026-06-30 18:54:07 [DEBU] Create activity log for celery task: df414ec8-154a-418b-abb3-245456413857
+2026-06-30 18:54:07 [DEBU] Create activity log for celery task: 98e1214a-43ad-4265-b22e-ce936c5eae8a
+2026-06-30 18:54:08 [DEBU] Create activity log for celery task: e2e1a9f3-fb61-47c7-80c9-a5af0526b89e
+2026-06-30 18:54:08 [DEBU] Create activity log for celery task: ae0fa827-fc36-4757-b1c1-079a7dc2ce6b
+2026-06-30 18:54:08 [DEBU] Create activity log for celery task: b548319d-0c7a-4ac9-8aaf-3c5d74c90543
+2026-06-30 18:54:08 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 18:54:08 [DEBU] Create activity log for celery task: 1c39ff52-c7b4-45d9-bc6d-2725042724ae
+2026-06-30 18:54:08 [INFO] Start clean celery periodic tasks.
+2026-06-30 18:54:09 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 18:54:09 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 18:54:09 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 18:54:12 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:54:12 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:54:12 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:54:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:54:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:54:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:54:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:25 [DEBU] Start subscribe vault change
+2026-06-30 18:54:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:54:25 [INFO] Start subscribe for stop job execution
+2026-06-30 18:54:25 [DEBU] Start subscribe setting change
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:25 [DEBU] Start subscribe vault change
+2026-06-30 18:54:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe vault change
+2026-06-30 18:54:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:54:26 [DEBU] Start subscribe setting change
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:54:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:54:26 [DEBU] Start subscribe setting change
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe vault change
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe vault change
+2026-06-30 18:54:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:54:26 [DEBU] Start subscribe setting change
+2026-06-30 18:54:26 [INFO] Start subscribe for stop job execution
+2026-06-30 18:54:26 [DEBU] Start subscribe setting change
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:54:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:54:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:54:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:54:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:54:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:54:39 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:54:40 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:54:40 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 18:54:41 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 18:55:31 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 18:55:31 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 18:55:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:55:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:56:31 [DEBU] pid 22 executor submit run update_user_last_used
+2026-06-30 18:56:31 [DEBU] pid 22 executor submit run update_token_last_used
+2026-06-30 18:56:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:56:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:56:38 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x74aa7e87f4d0>
+2026-06-30 18:56:38 [DEBU] Subscription unsubscribed
+2026-06-30 18:56:38 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x74aa7e87f4d0>
+2026-06-30 18:56:38 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x74aa53302090>
+2026-06-30 18:56:38 [DEBU] Subscription unsubscribed
+2026-06-30 18:56:38 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x74aa53302090>
+2026-06-30 18:56:39 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x74aa74d2f210>
+2026-06-30 18:56:39 [DEBU] Subscription unsubscribed
+2026-06-30 18:56:39 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x74aa74d2f210>
+2026-06-30 18:57:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:57:08 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:57:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:57:08 [DEBU] Start subscribe vault change
+2026-06-30 18:57:08 [INFO] Start subscribe for stop job execution
+2026-06-30 18:57:08 [INFO] Start subscribe for stop job execution
+2026-06-30 18:57:08 [DEBU] Start subscribe setting change
+2026-06-30 18:57:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:57:38 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:57:38 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:57:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:57:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:57:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:57:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:57:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:57:45 [DEBU] Start subscribe vault change
+2026-06-30 18:57:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:57:45 [DEBU] Start subscribe vault change
+2026-06-30 18:57:45 [INFO] Start subscribe for stop job execution
+2026-06-30 18:57:45 [DEBU] Start subscribe setting change
+2026-06-30 18:57:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:57:45 [INFO] Start subscribe for stop job execution
+2026-06-30 18:57:45 [DEBU] Start subscribe setting change
+2026-06-30 18:57:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:57:48 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:57:48 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:57:49 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 18:57:57 [DEBU] Work ready signal recv
+2026-06-30 18:57:57 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: 4ef70cb8-cc76-4435-a89b-72cbc5050aff
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: 6a6d061f-0fc5-47f9-a188-fcf843d13d88
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: e4a16b37-71e2-4bc1-802e-92bf6525230f
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: 08430456-94bf-4f43-a95b-de05f0709c66
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: c4432861-a579-4600-9557-b8dd02e03995
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: a5f18d9b-a805-4788-9f8e-2053821c625c
+2026-06-30 18:57:57 [DEBU] Create activity log for celery task: 5417e5c9-ea69-4661-af6f-23bd76d58d5b
+2026-06-30 18:57:58 [DEBU] Create activity log for celery task: 3fe73f62-be51-43e9-ab83-fd0f2b108169
+2026-06-30 18:57:58 [INFO] Start clean celery periodic tasks.
+2026-06-30 18:57:58 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 18:57:58 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 18:57:58 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 18:57:58 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 18:58:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:04 [DEBU] Start subscribe vault change
+2026-06-30 18:58:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe vault change
+2026-06-30 18:58:05 [DEBU] Start subscribe vault change
+2026-06-30 18:58:05 [DEBU] Start subscribe setting change
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:58:05 [DEBU] Start subscribe setting change
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe vault change
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:58:05 [DEBU] Start subscribe setting change
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:05 [DEBU] Start subscribe vault change
+2026-06-30 18:58:05 [INFO] Start subscribe for stop job execution
+2026-06-30 18:58:05 [DEBU] Start subscribe setting change
+2026-06-30 18:58:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:58:13 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:58:13 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:58:13 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:58:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:58:20 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:58:20 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:58:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 18:58:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 18:58:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:27 [DEBU] Start subscribe vault change
+2026-06-30 18:58:27 [INFO] Start subscribe for stop job execution
+2026-06-30 18:58:27 [DEBU] Start subscribe setting change
+2026-06-30 18:58:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')

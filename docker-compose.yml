@@ -107,6 +107,8 @@ services:
       CHEN_HOST: http://chen:8082
     ports:
       - "8080:80"
+    volumes:
+      - ./data/core:/opt/jumpserver/data
     depends_on: [core, koko, lion, chen]
     networks: [net]
 

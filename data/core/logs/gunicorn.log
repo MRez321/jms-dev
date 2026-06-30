@@ -1,0 +1,1628 @@
+[2026-06-30 15:55:56 +0800] [21] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 15:55:56 +0800] [21] [INFO] Listening at: http://0.0.0.0:8080 (21)
+[2026-06-30 15:55:56 +0800] [21] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 15:55:56 +0800] [24] [INFO] Booting worker with pid: 24
+[2026-06-30 15:55:56 +0800] [25] [INFO] Booting worker with pid: 25
+[2026-06-30 15:55:56 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 15:55:56 +0800] [27] [INFO] Booting worker with pid: 27
+2026-06-30 15:56:30 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 15:56:31 [DEBU] Start subscribe vault change
+2026-06-30 15:56:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [INFO] Start subscribe for stop job execution
+2026-06-30 15:56:31 [DEBU] Start subscribe vault change
+2026-06-30 15:56:31 [DEBU] Start subscribe setting change
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 15:56:31 [INFO] Start subscribe for stop job execution
+2026-06-30 15:56:31 [DEBU] Start subscribe setting change
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe vault change
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe vault change
+2026-06-30 15:56:31 [INFO] Start subscribe for stop job execution
+2026-06-30 15:56:31 [INFO] Start subscribe for stop job execution
+2026-06-30 15:56:31 [DEBU] Start subscribe setting change
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 15:56:31 [DEBU] Start subscribe setting change
+2026-06-30 15:56:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 15:56:32 +0800] [24] [INFO] Started server process [24]
+[2026-06-30 15:56:32 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 15:56:32 +0800] [25] [INFO] Started server process [25]
+[2026-06-30 15:56:32 +0800] [24] [INFO] Waiting for application startup.
+[2026-06-30 15:56:32 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 15:56:32 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 15:56:32 +0800] [25] [INFO] Waiting for application startup.
+[2026-06-30 15:56:32 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 15:56:32 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 15:56:32 +0800] [24] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 15:56:32 +0800] [24] [INFO] Application startup complete.
+[2026-06-30 15:56:32 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 15:56:32 +0800] [27] [INFO] Application startup complete.
+[2026-06-30 15:56:32 +0800] [25] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 15:56:32 +0800] [25] [INFO] Application startup complete.
+[2026-06-30 15:56:32 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 15:56:32 +0800] [24] [INFO] ('172.18.0.6', 57966) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 15:56:32 +0800] [24] [INFO] connection open
+[2026-06-30 15:56:32 +0800] [24] [INFO] ('172.18.0.5', 53592) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 15:56:32 +0800] [24] [INFO] connection open
+172.18.0.7:48794 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.9:40538 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-06-30 15:56:42 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43772 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:33630 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.1:47670 - "GET / HTTP/1.1" 302
+172.18.0.9:33644 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 15:56:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.9:33654 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.1:47670 - "GET /core/auth/login/?next=/ HTTP/1.1" 200
+2026-06-30 15:56:44 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.9:33670 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-06-30 15:56:44 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 15:56:44 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:47670 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+172.18.0.1:47668 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 15:56:44 [WARN] Not Found: /static/css/style.css
+2026-06-30 15:56:44 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:47668 - "GET /static/css/style.css HTTP/1.1" 404
+172.18.0.1:47670 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 15:56:44 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 15:56:44 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:47670 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:47668 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 15:56:44 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:47670 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 15:56:44 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:47670 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:47668 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 15:56:44 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 15:56:44 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:47670 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:47668 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:47668 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:59580 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:47668 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:59580 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:47668 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:59580 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:47668 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:59580 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+172.18.0.1:47668 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 15:56:45 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:47668 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:59580 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 15:56:46 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.9:33688 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:60034 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:60034 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:60048 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:60054 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:60034 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:60062 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:60042 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:60048 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 15:56:47 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.j172.18.0.1:60054 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+in.js
+172.18.0.1:60042 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:60062 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:60048 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 15:56:52 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:59574 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+172.18.0.1:60036 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 15:56:52 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:59574 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 15:56:52 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:60066 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.7:39554 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+172.18.0.9:33686 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.9:56572 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 15:56:52 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:60066 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 15:56:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:51136 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 15:56:52 +0800] [26] [INFO] ('172.18.0.7', 51144) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 15:56:52 +0800] [26] [INFO] connection open
+172.18.0.9:56584 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.7:39106 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-06-30 15:57:22 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 15:57:22 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 15:57:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56572 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 15:57:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:36672 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 15:58:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.9:57106 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.9:38620 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.9:38636 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-06-30 15:58:35 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.9:38644 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+2026-06-30 15:58:35 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.9:38658 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-06-30 15:58:36 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.9:38682 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.9:38668 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.9:49838 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.9:49852 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-06-30 15:58:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:42876 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 15:58:52 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37906 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 15:59:32 +0800] [26] [INFO] connection closed
+2026-06-30 15:59:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7291ac17f010>
+2026-06-30 15:59:32 [DEBU] Subscription unsubscribed
+2026-06-30 15:59:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7291ac17f010>
+[2026-06-30 15:59:32 +0800] [24] [INFO] connection closed
+2026-06-30 15:59:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7291ac53a410>
+2026-06-30 15:59:32 [DEBU] Subscription unsubscribed
+2026-06-30 15:59:33 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7291ac53a410>
+[2026-06-30 15:59:33 +0800] [24] [INFO] connection closed
+2026-06-30 15:59:33 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7291ac5464d0>
+2026-06-30 15:59:33 [DEBU] Subscription unsubscribed
+2026-06-30 15:59:33 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7291ac5464d0>
+[2026-06-30 16:00:46 +0800] [20] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 16:00:46 +0800] [20] [INFO] Listening at: http://0.0.0.0:8080 (20)
+[2026-06-30 16:00:46 +0800] [20] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 16:00:46 +0800] [23] [INFO] Booting worker with pid: 23
+[2026-06-30 16:00:47 +0800] [24] [INFO] Booting worker with pid: 24
+[2026-06-30 16:00:47 +0800] [25] [INFO] Booting worker with pid: 25
+[2026-06-30 16:00:47 +0800] [26] [INFO] Booting worker with pid: 26
+2026-06-30 16:01:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 16:01:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 16:01:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 16:01:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe vault change
+2026-06-30 16:01:03 [DEBU] Start subscribe vault change
+2026-06-30 16:01:03 [DEBU] Start subscribe vault change
+2026-06-30 16:01:03 [INFO] Start subscribe for stop job execution
+2026-06-30 16:01:03 [INFO] Start subscribe for stop job execution
+2026-06-30 16:01:03 [DEBU] Start subscribe setting change
+2026-06-30 16:01:03 [DEBU] Start subscribe setting change
+2026-06-30 16:01:03 [INFO] Start subscribe for stop job execution
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe setting change
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 16:01:03 [DEBU] Start subscribe vault change
+2026-06-30 16:01:03 [INFO] Start subscribe for stop job execution
+2026-06-30 16:01:03 [DEBU] Start subscribe setting change
+2026-06-30 16:01:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 16:01:03 +0800] [24] [INFO] Started server process [24]
+[2026-06-30 16:01:03 +0800] [24] [INFO] Waiting for application startup.
+[2026-06-30 16:01:03 +0800] [24] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 16:01:03 +0800] [24] [INFO] Application startup complete.
+[2026-06-30 16:01:03 +0800] [23] [INFO] Started server process [23]
+[2026-06-30 16:01:03 +0800] [23] [INFO] Waiting for application startup.
+[2026-06-30 16:01:03 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 16:01:03 +0800] [23] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 16:01:03 +0800] [23] [INFO] Application startup complete.
+[2026-06-30 16:01:03 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 16:01:03 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 16:01:03 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 16:01:04 +0800] [25] [INFO] Started server process [25]
+[2026-06-30 16:01:04 +0800] [25] [INFO] Waiting for application startup.
+[2026-06-30 16:01:04 +0800] [25] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 16:01:04 +0800] [25] [INFO] Application startup complete.
+172.18.0.8:58286 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.6:43366 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.7:52966 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.6:57002 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-06-30 16:01:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57018 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 16:01:07 +0800] [26] [INFO] ('172.18.0.6', 57034) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 16:01:07 +0800] [26] [INFO] connection open
+172.18.0.8:40350 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.7:59358 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+[2026-06-30 16:01:19 +0800] [24] [INFO] ('172.18.0.7', 41574) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 16:01:19 +0800] [24] [INFO] connection open
+2026-06-30 16:01:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:40366 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:01:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 16:01:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:40366 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+fig'], result: True
+172.18.0.7:41584 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.8:37972 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 16:01:19 +0800] [23] [INFO] ('172.18.0.8', 37976) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 16:01:19 +0800] [23] [INFO] connection open
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.6:43390 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-06-30 16:02:07 [DEBU] pid 26 executor submit run update_user_last_used
+2026-06-30 16:02:07 [DEBU] pid 26 executor submit run update_token_last_used
+2026-06-30 16:02:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52186 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:02:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:45654 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:03:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:39180 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:03:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:54360 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:04:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:40442 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:04:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:50592 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:05:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37522 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:05:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:43626 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:06:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:33484 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:06:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:35562 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:07:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:07:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:07:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:35450 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:07:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:39540 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:08:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50650 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:08:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:36236 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:09:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34840 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:09:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:38216 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:51732 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:10:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53882 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:10:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:10:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:10:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56684 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:41372 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:41388 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:10:14 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:41410 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:10:14 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:41406 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:10:15 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:41396 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:10:16 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:41428 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:41412 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 16:10:17 [WARN] Not Found: /static/css/style.css
+172.18.0.1:47292 - "GET /static/css/style.css HTTP/1.1" 404
+me.min.css
+172.18.0.1:47294 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 16:10:17 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:47306 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 16:10:17 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:47288 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 16:10:18 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 16:10:18 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:47278 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+172.18.0.1:47268 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:47318 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 16:10:18 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:47324 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:47338 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 16:10:18 [WARN] Not Found: /static/img/logo.png
+172.18.0.1:47364 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:47370 - "GET /static/img/logo.png HTTP/1.1" 404
+172.18.0.1:47350 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:47372 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:47374 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:47376 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 16:10:18 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:47382 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:47378 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 16:10:18 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:47390 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 16:10:19 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:47400 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+l.min.js
+2026-06-30 16:10:19 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:47408 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:47428 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 16:10:19 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+
+2026-06-30 16:10:19 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:47440 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:47432 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 16:10:20 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 16:10:20 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 16:10:20 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 16:10:20 [WARN] Not Found: /static/js/bootstrap.min.js
+enu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:47468 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:47482 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:47484 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 16:10:20 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:47490 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 16:10:21 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 16:10:21 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:47502 - "GET /static/js/plugins/toastr/toastr.min.js2026-06-30 16:1172.18.0.1:47516 - "GET /static/js/plugins/markdown-it.min.js HT2026-06-30 16:10:21 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:47504 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:47540 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:47526 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 16:10:21 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:47556 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 16:10:21 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:47566 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 16:10:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:47780 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:11:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52872 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:11:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:39144 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:12:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59500 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:57444 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:57436 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:12:11 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57464 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:12:11 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57452 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:57476 - "GET /core/auth/login/?next=/ui/login/ HTTP/1.1" 200
+2026-06-30 16:12:12 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57478 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:12:12 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:57492 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+ss
+2026-06-30 16:12:12 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:57496 - "GET /static/css/font-awesome.min.css HTTP/1.1"2026-172.18.0.1:57500 - "GET /static/css/plugins/toastr/toas2026-06-30 16:12:12 [WARN172.18.0.1:57508 - "GET /static/css/style.css HTTP/1.1" 404
+172.18.0.1:57512 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:57516 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 16:12:12 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 16:12:12 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:57522 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:57528 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.12026-06-30 16:12:12 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:57538 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:57550 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:57556 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/img/logo.png
+2026-06-30 16:12:13 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:57584 - "GET /static/img/logo.png HTTP/1.1" 404
+le.css
+172.18.0.1:57568 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:57564 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:57576 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:57600 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:57612 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:57614 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:57654 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:57640 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:57662 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:57670 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:57680 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 16:12:13 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:57696 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 16:12:16 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:59914 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:59930 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 16:12:17 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 16:12:17 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:59938 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+astr.min.js
+172.18.0.1:59946 - "GET /static/js/jumpserver.js?v=9 HTTP/1.12026-0172.18.0.1:59942 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:59954 - "GET /static/js/inspinia.js HTTP/1.1" 404
+sMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:59958 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:59950 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 16:12:17 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 16:12:17 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:59984 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+l.min.js
+172.18.0.1:59968 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+.js
+172.18.0.1:59976 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.2026-06-30 16:12:17 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:59994 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:60000 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 16:12:21 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:57686 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:33650 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:33662 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:12:36 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:33670 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:12:36 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:33680 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:12:36 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:47852 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:47838 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/font-awesome.mi172.18.0.1:47874 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:47890 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:47872 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+172.18.0.1:47862 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+172.18.0.1:47892 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 16:12:38 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 16:12:38 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:47914 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:47900 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:47922 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:47898 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 16:12:38 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:47932 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 16:12:38 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 16:12:38 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 16:12:38 [WARN] Not Found: /static/img/logo.png
+1" 404
+172.18.0.1:47956 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:47970 - "GET /static/img/logo.png HTTP/1.1" 404
+2026-06-30 16:12:39 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:47972 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+39 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 16:12:39 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:47996 - "GET /static/js/plugins/metisMenu/jquery.met2026-06-30 16:12:39 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:48004 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:48018 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:48030 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 16:12:39 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:48036 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 16:12:39 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:48052 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 16:12:39 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:48062 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:48068 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 16:12:47 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:48274 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 16:12:47 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:48280 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:48288 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:48300 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:48318 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+172.18.0.1:48316 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:48326 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+.0.7.js
+172.18.0.1:48328 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:48322 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:48340 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 16:12:48 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:48350 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+s
+172.18.0.1:48374 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:48364 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 16:13:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:13:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:13:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51364 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:13:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:55270 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:14:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41190 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:14:22 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:14:22 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:14:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:44572 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:15:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:32794 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:15:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:46282 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:16:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:45194 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:16:22 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:16:22 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:16:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:35326 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:17:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52354 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:17:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:60480 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:18:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34052 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:18:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:38058 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:19:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41198 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:19:22 [DEBU] pid 26 executor submit run update_user_last_used
+2026-06-30 16:19:22 [DEBU] pid 26 executor submit run update_token_last_used
+2026-06-30 16:19:22 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:38040 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:20:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:46318 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:20:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:45028 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:53980 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:53978 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:20:25 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53990 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:20:25 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:53986 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:25 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:54004 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:56692 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:56682 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:20:27 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:56700 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:56712 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:28 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:56726 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:56748 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:56738 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:20:31 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:56754 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:20:32 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:56750 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53536 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:53530 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:20:36 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:53544 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+user-session/
+172.18.0.1:53552 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:20:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53574 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:53586 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:20:40 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53600 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:20:40 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:53614 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:40 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53626 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:41372 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:41362 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:41384 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:41400 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:20:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:41402 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:20:50 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:41406 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:41422 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:41426 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:20:53 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:41446 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:41440 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:20:53 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:41456 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:53 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:46820 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:46836 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:20:57 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:46844 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:20:57 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:46854 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:20:58 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:46880 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:46872 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:05 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:46892 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+user-session/
+172.18.0.1:46894 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:06 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:21:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:60122 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:38356 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:38350 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:11 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:38362 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:11 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:38370 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:11 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:38386 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:35752 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:21:18 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35768 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:35766 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:35788 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:35778 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:21 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35802 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35810 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:22 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35818 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:53030 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:52324 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:52312 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:31 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:52328 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:31 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52340 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52356 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:52376 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:52372 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:35 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:52384 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:35 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52398 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57434 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:57462 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:57446 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:41 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57464 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:41 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57466 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57470 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:47202 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:47210 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:21:51 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:47212 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:21:51 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:47228 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:52 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:47234 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:47250 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:47244 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:21:57 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:55456 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:21:57 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55470 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:00 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55502 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:55510 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:03 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55516 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:03 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:55524 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55536 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:36770 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:36758 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:22:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:49514 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:22:07 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:22:07 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36780 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:36776 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:08 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36788 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:36804 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:36808 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:15 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36814 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:16 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36830 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:17 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35740 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:35742 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:35748 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35758 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:21 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35764 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:22 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35776 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:43440 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:52736 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:52738 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:31 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52754 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:31 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:52766 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:33 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52780 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:56348 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:56346 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:22:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:56366 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:42 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:56360 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:56378 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:51166 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:51176 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:47 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:51190 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+user-session/
+172.18.0.1:51202 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:47 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:51218 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:22:47 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:51222 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:51228 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:51732 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:52 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:51734 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:52 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:51740 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:52 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:51744 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:34642 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:34646 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:22:57 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34662 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:22:57 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:34664 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:22:58 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34690 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:34682 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:23:03 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:34700 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:23:03 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34710 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:23:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34714 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:56992 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:56996 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:23:06 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57014 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:23:07 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57000 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:23:07 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57020 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:23:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:23:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:23:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34070 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:57038 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:57024 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:23:10 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57054 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:23:10 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57070 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:23:10 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57086 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:23:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:52612 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:33072 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:33074 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:33102 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:23:57 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:33106 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:23:58 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:33112 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:33088 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+172.18.0.1:33132 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:33122 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:24:02 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:33136 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:03 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:24:03 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:33146 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:33152 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:04 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:33164 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:05 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:33168 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:05 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:33180 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:06 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:33196 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:40026 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:36716 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:36718 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:24:09 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36740 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:09 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36724 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:09 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36754 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:36782 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:36770 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+172.18.0.1:36802 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+172.18.0.1:36792 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:24:14 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36806 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:14 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36814 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:15 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36828 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:36848 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:15 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36834 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:16 [WARN] Not Found: /static/img/facio.ico
+flat=0 HTTP/1.1" 200
+172.18.0.1:36846 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:36396 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:24:17 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:24:17 [WARN] Forbidden: /api/v1/authentication/user-session/
+03
+172.18.0.1:36410 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:36364 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:36380 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+2026-06-30 16:24:17 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36416 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:18 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:24:22 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36428 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:36450 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:36438 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+172.18.0.1:36458 - "GET / HTTP/1.1" 302
+172.18.0.1:36458 - "GET /core/auth/login/?next=/ HTTP/1.1" 200
+2026-06-30 16:24:24 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:36458 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 16:24:24 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+172.18.0.1:36470 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-06-30 16:24:24 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:36504 - "GET /static/css/login-style.css HTTP/1.1" 404
+js
+2026-06-30 16:24:24 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:36470 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:36464 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 16:24:24 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:36458 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+/select2.min.css
+2026-06-30 16:24:24 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:36464 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+-30 16:24:24 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:36488 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:36476 - "GET /static/css/style.css HTTP/1.1" 404
+172.18.0.1:36470 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-06-30 16:24:24 [WARN] Not Found: /static/img/logo.png
+-us&flat=0 HTTP/1.1" 200
+172.18.0.1:36528 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:36546 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:36488 - "GET /static/img/logo.png HTTP/1.1" 404
+172.18.0.1:36504 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:36476 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:36538 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:24:25 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 16:24:25 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36476 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:36560 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:25 [WARN] Not Found: /static/css/login-style.css
+TP/1.1" 404
+172.18.0.1:36504 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:36470 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 16:24:25 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 16:24:25 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36504 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+ect2.full.min.js
+2026-06-30 16:24:25 [WARN] Not Found: /static/img/facio.ico
+on/ HTTP/1.1" 403
+2026-06-30 16:24:25 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+1.1" 404
+2026-06-30 16:24:25 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 16:24:25 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.1722026-06-30 16:24:25 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:36488 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+3.2.min.js
+172.18.0.1:36504 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 16:24:25 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+TP/1.1" 404
+172.18.0.1:36470 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 16:24:25 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:36470 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:24:26 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:36600 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:26 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:36612 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:58644 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:58634 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+2026-06-30 16:24:27 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:24:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:50062 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:24:28 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58654 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:28 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:58670 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:29 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:58678 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:58686 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:58688 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:24:29 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58690 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:29 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:58700 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:29 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:58706 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:30 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58708 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:30 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58722 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:24:33 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58754 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:24:34 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58778 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:58774 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:24:35 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:24:35 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:58794 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:58792 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:58818 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:58804 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+172.18.0.1:43650 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:43658 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+172.18.0.1:43664 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:24:39 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:43680 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 200
+2026-06-30 16:24:42 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:43694 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:42 [WARN] Too Many Requests: /api/v1/settings/i18n/lina/
+172.18.0.1:43698 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 429
+2026-06-30 16:24:42 [WARN] Too Many Requests: /api/v1/settings/public/open/
+172.18.0.1:43704 - "GET /api/v1/settings/public/open/ HTTP/1.1" 429
+2026-06-30 16:24:42 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:43728 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:42 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:43742 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:42 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:43748 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:42 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:43760 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:24:42 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:43770 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:43 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:43784 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:24:43 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+2026-06-30 16:24:43 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+2026-06-30 16:24:44 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+2026-06-30 16:24:51 [WARN] Too Many Requests: /api/v1/settings/i18n/lina/
+2026-06-30 16:24:51 [WARN] Too Many Requests: /api/v1/settings/public/open/
+172.18.0.1:56458 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 429
+172.18.0.1:56456 - "GET /api/v1/settings/public/open/ HTTP/1.1" 429
+2026-06-30 16:24:51 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:56472 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:52 [WARN] Too Many Requests: /api/v1/settings/i18n/lina/
+172.18.0.1:56490 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 429
+172.18.0.1:56488 - "GET /api/v1/settings/public/open/ HTTP/1.1" 429
+2026-06-30 16:24:52 [WARN] Too Many Requests: /api/v1/settings/public/open/
+172.18.0.1:56510 - "GET /api/v1/settings/public/open/ HTTP/1.1" 429
+lina/
+172.18.0.1:56496 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 429
+2026-06-30 16:24:52 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:56524 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:52 [WARN] Too Many Requests: /api/v1/settings/public/open/
+2026-06-30 16:24:52 [WARN] Too Many Requests: /api/v1/settings/i18n/lina/
+172.18.0.1:56542 - "GET /api/v1/settings/public/open/ HTTP/1.1" 429
+172.18.0.1:56534 - "GET /api/v1/settings/i18n/lina/?lang=en-us&flat=0 HTTP/1.1" 429
+2026-06-30 16:24:53 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:56556 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:24:53 [WARN] Too Many Requests: /api/v1/authentication/user-session/
+172.18.0.1:56572 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 429
+2026-06-30 16:25:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37532 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:25:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:49788 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:26:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41558 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:26:28 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:26:28 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:26:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:38540 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:26:46 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53804 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:26:47 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53808 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:26:47 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:26:54 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53822 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:48452 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:48436 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:27:00 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:48460 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:00 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:48464 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:27:01 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:48476 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:04 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:48468 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:48486 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:48488 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:27:06 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57554 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+user-session/
+172.18.0.1:57550 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:06 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:57570 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:27:06 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57584 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43698 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:57612 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:57598 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:27:11 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57618 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+user-session/
+172.18.0.1:57634 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:11 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57648 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:57670 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:27:14 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:57680 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:57654 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:27:14 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57692 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:14 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57700 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:60628 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:60620 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:27:17 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:60640 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:27:17 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60650 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:17 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60658 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:60660 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:60674 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:27:20 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60684 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:20 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:60698 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:27:20 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60704 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:60720 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:60724 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:27:23 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:60734 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:27:23 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60742 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:25 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60754 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:54104 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:34366 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:27:29 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:34372 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:34350 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:27:29 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34388 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:27:29 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34394 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:34406 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:34404 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:27:33 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:27:33 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:34424 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:34412 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:27:33 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:34432 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:28:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43756 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:28:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:50120 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:29:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:29:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:29:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:44182 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:29:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:49706 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:30:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:45164 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:30:28 [DEBU] pid 23 executor submit run update_user_last_used
+2026-06-30 16:30:28 [DEBU] pid 23 executor submit run update_token_last_used
+2026-06-30 16:30:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:50928 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:31:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:35522 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:31:28 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:31:28 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:31:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:58570 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:32:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:49206 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:32:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:38194 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:33:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51146 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:33:29 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:33:29 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:33:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:59294 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:34:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55066 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:34:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:33458 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:45350 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:45358 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:34:30 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:45378 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:34:30 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45372 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:34:31 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45392 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:45414 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:45406 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:34:34 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:45420 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:34:34 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45436 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:34:34 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45446 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:45456 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:34:35 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45468 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:34:35 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:45476 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:34:36 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:49322 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:49330 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:34:37 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:49332 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:34:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:49338 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:34:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:49352 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:49344 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:34:38 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:49364 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:35:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:54364 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:35:29 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:35:29 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:35:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:51206 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:35566 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:35:56 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35580 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:35570 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:35:56 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35584 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:35:57 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35596 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:35618 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:35606 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:35:58 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35632 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:35:58 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35630 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:35:59 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35636 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:35654 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:35642 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:36:00 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35660 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:36:00 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35670 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:36:01 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 16:36:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38108 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:36:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:60806 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:37:07 [DEBU] pid 26 executor submit run update_user_last_used
+2026-06-30 16:37:07 [DEBU] pid 26 executor submit run update_token_last_used
+2026-06-30 16:37:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56970 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:37:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:35910 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:38:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50570 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:38:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:60618 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:58864 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:58866 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:38:49 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:58876 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:38:49 [WARN] Unauthorized: /api/v1/settings/public/
+172.18.0.1:58892 - "GET /api/v1/settings/public/ HTTP/1.1" 401
+2026-06-30 16:39:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57724 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:39:27 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45374 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:45400 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:45388 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:39:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:58258 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:39:30 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45410 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:39:31 [WARN] Unauthorized: /api/v1/settings/public/
+172.18.0.1:45422 - "GET /api/v1/settings/public/ HTTP/1.1" 401
+2026-06-30 16:39:41 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:38868 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:38860 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:39:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:38876 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:39:44 [WARN] Unauthorized: /api/v1/settings/public/
+172.18.0.1:38892 - "GET /api/v1/settings/public/ HTTP/1.1" 401
+2026-06-30 16:39:52 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:38108 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:40:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48500 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:45444 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:45454 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:40:09 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:45460 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:40:10 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:45474 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 16:40:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:50168 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:40:48 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:50886 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:50888 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:40:59 [WARN] Unauthorized: /api/v1/settings/public/
+172.18.0.1:50904 - "GET /api/v1/settings/public/ HTTP/1.1" 401
+2026-06-30 16:40:59 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:50898 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:41:01 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:50912 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:41:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:41:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:41:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50304 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:41:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:36466 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:42:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51794 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:42:30 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:42:30 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:42:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:35254 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:43:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50674 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:43:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:33564 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:44:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:36648 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:44:30 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:44:30 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:44:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:47662 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:45:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43520 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:45:25 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:33626 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:45:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:54974 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:56958 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 16:45:32 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:56972 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:56948 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:45:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:56976 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:45:32 [WARN] Unauthorized: /api/v1/settings/public/
+172.18.0.1:56986 - "GET /api/v1/settings/public/ HTTP/1.1" 401
+2026-06-30 16:46:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:35632 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:46:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:45306 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:47:07 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:47:07 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:47:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:44624 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:47:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:52012 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:48:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34680 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:48:30 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:48:30 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:48:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:53478 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:49:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51946 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:49:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:59322 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:49:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:42724 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:42738 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:42754 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 16:49:44 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:42756 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 16:49:44 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:42758 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 16:49:45 [WARN] Unauthorized: /api/v1/settings/public/
+172.18.0.1:42770 - "GET /api/v1/settings/public/ HTTP/1.1" 401
+2026-06-30 16:50:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:42952 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:50:31 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:50:31 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:50:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:37738 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:51:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:36102 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:51:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:33608 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:52:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56118 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 16:52:31 [DEBU] pid 25 executor submit run update_user_last_used
+2026-06-30 16:52:31 [DEBU] pid 25 executor submit run update_token_last_used
+2026-06-30 16:52:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:51194 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 16:52:55 +0800] [23] [INFO] connection closed
+2026-06-30 16:52:55 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x75dc9d015110>
+[2026-06-30 16:52:55 +0800] [26] [INFO] connection closed
+2026-06-30 16:52:55 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x75dcb42b5c10>
+2026-06-30 16:52:55 [DEBU] Subscription unsubscribed
+2026-06-30 16:52:55 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x75dc9d015110>
+2026-06-30 16:52:55 [DEBU] Subscription unsubscribed
+2026-06-30 16:52:55 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x75dcb42b5c10>
+[2026-06-30 16:52:55 +0800] [24] [INFO] connection closed
+2026-06-30 16:52:55 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x75dcb42c3750>
+2026-06-30 16:52:55 [DEBU] Subscription unsubscribed
+2026-06-30 16:52:55 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x75dcb42c3750>
+[2026-06-30 17:22:24 +0800] [21] [INFO] Starting gunicorn 23.0.0
+[2026-06-30 17:22:24 +0800] [21] [INFO] Listening at: http://0.0.0.0:8080 (21)
+[2026-06-30 17:22:24 +0800] [21] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-06-30 17:22:24 +0800] [24] [INFO] Booting worker with pid: 24
+[2026-06-30 17:22:24 +0800] [25] [INFO] Booting worker with pid: 25
+[2026-06-30 17:22:24 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-06-30 17:22:24 +0800] [27] [INFO] Booting worker with pid: 27
+2026-06-30 17:22:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 17:22:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 17:22:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 17:22:32 [DEBU] Start subscribe vault change
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 17:22:32 [DEBU] Start subscribe vault change
+2026-06-30 17:22:32 [INFO] Start subscribe for stop job execution
+2026-06-30 17:22:32 [DEBU] Start subscribe setting change
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 17:22:32 [INFO] Start subscribe for stop job execution
+2026-06-30 17:22:32 [DEBU] Start subscribe setting change
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 17:22:32 [DEBU] Start subscribe vault change
+2026-06-30 17:22:32 [INFO] Start subscribe for stop job execution
+2026-06-30 17:22:32 [DEBU] Start subscribe setting change
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 17:22:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire orgs mapping from memory
+[2026-06-30 17:22:32 +0800] [24] [INFO] Started server process [24]
+[2026-06-30 17:22:32 +0800] [24] [INFO] Waiting for application startup.
+2026-06-30 17:22:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 17:22:32 +0800] [24] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 17:22:32 +0800] [24] [INFO] Application startup complete.
+[2026-06-30 17:22:32 +0800] [25] [INFO] Started server process [25]
+[2026-06-30 17:22:32 +0800] [26] [INFO] Started server process [26]
+[2026-06-30 17:22:32 +0800] [26] [INFO] Waiting for application startup.
+[2026-06-30 17:22:32 +0800] [25] [INFO] Waiting for application startup.
+[2026-06-30 17:22:32 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 17:22:32 +0800] [25] [INFO] ASGI 'lifespan' protocol appears unsupported.
+2026-06-30 17:22:32 [DEBU] Start subscribe vault change
+[2026-06-30 17:22:32 +0800] [26] [INFO] Application startup complete.
+[2026-06-30 17:22:32 +0800] [25] [INFO] Application startup complete.
+2026-06-30 17:22:32 [INFO] Start subscribe for stop job execution
+2026-06-30 17:22:32 [DEBU] Start subscribe setting change
+2026-06-30 17:22:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-06-30 17:22:33 +0800] [27] [INFO] Started server process [27]
+[2026-06-30 17:22:33 +0800] [27] [INFO] Waiting for application startup.
+[2026-06-30 17:22:33 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-06-30 17:22:33 +0800] [27] [INFO] Application startup complete.
+172.18.0.5:33638 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.7:42624 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.8:43182 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.5:50378 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+172.18.0.7:56516 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+2026-06-30 17:22:41 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56530 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.8:35568 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+[2026-06-30 17:22:41 +0800] [24] [INFO] ('172.18.0.7', 56542) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 17:22:41 +0800] [24] [INFO] connection open
+2026-06-30 17:22:41 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56530 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 17:22:41 +0800] [27] [INFO] ('172.18.0.8', 35590) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 17:22:41 +0800] [27] [INFO] connection open
+2026-06-30 17:22:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:50380 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 17:22:44 +0800] [27] [INFO] ('172.18.0.5', 50384) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-06-30 17:22:44 +0800] [27] [INFO] connection open
+2026-06-30 17:22:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 17:22:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:35584 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.5:56272 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-06-30 17:23:11 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 17:23:11 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 17:23:11 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 17:23:11 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 17:23:41 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:48876 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:23:44 [DEBU] pid 26 executor submit run update_user_last_used
+2026-06-30 17:23:44 [DEBU] pid 26 executor submit run update_token_last_used
+2026-06-30 17:23:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:48704 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:24:41 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:55914 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:24:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:56586 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:39466 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+172.18.0.1:56764 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 17:25:41 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 17:25:41 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 17:25:41 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52058 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:25:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:54912 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:26:42 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:53134 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:26:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:60466 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:44708 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 17:27:24 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60392 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:59410 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:59420 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 17:27:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:59196 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 17:27:38 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:59206 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 17:27:38 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:59218 - "GET /static/img/facio.ico HTTP/1.1" 404
+2026-06-30 17:27:42 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60780 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:27:44 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 17:27:44 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 17:27:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:57282 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:28:41 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:54966 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 17:28:43 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:49746 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:54972 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:54970 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 17:28:44 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:54984 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 17:28:44 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 17:28:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.1:54996 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.5:48146 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:29:26 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53174 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 17:29:47 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35880 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:29:47 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:38218 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:37360 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-06-30 17:29:49 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:37370 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.1:37366 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 17:29:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:37372 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 17:29:50 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:37396 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+172.18.0.1:37386 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:37400 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+172.18.0.1:37402 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:37422 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+172.18.0.1:37436 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:37398 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/style.css
+172.18.0.1:37408 - "GET /static/css/style.css HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:37450 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:37462 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 17:29:51 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:37466 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:37470 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 17:29:51 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:37474 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:37484 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/img/login_image.png
+172.18.0.1:37496 - "GET /static/img/login_image.png HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/img/logo.png
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:37514 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:37490 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:37520 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:37522 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:37532 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:37554 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:37566 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:37572 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 17:29:52 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:37580 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:37586 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:37608 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:37600 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:37646 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:37632 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:37636 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:37622 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:37658 - "GET /static/js/inspinia.js HTTP/1.1" 404
+s
+172.18.0.1:37660 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:37668 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:37682 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:37684 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:37686 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-06-30 17:29:53 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:37696 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-06-30 17:29:54 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:37710 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:60590 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:60588 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-06-30 17:30:32 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:60594 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-06-30 17:30:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:60610 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-06-30 17:30:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37842 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:30:47 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:43700 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:31:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:56030 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:31:47 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:42624 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:32:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:41588 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:32:47 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:34746 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:33:44 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:33230 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 17:33:47 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47152 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200

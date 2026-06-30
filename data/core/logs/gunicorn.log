@@ -6475,3 +6475,139 @@ tegory=security_auth HTTP/1.1" 200
 172.18.0.7:43612 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
 2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
 172.18.0.7:43616 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.0" 200
+2026-06-30 20:21:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:48916 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:21:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:34148 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:22:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:53548 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:22:21 +0800] [27] [INFO] connection closed
+[2026-06-30 20:22:21 +0800] [26] [INFO] connection closed
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182e954d0>
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b3da90>
+2026-06-30 20:22:21 [DEBU] Subscription unsubscribed
+2026-06-30 20:22:21 [DEBU] Subscription unsubscribed
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182e954d0>
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b3da90>
+2026-06-30 20:22:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:52034 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:52022 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:52048 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+2026-06-30 20:22:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:38860 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:52044 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:52050 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:52054 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:55258 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-06-30 20:22:25 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:55260 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:55284 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+t: True
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+l_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:55270 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:22:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+[2026-06-30 20:22:26 +0800] [26] [INFO] ('172.18.0.1', 55298) - "WebSocket /ws/notifications/site-msg/" [accepted]
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-30 00:00:00) while time zone support is active.
+  warnings.warn(
+[2026-06-30 20:22:26 +0800] [26] [INFO] connection open
+2026-06-30 20:22:26 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+172.18.0.1:55296 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+172.18.0.1:55290 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:55306 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:55316 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:55308 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-23 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:55326 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+172.18.0.1:55342 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:23:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:23:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:23:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:54302 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:23:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:47492 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:24:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:38566 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:24:23 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:24:23 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:24:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:46018 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:25:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:36614 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:44558 - "GET /api/v1/notifications/site-messages/?offset=0&limit=15&has_read=false HTTP/1.1" 200
+2026-06-30 20:25:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:40688 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:26:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:42086 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:26:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:50522 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:27:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:27:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:27:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:46748 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:27:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:49270 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:28:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:57952 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:28:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:58312 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:51732 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:51734 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:38050 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:38046 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:38060 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+172.18.0.1:38086 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:38054 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:38096 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:38102 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:38106 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:38118 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-06-30 20:29:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:29:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:29:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:50066 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:29:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:46126 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:30:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:53804 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:30:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:40260 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:30:32 +0800] [26] [INFO] connection closed
+2026-06-30 20:30:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b901d0>
+2026-06-30 20:30:32 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b901d0>
+[2026-06-30 20:30:35 +0800] [28] [INFO] connection closed
+[2026-06-30 20:30:35 +0800] [28] [INFO] connection closed
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa180169690>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa170d5fd50>
+[2026-06-30 20:30:35 +0800] [29] [INFO] connection closed
+2026-06-30 20:30:35 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:35 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c33ee90>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa170d5fd50>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa180169690>
+2026-06-30 20:30:35 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c33ee90>
+172.18.0.7:39320 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 200

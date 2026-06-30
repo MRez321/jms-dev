@@ -11118,3 +11118,7 @@ you should set broker_connection_retry_on_startup to True.
 2026-06-30 20:15:16 [DEBU] New site msg created, publish it
 2026-06-30 20:15:16 New site msg created, publish it
 2026-06-30 20:15:16 Task notifications.notifications.publish_task[6590ae40-abc5-4507-957a-3a0abadf11d6] succeeded in 0.9796221440010413s: None
+2026-06-30 20:23:13 Task terminal.tasks.clean_orphan_session[2668bb8d-fd53-42c9-8fe6-ce5e0dd62a2a] received
+2026-06-30 20:23:14 >> Set language to en
+2026-06-30 20:23:14 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-06-30 20:23:14 Task terminal.tasks.clean_orphan_session[2668bb8d-fd53-42c9-8fe6-ce5e0dd62a2a] succeeded in 0.32608712300134357s: None

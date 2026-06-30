@@ -45288,3 +45288,7 @@ Get beat lock start to run it
 2026-06-30 20:00:44 beat: Starting...
 2026-06-30 20:03:44 DatabaseScheduler: Schedule changed.
 2026-06-30 20:07:45 DatabaseScheduler: Schedule changed.
+2026-06-30 20:13:46 DatabaseScheduler: Schedule changed.
+2026-06-30 20:23:13 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-06-30 20:23:13 [DEBU] Create activity log for celery task: 2668bb8d-fd53-42c9-8fe6-ce5e0dd62a2a
+2026-06-30 20:23:13 Create activity log for celery task: 2668bb8d-fd53-42c9-8fe6-ce5e0dd62a2a

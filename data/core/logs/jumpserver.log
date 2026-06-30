@@ -5014,3 +5014,74 @@ n.js
 2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
 2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
 2026-06-30 20:20:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:21:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:21:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:22:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182e954d0>
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b3da90>
+2026-06-30 20:22:21 [DEBU] Subscription unsubscribed
+2026-06-30 20:22:21 [DEBU] Subscription unsubscribed
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182e954d0>
+2026-06-30 20:22:21 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b3da90>
+2026-06-30 20:22:21 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 20:22:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:22:25 [WARN] Not Found: /static/img/logo_text_white.png
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:22:26 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 2
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:22:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:23:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:23:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:23:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:23:13 [DEBU] Create activity log for celery task: 2668bb8d-fd53-42c9-8fe6-ce5e0dd62a2a
+2026-06-30 20:23:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:24:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:24:23 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:24:23 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:24:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:25:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:25:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:26:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:26:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:27:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:27:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:27:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:27:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:28:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:28:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:28:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-06-30 20:29:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:29:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:29:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:29:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:30:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:30:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 20:30:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b901d0>
+2026-06-30 20:30:32 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:32 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa182b901d0>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa180169690>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa170d5fd50>
+2026-06-30 20:30:35 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c33ee90>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa170d5fd50>
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa180169690>
+2026-06-30 20:30:35 [DEBU] Subscription unsubscribed
+2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c33ee90>

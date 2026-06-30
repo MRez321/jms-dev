@@ -1,0 +1,1 @@
+    command: sh -c "cd /opt/jumpserver/apps && python3 manage.py collectstatic --noinput --clear && start web"

@@ -2979,3 +2979,640 @@ gs mapping from memory
 2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
 2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
 2026-06-30 18:58:42 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 18:59:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 18:59:13 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:00:11 [DEBU] pid 24 executor submit run update_user_last_used
+2026-06-30 19:00:11 [DEBU] pid 24 executor submit run update_token_last_used
+2026-06-30 19:00:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:00:13 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:00:26 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:00:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:01:05 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:01:05 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 19:01:05 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:01:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:01:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:02:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:02:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:02:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:02:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:02:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:02:56 [DEBU] Start subscribe vault change
+2026-06-30 19:02:56 [INFO] Start subscribe for stop job execution
+2026-06-30 19:02:56 [DEBU] Start subscribe setting change
+2026-06-30 19:02:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:03:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:03:14 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 19:03:14 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 19:03:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:04:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:04:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:04:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:04:51 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:04:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:04:51 [DEBU] Start subscribe vault change
+2026-06-30 19:04:51 [INFO] Start subscribe for stop job execution
+2026-06-30 19:04:51 [DEBU] Start subscribe setting change
+2026-06-30 19:04:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:05:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:05:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:06:11 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 19:06:11 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 19:06:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:06:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:07:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:07:14 [DEBU] pid 27 executor submit run update_user_last_used
+2026-06-30 19:07:14 [DEBU] pid 27 executor submit run update_token_last_used
+2026-06-30 19:07:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:07:59 [DEBU] Create activity log for celery task: 67d6fafc-bbe2-4520-9bf3-561d97103f0e
+2026-06-30 19:08:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:08:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:09:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:09:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:09:59 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 19:09:59 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:09:59 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 19:10:00 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:10:01 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:10:01 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:10:01 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:10:02 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:10:02 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/img/logo.png
+.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:10:02 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:10:03 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:10:05 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:10:06 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:10:06 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:10:06 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:10:07 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:10:08 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:10:08 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:10:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:10:08 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:10:08 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:10:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:10:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:10:33 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:10:33 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 19:10:33 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:10:34 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:10:34 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:10:34 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:34 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:10:35 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:10:35 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:10:35 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/jumpserver.js
+2/i18n/zh-CN.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:10:35 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:10:40 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:10:41 [WARN] Not Found: /static/js/jumpserver.js
+2/i18n/zh-CN.js
+2026-06-30 19:10:41 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:10:41 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:10:41 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:10:41 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:11:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:11:14 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:12:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:12:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:13:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:13:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:14:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:14:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:14:29 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ca830b80510>
+2026-06-30 19:14:29 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ca817026dd0>
+2026-06-30 19:14:29 [DEBU] Subscription unsubscribed
+2026-06-30 19:14:29 [DEBU] Subscription unsubscribed
+2026-06-30 19:14:29 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ca817026dd0>
+2026-06-30 19:14:29 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ca830b80510>
+2026-06-30 19:14:29 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ca8401088d0>
+2026-06-30 19:14:29 [DEBU] Subscription unsubscribed
+2026-06-30 19:14:29 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ca8401088d0>
+2026-06-30 19:15:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:15:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:15:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:05 [DEBU] Start subscribe vault change
+2026-06-30 19:15:05 [INFO] Start subscribe for stop job execution
+2026-06-30 19:15:05 [DEBU] Start subscribe setting change
+2026-06-30 19:15:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:15:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:30 [DEBU] Start subscribe vault change
+2026-06-30 19:15:30 [INFO] Start subscribe for stop job execution
+2026-06-30 19:15:30 [DEBU] Start subscribe setting change
+2026-06-30 19:15:30 [DEBU] Start subscribe setting change
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:35 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:15:35 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:15:37 [DEBU] Work ready signal recv
+2026-06-30 19:15:37 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:15:37 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: dca61ee1-3eec-49bf-b45c-0a618a8a1f67
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: de8d674e-47b8-4bcb-8179-af643fd0f3ea
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 6e371c52-de07-45e8-a9ad-cbecc0423e78
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: ca8370ce-666a-4c9d-9830-e6272cb2f904
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 4936d0e6-7bb8-497d-839f-2b8487a3efc9
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 1def6f1b-daf2-437d-811c-b848af6100ac
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 7b6dbc9d-42ee-4fbb-962c-76d28c179115
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: f5f9fd32-9fc6-4149-aeed-a753b93a6929
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: dcc97f83-8922-429a-941f-56ebaa1fc2cb
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: a331f60f-8a34-4db5-ae10-924e2520960b
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: d52cedf0-38af-4995-b502-7caa65c43d00
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 7235d1f1-3a87-4f60-ac89-91545406d6cf
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 9b0400ab-6e02-42d9-89d5-500774598251
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: a66d3238-2a51-45c5-be79-990704eee211
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: cba3b878-b0c8-47bd-a6e7-82f8bcfd0577
+2026-06-30 19:15:38 [INFO] Start clean celery periodic tasks.
+2026-06-30 19:15:38 [INFO] Start clean celery periodic tasks.
+2026-06-30 19:15:38 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:15:38 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:15:38 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 19:15:38 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 19:15:38 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:15:38 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:15:38 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 19:15:38 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 19:16:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:16:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:16:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:16:14 [DEBU] Start subscribe vault change
+2026-06-30 19:16:14 [INFO] Start subscribe for stop job execution
+2026-06-30 19:16:14 [DEBU] Start subscribe setting change
+2026-06-30 19:16:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:18:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:18:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:19 [DEBU] Start subscribe vault change
+2026-06-30 19:18:19 [INFO] Start subscribe for stop job execution
+2026-06-30 19:18:19 [DEBU] Start subscribe setting change
+2026-06-30 19:18:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:18:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:18:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:18:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:47 [DEBU] Start subscribe vault change
+2026-06-30 19:18:47 [DEBU] Start subscribe vault change
+2026-06-30 19:18:48 [INFO] Start subscribe for stop job execution
+2026-06-30 19:18:48 [DEBU] Start subscribe setting change
+2026-06-30 19:18:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:48 [DEBU] Start subscribe setting change
+2026-06-30 19:18:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:49 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:18:49 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:18:53 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 19:18:53 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 19:18:53 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-06-30 19:19:00 [DEBU] Work ready signal recv
+2026-06-30 19:19:01 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 014632ad-6c8e-4b2b-bd7d-fd8f60fc67f9
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 008f6af9-e055-4adb-8a4e-1fbb4c1dacb4
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 7651529b-630b-4613-a9da-ff193f8201da
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: b529b429-503b-4b0a-9db6-117696e0a288
+2026-06-30 19:19:01 [INFO] Start clean celery periodic tasks.
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 564a71cb-09e0-4e22-878d-617f2a0b66ef
+2026-06-30 19:19:01 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 1912656a-6fba-473a-85e6-0d2d4ff94cb3
+2026-06-30 19:19:02 [DEBU] Create activity log for celery task: 11036cae-0351-439a-9576-9605c36c4d45
+2026-06-30 19:19:02 [DEBU] Create activity log for celery task: aa07595e-8282-4aa4-8dbd-cf0288c3faa6
+2026-06-30 19:19:02 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 19:19:02 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 19:19:02 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:19:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:11 [DEBU] Start subscribe vault change
+2026-06-30 19:19:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:12 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:12 [DEBU] Start subscribe setting change
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe vault change
+2026-06-30 19:19:12 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:12 [DEBU] Start subscribe setting change
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe vault change
+2026-06-30 19:19:12 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:12 [DEBU] Start subscribe setting change
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:12 [DEBU] Start subscribe vault change
+2026-06-30 19:19:12 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:12 [DEBU] Start subscribe setting change
+2026-06-30 19:19:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:26 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:19:26 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:19:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:19:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:19:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:19:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:19:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:19:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:19:34 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:19:36 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 19:19:36 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:19:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:44 [DEBU] Start subscribe vault change
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:44 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:44 [DEBU] Start subscribe vault change
+2026-06-30 19:19:44 [DEBU] Start subscribe setting change
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:44 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:45 [DEBU] Start subscribe setting change
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:45 [DEBU] Start subscribe vault change
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:45 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:45 [DEBU] Start subscribe setting change
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:45 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:45 [DEBU] Start subscribe setting change
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:54 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:19:54 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:19:56 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:19:56 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-06-30 19:20:06 [DEBU] Work ready signal recv
+2026-06-30 19:20:06 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 241f967f-3f7b-412a-804e-6296ac1f954f
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 95f789ec-e4ae-45b6-b461-b8b0bad57255
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 31ac90af-b0c6-4545-975e-1296e61041a0
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: ab0efd06-e571-4627-aebf-11152a4bf965
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 67affbf2-2baf-4ff6-96d1-b16cb91b5c23
+2026-06-30 19:20:06 [INFO] Start clean celery periodic tasks.
+2026-06-30 19:20:06 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 7dbac30e-7fa8-4d01-9b1a-e621a0d15690
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: c76d585a-40fc-4f67-a19f-221699e5bd50
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: f15d2be3-6eb7-48d2-a82f-670c74949643
+2026-06-30 19:20:06 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-06-30 19:20:06 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-06-30 19:20:06 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-06-30 19:20:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:20:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:20:37 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:20:38 [WARN] Unauthorized: /api/v1/users/profile/
+2026-06-30 19:20:38 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 19:20:38 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-06-30 19:20:39 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:20:39 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:20:39 [WARN] Not Found: /static/css/style.css
+lect2/select2.min.css
+2026-06-30 19:20:40 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:20:40 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:20:40 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:20:40 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:20:40 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:20:40 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:20:41 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:20:42 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:20:42 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:20:42 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:20:42 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:20:44 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:20:44 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:20:45 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+s
+2026-06-30 19:20:45 [WARN] Not Found: /static/css/style.css
+1.min.js
+2026-06-30 19:20:45 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:20:45 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:20:45 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:20:45 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:20:45 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:45 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:20:45 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:20:45 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:20:45 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:20:45 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:20:45 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:20:46 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:20:47 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 19:20:47 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:20:54 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7661940a1cd0>
+2026-06-30 19:20:54 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7661940a2710>
+2026-06-30 19:20:55 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x7661940a07d0>
+2026-06-30 19:20:55 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x7661940a10d0>
+2026-06-30 19:20:55 [DEBU] User login failed: admin
+2026-06-30 19:21:03 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7661941f47d0>
+2026-06-30 19:21:03 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x766195a2e290>
+2026-06-30 19:21:03 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x766194827dd0>
+2026-06-30 19:21:03 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x7661941f4850>
+2026-06-30 19:21:03 [DEBU] User login failed: admin
+2026-06-30 19:21:15 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x7661941dfa90>
+2026-06-30 19:21:15 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7661941f4310>
+2026-06-30 19:21:15 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x7661941f5450>
+2026-06-30 19:21:15 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x76619425b510>
+2026-06-30 19:21:15 [DEBU] User login failed: admin
+2026-06-30 19:21:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:21:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:21:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:21:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:21:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:21:49 [DEBU] Start subscribe vault change
+2026-06-30 19:21:49 [INFO] Start subscribe for stop job execution
+2026-06-30 19:21:49 [DEBU] Start subscribe setting change
+2026-06-30 19:21:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:22:08 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x766194244d10>
+2026-06-30 19:22:08 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x7661941e1610>
+2026-06-30 19:22:08 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x76619423eed0>
+2026-06-30 19:22:08 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x76619423e8d0>
+2026-06-30 19:22:08 [DEBU] User login failed: admin
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:22:27 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:27 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:22:27 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:22:27 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:22:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:22:28 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:22:28 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:22:28 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:22:28 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:22:29 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 19:22:29 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:29 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:22:29 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:22:29 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:22:29 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:29 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:22:30 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:22:30 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:22:30 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:22:30 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:22:30 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:22:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:22:52 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:22:52 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:22:52 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:22:52 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:22:52 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:22:52 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:22:52 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/inspinia.js
+s
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:22:53 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:22:54 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:22:54 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:22:54 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:23:28 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:23:28 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:23:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:23:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:24:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:24:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:24:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:24:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:24:31 [DEBU] Start subscribe vault change
+2026-06-30 19:24:31 [INFO] Start subscribe for stop job execution
+2026-06-30 19:24:31 [DEBU] Start subscribe setting change
+2026-06-30 19:24:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:24:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:25:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:25:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:25:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:25:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:25:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:25:46 [DEBU] Start subscribe vault change
+2026-06-30 19:25:46 [INFO] Start subscribe for stop job execution
+2026-06-30 19:25:46 [DEBU] Start subscribe setting change
+2026-06-30 19:25:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:26:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:26:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:26:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:26:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:26:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:26:54 [DEBU] Start subscribe vault change
+2026-06-30 19:26:54 [INFO] Start subscribe for stop job execution
+2026-06-30 19:26:54 [DEBU] Start subscribe setting change
+2026-06-30 19:26:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:27:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:27:36 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:27:36 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:27:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:28:14 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/css/style.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:28:15 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:28:15 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:28:15 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:28:15 [WARN] Not Found: /static/img/logo.png
+2026-06-30 19:28:15 [WARN] Not Found: /static/img/login_image.png
+2026-06-30 19:28:16 [WARN] Not Found: /static/css/login-style.css
+2026-06-30 19:28:16 [WARN] Not Found: /static/css/jumpserver.css
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+.3.2.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-06-30 19:28:16 [WARN] Not Found: /static/js/jumpserver.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/img/facio.ico
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/inspinia.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-06-30 19:28:17 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-06-30 19:28:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:28:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:29:28 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:29:28 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:29:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:29:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:30:07 [DEBU] Create activity log for celery task: 3d45ed2f-7f8d-4d75-9202-3e5151c73e16
+2026-06-30 19:30:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:30:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:31:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:31:36 [DEBU] pid 30 executor submit run update_user_last_used
+2026-06-30 19:31:36 [DEBU] pid 30 executor submit run update_token_last_used
+2026-06-30 19:31:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:32:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:32:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:33:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-06-30 19:33:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True

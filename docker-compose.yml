@@ -27,7 +27,6 @@ services:
     image: jumpserver/core:v4.10.16-ce
     container_name: jms_core
     restart: unless-stopped
-    command: start web
     environment:
       SECRET_KEY: PleaseChangeMe1234567890abcdefgh
       BOOTSTRAP_TOKEN: PleaseChangeMe

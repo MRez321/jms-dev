@@ -1,0 +1,507 @@
+<template>
+  <div class="code-editor" style="font-size: 12px">
+    <el-form ref="form" :model="formModel" :rules="rules" label-position="top" label-width="80px">
+      <div class="form-content">
+        <el-form-item
+          v-for="(item, index) in iActions"
+          :key="index"
+          :label="item.name"
+          :prop="item.name"
+        >
+          <template v-if="item.type === 'button' && !item.isVisible">
+            <el-tooltip :disabled="!item.tip" :content="item.tip">
+              <el-button
+                :type="item.el && item.el.type"
+                class="start-stop-btn"
+                :disabled="item.disabled"
+                size="small"
+                @click="item.callback()"
+              >
+                <i :class="item.icon" />
+
+                {{ item.name }}
+              </el-button>
+            </el-tooltip>
+          </template>
+
+          <template v-if="item.type === 'input' && item.el && item.el.autoComplete">
+            <el-tooltip :disabled="!item.tip" :content="item.tip">
+              <span class="inline-input">
+                <el-autocomplete
+                  v-model="formModel[item.name]"
+                  :fetch-suggestions="item.el.query"
+                  :placeholder="item.placeholder"
+                  class="inline-input"
+                  size="small"
+                  clearable
+                  @change="handleInputChange(item)"
+                  @select="handleInputChange(item)"
+                />
+              </span>
+            </el-tooltip>
+          </template>
+
+          <template v-else-if="item.type === 'input'">
+            <el-tooltip :disabled="!item.tip" :content="item.tip">
+              <el-input
+                v-model="formModel[item.name]"
+                :class="!isFold ? 'special-style' : ''"
+                :placeholder="item.placeholder"
+                class="inline-input"
+                size="small"
+                @change="item.callback(formModel[item.name])"
+              />
+            </el-tooltip>
+          </template>
+
+          <template v-if="item.type === 'select' && item.el && item.el.create">
+            <el-tooltip :disabled="!item.tip" :content="item.tip">
+              <span>
+                <span class="filter-label">{{ item.name }}:</span>
+                <el-select
+                  v-if="item.type === 'select' && item.el && item.el.create"
+                  :key="index"
+                  v-model="formModel[item.name]"
+                  :allow-create="item.el.create || false"
+                  :filterable="item.el.create || false"
+                  :multiple="item.el.multiple"
+                  :placeholder="item.name"
+                  class="autoWidth-select"
+                  default-first-option
+                  size="small"
+                  @change="item.callback(item.value)"
+                >
+                  <template #prefix>{{ item.label + ':' + item.value }}</template>
+                  <el-option
+                    v-for="(option, id) in item.options"
+                    :key="id"
+                    :label="option.label"
+                    :title="option.value"
+                    :value="option.value"
+                  />
+                </el-select>
+              </span>
+            </el-tooltip>
+          </template>
+
+          <template v-if="item.type === 'select' && (!item.el || !item.el.create)">
+            <el-tooltip :disabled="!item.tip" :content="item.tip">
+              <el-dropdown
+                class="select-dropdown"
+                trigger="click"
+                @command="
+                  (command) => {
+                    item.value = command
+                    item.callback(command)
+                  }
+                "
+              >
+                <el-button size="small" type="primary">
+                  <div class="text-content">
+                    <span class="content">
+                      {{ getLabel(item.value, item.options) }}
+                      <el-icon class="el-icon--right"><ArrowDown /></el-icon>
+                    </span>
+                  </div>
+                </el-button>
+                <template #dropdown>
+                  <el-dropdown-menu>
+                    <el-dropdown-item
+                      v-for="(option, i) in item.options"
+                      :key="i"
+                      :command="option.value"
+                    >
+                      {{ option.label }}
+                    </el-dropdown-item>
+                  </el-dropdown-menu>
+                </template>
+              </el-dropdown>
+            </el-tooltip>
+          </template>
+
+          <template v-if="item.type === 'switch'">
+            <el-tooltip :disabled="!item.tip" :content="item.tip">
+              <el-switch
+                v-model="formModel[item.name]"
+                :active-text="item.name"
+                :disabled="item.disabled"
+                @change="item.callback(formModel[item.name])"
+              />
+            </el-tooltip>
+          </template>
+        </el-form-item>
+        <div
+          v-if="Object.prototype.hasOwnProperty.call(toolbar, 'fold')"
+          :class="!isFold ? 'sepcial-icon' : ''"
+          class="fold"
+        >
+          <el-tooltip :content="$tc('MoreActions')" :open-delay="500" placement="top">
+            <i
+              :class="[isFold ? 'fa-angle-double-right' : 'fa-angle-double-down']"
+              class="fa"
+              @click="onChangeFold"
+            />
+          </el-tooltip>
+        </div>
+      </div>
+      <div class="right-side">
+        <div v-for="(item, index) in toolbar.right" :key="index">
+          <el-tooltip :content="item.tip" :open-delay="500">
+            <el-button
+              v-if="item.type === 'button'"
+              :disabled="item.disabled"
+              size="small"
+              type="default"
+              @click="item.callback()"
+            >
+              <i v-if="item.icon.startsWith('fa')" :class="'fa ' + item.icon" />
+              <svg-icon v-else :icon-class="item.icon" style="font-size: 14px" />
+            </el-button>
+          </el-tooltip>
+        </div>
+      </div>
+    </el-form>
+    <codemirror
+      ref="myCm"
+      v-model="iValue"
+      :extensions="extensions"
+      :tab-size="iOptions.tabSize || 4"
+      :placeholder="iOptions.placeholder"
+      :autofocus="iOptions.autofocus"
+      :disabled="!!iOptions.readOnly"
+      :style="editorStyle"
+      class="editor"
+    />
+  </div>
+</template>
+
+<script>
+import { Codemirror } from 'vue-codemirror'
+import { basicSetup } from 'codemirror'
+import { StreamLanguage } from '@codemirror/language'
+import { shell } from '@codemirror/legacy-modes/mode/shell'
+import { powerShell } from '@codemirror/legacy-modes/mode/powershell'
+import { python } from '@codemirror/legacy-modes/mode/python'
+import { yaml } from '@codemirror/legacy-modes/mode/yaml'
+import { ruby } from '@codemirror/legacy-modes/mode/ruby'
+
+const MODE_MAP = {
+  shell,
+  bash: shell,
+  sh: shell,
+  powershell: powerShell,
+  win_shell: powerShell,
+  python,
+  yaml,
+  ruby
+}
+
+export default {
+  components: {
+    codemirror: Codemirror
+  },
+  props: {
+    toolbar: {
+      type: [Array, Object],
+      default: () => []
+    },
+    modelValue: {
+      type: [String, Object],
+      default: () => ''
+    },
+    options: {
+      type: Object,
+      default: () => {
+        return {}
+      }
+    }
+  },
+  data() {
+    return {
+      isFold: true,
+      formModel: {}
+    }
+  },
+  computed: {
+    iActions() {
+      let actionsObj = this.toolbar.left || {}
+      const fold = this.toolbar.fold || {}
+      if (!this.isFold) {
+        actionsObj = { ...actionsObj, ...fold }
+      }
+
+      // 将对象转换为数组
+      const actions = Object.values(actionsObj)
+
+      actions.forEach((action) => {
+        if (!Object.prototype.hasOwnProperty.call(this.formModel, action.name)) {
+          this.formModel[action.name] = action.value || ''
+        }
+      })
+
+      return actions
+    },
+    rules() {
+      let actionsObj = this.toolbar.left || {}
+      const fold = this.toolbar.fold || {}
+      if (!this.isFold) {
+        actionsObj = { ...actionsObj, ...fold }
+      }
+
+      const rules = {}
+
+      Object.values(actionsObj).forEach((action) => {
+        if (action.name === this.$t('RunAs') && action.type === 'input') {
+          rules[action.name] = [
+            { required: true, message: this.$t('RequiredRunas'), trigger: 'blur' }
+          ]
+        }
+      })
+
+      return rules
+    },
+    iValue: {
+      get() {
+        return this.modelValue
+      },
+      set(val) {
+        this.$emit('update:modelValue', val)
+        this.$emit('input', val)
+      }
+    },
+    iOptions() {
+      const defaultOptions = {
+        tabSize: 4,
+        mode: 'shell',
+        placeholder: 'Code goes here...',
+        autofocus: true
+      }
+      return Object.assign(defaultOptions, this.options)
+    },
+    extensions() {
+      const exts = [basicSetup]
+      const mode = MODE_MAP[this.iOptions.mode]
+      if (mode) {
+        exts.push(StreamLanguage.define(mode))
+      }
+      return exts
+    },
+    editorStyle() {
+      const style = { height: this.iOptions.height || '300px' }
+      if (this.iActions.length > 0) {
+        style.marginLeft = '30px'
+      }
+      return style
+    }
+  },
+  methods: {
+    onChangeFold() {
+      this.isFold = !this.isFold
+    },
+    getLabel(value, items) {
+      for (const item of items) {
+        if (item.value === value) {
+          return item.label
+        }
+      }
+    },
+    handleInputChange(item) {
+      item.callback(this.formModel[item.name])
+      this.$refs.form.validateField(item.name)
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+$header-bg-color: #f5f6f7;
+$input-border-color: #c0c4cc;
+
+.code-editor {
+  display: flex;
+  flex-direction: column;
+
+  .el-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 30px;
+    margin-bottom: 20px;
+
+    .form-content {
+      display: flex;
+      flex: 12;
+
+      .el-form-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        margin-bottom: 0;
+        margin-right: 5px;
+
+        // input 框与 label 相关样式
+        :deep(.el-form-item__label) {
+          display: flex;
+          justify-items: flex-start;
+          align-items: center;
+          height: 20px;
+          padding-bottom: 5px !important;
+          color: var(--color-text-secondary);
+          font-weight: 700;
+          font-size: 11px;
+        }
+
+        :deep(.el-form-item__content .inline-input .el-input__inner) {
+          //width: 130px;
+          min-width: 130px;
+        }
+
+        // 执行、暂停按钮
+        :deep(.el-form-item__content .start-stop-btn) {
+          display: flex;
+          align-items: center;
+          height: 28px;
+          margin-bottom: 1.5px;
+        }
+
+        :deep(.el-form-item__content) .select-dropdown .el-button {
+          width: 125px;
+          background-color: $header-bg-color;
+          border-color: $input-border-color;
+
+          &:focus,
+          &:hover {
+            border-color: $input-border-color !important;
+            background-color: $header-bg-color !important;
+          }
+
+          .text-content {
+            color: var(--color-text-primary);
+
+            .content {
+              display: flex;
+              justify-content: space-between;
+            }
+          }
+        }
+
+        &.is-required {
+          margin-bottom: -1px;
+        }
+      }
+
+      .fold {
+        display: flex;
+        align-items: center;
+        margin-left: 15px;
+
+        &.sepcial-icon {
+          margin-top: 5px;
+          margin-left: 0 !important;
+        }
+
+        i {
+          font-weight: bold;
+          font-size: 15px;
+          cursor: pointer;
+        }
+      }
+    }
+
+    .right-side {
+      display: flex;
+      flex: 1;
+      width: 90px;
+      //margin-right: 10px;
+
+      .el-button {
+        border: none;
+        padding: 5px;
+        font-size: 14px;
+        width: 28px;
+        height: 28px;
+        background: none;
+
+        &:hover {
+          color: var(--color-text-primary);
+          background-color: #e6e6e6;
+        }
+      }
+    }
+  }
+
+  .editor {
+    overflow: hidden;
+
+    :deep(.cm-editor) {
+      border: 1px solid var(--color-border);
+    }
+
+    :deep(.cm-scroller) {
+      overflow: auto;
+    }
+  }
+}
+
+:deep(.cm-line) {
+  line-height: 18px;
+}
+
+.runas-input {
+  height: 28px;
+
+  :deep(.el-select) {
+    width: 100px;
+  }
+}
+
+.autoWidth-select {
+  min-width: 100px;
+}
+
+.autoWidth-select :deep(.el-input__prefix) {
+  position: relative;
+  left: 0;
+  box-sizing: border-box;
+  height: 30px;
+  line-height: 30px;
+  visibility: hidden;
+}
+
+.autoWidth-select :deep(input) {
+  position: absolute;
+  padding-left: 0px;
+  border: none;
+  color: #606266;
+  background-color: #e6e6e6;
+  font-size: 12px;
+  font-weight: 470;
+  line-height: 27px;
+}
+
+:deep(.el-select) {
+  top: -1px;
+
+  .el-input .el-select__caret {
+    color: #7a7c7f;
+  }
+}
+
+.filter-label {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.select-content {
+  display: inline-block;
+  position: relative;
+  top: 1px;
+  height: 28px;
+  line-height: 28px;
+  padding-left: 15px;
+  font-size: 0;
+  border: 1px solid #dcdfe6;
+  border-radius: 4px;
+  background-color: #e6e6e6;
+}
+</style>

@@ -8035,3 +8035,521 @@ Traceback (most recent call last):
     raise KeyError(f'No such transport: {transport}')
 KeyError: 'No such transport: '
 2026-06-30 18:58:12 Events of group {task} enabled by remote.
+2026-06-30 19:15:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:15:30 [DEBU] Start subscribe vault change
+2026-06-30 19:15:30 [INFO] Start subscribe for stop job execution
+2026-06-30 19:15:30 [DEBU] Start subscribe setting change
+2026-06-30 19:15:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@18c1bc5ca3b7 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-06-30 19:15:37
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x76ad13fa7a50
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:15:37 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-06-30 19:15:37 Connected to redis://redis:6379/3
+2026-06-30 19:15:37 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-06-30 19:15:37 [DEBU] Work ready signal recv
+2026-06-30 19:15:37 Work ready signal recv
+2026-06-30 19:15:37 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:15:37 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: dca61ee1-3eec-49bf-b45c-0a618a8a1f67
+2026-06-30 19:15:37 Create activity log for celery task: dca61ee1-3eec-49bf-b45c-0a618a8a1f67
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: de8d674e-47b8-4bcb-8179-af643fd0f3ea
+2026-06-30 19:15:37 Create activity log for celery task: de8d674e-47b8-4bcb-8179-af643fd0f3ea
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: ca8370ce-666a-4c9d-9830-e6272cb2f904
+2026-06-30 19:15:37 Create activity log for celery task: ca8370ce-666a-4c9d-9830-e6272cb2f904
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 1def6f1b-daf2-437d-811c-b848af6100ac
+2026-06-30 19:15:37 Create activity log for celery task: 1def6f1b-daf2-437d-811c-b848af6100ac
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: f5f9fd32-9fc6-4149-aeed-a753b93a6929
+2026-06-30 19:15:37 Create activity log for celery task: f5f9fd32-9fc6-4149-aeed-a753b93a6929
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: a331f60f-8a34-4db5-ae10-924e2520960b
+2026-06-30 19:15:37 Create activity log for celery task: a331f60f-8a34-4db5-ae10-924e2520960b
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: 7235d1f1-3a87-4f60-ac89-91545406d6cf
+2026-06-30 19:15:37 Create activity log for celery task: 7235d1f1-3a87-4f60-ac89-91545406d6cf
+2026-06-30 19:15:37 [DEBU] Create activity log for celery task: a66d3238-2a51-45c5-be79-990704eee211
+2026-06-30 19:15:37 Create activity log for celery task: a66d3238-2a51-45c5-be79-990704eee211
+2026-06-30 19:15:38 ansible@18c1bc5ca3b7 ready.
+2026-06-30 19:18:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:18:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:18:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:18:47 [DEBU] Start subscribe vault change
+2026-06-30 19:18:48 [INFO] Start subscribe for stop job execution
+2026-06-30 19:18:48 [DEBU] Start subscribe setting change
+2026-06-30 19:18:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@3f93f2a90cdf v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-06-30 19:19:00
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x74f2990ebe90
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:19:00 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-06-30 19:19:00 Connected to redis://redis:6379/3
+2026-06-30 19:19:00 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-06-30 19:19:00 [DEBU] Work ready signal recv
+2026-06-30 19:19:00 Work ready signal recv
+2026-06-30 19:19:01 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:19:01 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 014632ad-6c8e-4b2b-bd7d-fd8f60fc67f9
+2026-06-30 19:19:01 Create activity log for celery task: 014632ad-6c8e-4b2b-bd7d-fd8f60fc67f9
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 008f6af9-e055-4adb-8a4e-1fbb4c1dacb4
+2026-06-30 19:19:01 Create activity log for celery task: 008f6af9-e055-4adb-8a4e-1fbb4c1dacb4
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 7651529b-630b-4613-a9da-ff193f8201da
+2026-06-30 19:19:01 Create activity log for celery task: 7651529b-630b-4613-a9da-ff193f8201da
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: b529b429-503b-4b0a-9db6-117696e0a288
+2026-06-30 19:19:01 Create activity log for celery task: b529b429-503b-4b0a-9db6-117696e0a288
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 564a71cb-09e0-4e22-878d-617f2a0b66ef
+2026-06-30 19:19:01 Create activity log for celery task: 564a71cb-09e0-4e22-878d-617f2a0b66ef
+2026-06-30 19:19:01 [DEBU] Create activity log for celery task: 1912656a-6fba-473a-85e6-0d2d4ff94cb3
+2026-06-30 19:19:01 Create activity log for celery task: 1912656a-6fba-473a-85e6-0d2d4ff94cb3
+2026-06-30 19:19:02 [DEBU] Create activity log for celery task: 11036cae-0351-439a-9576-9605c36c4d45
+2026-06-30 19:19:02 Create activity log for celery task: 11036cae-0351-439a-9576-9605c36c4d45
+2026-06-30 19:19:02 [DEBU] Create activity log for celery task: aa07595e-8282-4aa4-8dbd-cf0288c3faa6
+2026-06-30 19:19:02 Create activity log for celery task: aa07595e-8282-4aa4-8dbd-cf0288c3faa6
+2026-06-30 19:19:02 ansible@3f93f2a90cdf ready.
+2026-06-30 19:19:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:45 [DEBU] Start subscribe vault change
+2026-06-30 19:19:45 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:45 [DEBU] Start subscribe setting change
+2026-06-30 19:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:20:04 pidbox command error: KeyError('No such transport: ')
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 62, in resolve_transport
+    transport = TRANSPORT_ALIASES[transport]
+                ~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 102, in dispatch
+    reply = handle(method, arguments)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 121, in handle_call
+    return self.handle(method, arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 118, in handle
+    return self.handlers[method](self.state, **arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/control.py", line 91, in conf
+    return jsonify(state.app.conf.table(with_defaults=with_defaults),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 186, in table
+    return filt({
+           ^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 343, in filter_hidden_settings
+    return {k: maybe_censor(k, v) for k, v in conf.items()}
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 343, in <dictcomp>
+    return {k: maybe_censor(k, v) for k, v in conf.items()}
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 337, in maybe_censor
+    return Connection(value).as_uri(mask=mask)
+           ^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/connection.py", line 201, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 90, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 71, in resolve_transport
+    raise KeyError(f'No such transport: {transport}')
+KeyError: 'No such transport: '
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@474ac7c9101c v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.2-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-06-30 19:20:05
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7189b21021d0
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-06-30 19:20:06 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-06-30 19:20:06 Connected to redis://redis:6379/3
+2026-06-30 19:20:06 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-06-30 19:20:06 [DEBU] Work ready signal recv
+2026-06-30 19:20:06 Work ready signal recv
+2026-06-30 19:20:06 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:20:06 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 241f967f-3f7b-412a-804e-6296ac1f954f
+2026-06-30 19:20:06 Create activity log for celery task: 241f967f-3f7b-412a-804e-6296ac1f954f
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 95f789ec-e4ae-45b6-b461-b8b0bad57255
+2026-06-30 19:20:06 Create activity log for celery task: 95f789ec-e4ae-45b6-b461-b8b0bad57255
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 31ac90af-b0c6-4545-975e-1296e61041a0
+2026-06-30 19:20:06 Create activity log for celery task: 31ac90af-b0c6-4545-975e-1296e61041a0
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: ab0efd06-e571-4627-aebf-11152a4bf965
+2026-06-30 19:20:06 Create activity log for celery task: ab0efd06-e571-4627-aebf-11152a4bf965
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 67affbf2-2baf-4ff6-96d1-b16cb91b5c23
+2026-06-30 19:20:06 Create activity log for celery task: 67affbf2-2baf-4ff6-96d1-b16cb91b5c23
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: 7dbac30e-7fa8-4d01-9b1a-e621a0d15690
+2026-06-30 19:20:06 Create activity log for celery task: 7dbac30e-7fa8-4d01-9b1a-e621a0d15690
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: c76d585a-40fc-4f67-a19f-221699e5bd50
+2026-06-30 19:20:06 Create activity log for celery task: c76d585a-40fc-4f67-a19f-221699e5bd50
+2026-06-30 19:20:06 [DEBU] Create activity log for celery task: f15d2be3-6eb7-48d2-a82f-670c74949643
+2026-06-30 19:20:06 Create activity log for celery task: f15d2be3-6eb7-48d2-a82f-670c74949643
+2026-06-30 19:20:06 ansible@474ac7c9101c ready.
+2026-06-30 19:20:09 Events of group {task} enabled by remote.

@@ -45234,3 +45234,26 @@ Get beat lock start to run it
 2026-06-30 18:58:27 [DEBU] Start subscribe setting change
 2026-06-30 18:58:27 [DEBU] Start subscribe for expire node assets id mapping from memory
 2026-06-30 18:58:32 beat: Starting...
+2026-06-30 19:07:59 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-06-30 19:07:59 [DEBU] Create activity log for celery task: 67d6fafc-bbe2-4520-9bf3-561d97103f0e
+2026-06-30 19:07:59 Create activity log for celery task: 67d6fafc-bbe2-4520-9bf3-561d97103f0e
+2026-06-30 19:16:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:16:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:16:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:16:14 [DEBU] Start subscribe vault change
+2026-06-30 19:16:14 [INFO] Start subscribe for stop job execution
+2026-06-30 19:16:14 [DEBU] Start subscribe setting change
+2026-06-30 19:16:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:16:19 beat: Starting...
+2026-06-30 19:19:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:19:44 [DEBU] Start subscribe vault change
+2026-06-30 19:19:44 [INFO] Start subscribe for stop job execution
+2026-06-30 19:19:44 [DEBU] Start subscribe setting change
+2026-06-30 19:19:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-06-30 19:20:05 beat: Starting...
+2026-06-30 19:21:06 DatabaseScheduler: Schedule changed.
+2026-06-30 19:30:07 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-06-30 19:30:07 [DEBU] Create activity log for celery task: 3d45ed2f-7f8d-4d75-9202-3e5151c73e16
+2026-06-30 19:30:07 Create activity log for celery task: 3d45ed2f-7f8d-4d75-9202-3e5151c73e16

@@ -1,0 +1,131 @@
+<template>
+  <HomeCard v-bind="cardConfig" :table-config="tableConfig" />
+</template>
+
+<script>
+import { getPreference } from '@/api/settings'
+import { openNewWindow } from '@/utils/common/index'
+import {
+  createVNode as createVNodeCompat,
+  isVNode as isVNodeCompat,
+  resolveComponent as resolveComponentCompat
+} from 'vue'
+import HomeCard from './HomeCard.vue'
+function _isSlot(s) {
+  return (
+    typeof s === 'function' ||
+    (Object.prototype.toString.call(s) === '[object Object]' && !isVNodeCompat(s))
+  )
+}
+export default {
+  name: 'Announcement',
+  components: {
+    HomeCard
+  },
+  data() {
+    const vm = this
+    return {
+      preference: {},
+      cardConfig: {
+        title: this.$t('RecentSession')
+      },
+      tableConfig: {
+        url: '/api/v1/terminal/my-sessions/?limit=5',
+        columns: ['id', 'asset', 'account', 'remote_addr', 'protocol'],
+        columnsMeta: {
+          id: {
+            prop: 'id',
+            align: 'center',
+            width: '50px',
+            formatter: function (row, column, cellValue, index) {
+              const label = index + 1
+              const to = {
+                name: 'SessionDetail',
+                params: {
+                  id: row.id
+                }
+              }
+              if (vm.$hasPerm('terminal.view_session')) {
+                return createVNodeCompat(
+                  resolveComponentCompat('router-link'),
+                  {
+                    to
+                  },
+                  _isSlot(label)
+                    ? label
+                    : {
+                        default: () => [label]
+                      }
+                )
+              } else {
+                return label
+              }
+            }
+          },
+          asset: {
+            'min-width': 200,
+            label: this.$t('Asset')
+          },
+          account: {
+            'min-width': 100
+          },
+          command_amount: {
+            align: 'center',
+            label: this.$t('Command')
+          },
+          remote_addr: {
+            width: 180,
+            label: this.$t('RemoteAddr')
+          },
+          protocol: {
+            width: 100,
+            label: this.$t('Protocol'),
+            el: {
+              disabled: false
+            },
+            sortable: false
+          },
+          actions: {
+            align: 'center',
+            formatterArgs: {
+              hasDelete: false,
+              hasClone: false,
+              hasUpdate: false,
+              extraActions: [
+                {
+                  name: 'connect',
+                  icon: 'fa-desktop',
+                  plain: true,
+                  type: 'primary',
+                  can: ({ row }) => row.is_active,
+                  callback: ({ row }) => {
+                    if (this.preference?.basic?.connect_default_open_method === 'new') {
+                      openNewWindow(
+                        `/luna/connect?login_to=${row.asset_id}&login_account=${row.account_id}`
+                      )
+                    } else {
+                      window.open(
+                        `/luna/?login_to=${row.asset_id}&login_account=${row.account_id}`,
+                        '_blank'
+                      )
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        hasSelection: false,
+        paginationSize: 10
+      }
+    }
+  },
+  mounted() {
+    getPreference().then((resp) => {
+      this.preference = resp
+    })
+  }
+}
+</script>
+
+<style lang="scss" scoped></style>

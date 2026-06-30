@@ -1,0 +1,229 @@
+<template>
+  <div class="label-search">
+    <el-button v-if="!showLabelSearch" class="label-button" size="small" @click="showSearchSelect">
+      <svg-icon icon-class="tag" />
+    </el-button>
+    <el-cascader
+      v-else
+      ref="labelCascader"
+      v-model="labelValue"
+      :options="labelOptions"
+      :placeholder="placeholder"
+      :props="labelProps"
+      class="label-cascader"
+      clearable
+      filterable
+      separator=": "
+      size="small"
+      @focus="handleCascaderFocus"
+      @visible-change="handleCascaderVisibleChange"
+    >
+      <template #default="{ node, data }">
+        <span>{{ data.label }}</span>
+        <span v-if="!node.isLeaf"> ({{ data.children.length - 1 }}) </span>
+      </template>
+      <template #prefix>
+        <el-icon class="el-input__icon"><Search /></el-icon>
+      </template>
+    </el-cascader>
+  </div>
+</template>
+
+<script>
+import { debounce } from 'lodash'
+
+export default {
+  name: 'LabelSearch',
+  data() {
+    return {
+      showLabelSearch: false,
+      labelProps: {
+        multiple: true
+      },
+      labelOptions: [],
+      labelValue: [],
+      placeholder: this.$t('SelectLabelFilter')
+    }
+  },
+  watch: {
+    labelValue(newValue) {
+      if (!newValue || newValue.length === 0) {
+        this.showLabelSearch = false
+      }
+
+      if (!newValue || newValue.length === 0) {
+        this.$emit('labelSearch', '')
+        return
+      }
+
+      const labelSearch = newValue.map((item) => item.join(':')).join(',')
+      this.$emit('labelSearch', labelSearch)
+    },
+    showLabelSearch(newValue) {
+      this.$emit('showLabelSearch', newValue)
+    }
+  },
+  created() {
+    this.showLabelSearch = window.innerWidth < 992
+    this.listenViewPort()
+  },
+  mounted() {
+    this.$eventBus.$on('labelSearch', this.labelSearchHandler)
+  },
+  beforeUnmount(label) {
+    this.$eventBus.$off('labelSearch', this.labelSearchHandler)
+  },
+  methods: {
+    handleCascaderFocus() {
+      this.setSearchFocus()
+    },
+    labelSearchHandler(label) {
+      if (!label) {
+        this.labelValue = []
+        this.showLabelSearch = true
+        return
+      }
+      this.labelValue = [...this.labelValue, [label.name, label.value]]
+      this.getLabelOptions()
+      setTimeout(() => {
+        this.showLabelSearch = true
+      }, 500)
+    },
+    handleCascaderVisibleChange(visible) {
+      const cascaderEl = this.$refs.labelCascader?.$el
+      if (!cascaderEl || typeof cascaderEl.getElementsByClassName !== 'function') {
+        // EP cascader 在 Vue 3 中 $el 可能不是 DOM 元素，降级处理
+        if (!visible && this.labelValue.length === 0) {
+          this.showLabelSearch = false
+        }
+        this.$emit('showLabelSearch', this.showLabelSearch)
+        return
+      }
+      const input = cascaderEl.getElementsByClassName('el-input--suffix')[0]?.querySelector('input')
+      if (visible) {
+        setTimeout(() => {
+          if (input) input.style.height = '28px'
+        })
+        return
+      } else {
+        if (input) input.style.height = '28px'
+      }
+      if (this.labelValue.length === 0) {
+        this.showLabelSearch = false
+      }
+      this.$emit('showLabelSearch', this.showLabelSearch)
+    },
+    getLabelOptions() {
+      if (this.labelOptions.length > 0) {
+        return
+      }
+      const url = '/api/v1/labels/labels/'
+      this.$axios.get(url).then((data) => {
+        const groupedLabelOptions = _.groupBy(data, 'name')
+        const labelOptions = []
+        for (const [key, labels] of Object.entries(groupedLabelOptions)) {
+          const all = { value: '*', label: this.$t('All') }
+          const children = _.sortBy(labels, 'value').map((label) => ({
+            value: label.value,
+            label: label.value
+          }))
+          labelOptions.push({
+            value: key,
+            label: key,
+            children: [all, ...children]
+          })
+        }
+        this.labelOptions = _.sortBy(labelOptions, 'label')
+      })
+    },
+    setSearchFocus() {
+      setTimeout(() => {
+        const cascaderEl = this.$refs.labelCascader?.$el
+        const searchInput =
+          cascaderEl?.querySelector?.('.el-cascader__search-input') ||
+          cascaderEl?.getElementsByClassName?.('el-cascader__search-input')?.[0]
+        if (searchInput) searchInput.focus()
+      }, 100)
+    },
+    showSearchSelect() {
+      this.getLabelOptions()
+      this.showLabelSearch = true
+      setTimeout(() => {
+        this.$refs.labelCascader?.togglePopperVisible?.(true) ||
+          this.$refs.labelCascader?.toggleDropDownVisible?.(true)
+        this.setSearchFocus()
+      }, 200)
+    },
+    listenViewPort() {
+      window.addEventListener(
+        'resize',
+        debounce((e) => {
+          const viewPort = e?.target?.innerWidth
+          this.showLabelSearch = viewPort < 992
+        }, 100),
+        false
+      )
+    }
+  }
+}
+</script>
+
+<style lang="scss" scoped>
+.label-search {
+  margin-right: 10px;
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+
+  :deep(.el-button.label-button) {
+    height: 28px;
+    padding: 8px;
+    font-weight: 400;
+    border: none;
+  }
+
+  .label-cascader {
+    width: 300px;
+    height: 28px !important;
+    line-height: 32px;
+    font-size: 13px;
+
+    :deep(.el-input) {
+      .el-input__wrapper {
+        height: 28px !important;
+      }
+
+      .el-input__inner {
+        height: 28px !important;
+        line-height: 32px;
+        font-size: 13px;
+        border: none;
+      }
+
+      .el-input__suffix {
+        color: var(--color-icon-primary) !important;
+      }
+    }
+
+    :deep(.el-cascader__tags) {
+      white-space: nowrap;
+      flex-wrap: nowrap;
+      overflow: hidden;
+
+      .el-tag.el-tag--info {
+        color: var(--color-text-primary) !important;
+      }
+
+      .el-cascader__search-input {
+        display: none;
+        height: 28px !important;
+        line-height: 32px;
+        font-size: 13px;
+      }
+    }
+  }
+
+  :deep(.svg-icon) {
+    color: var(--color-icon-primary) !important;
+  }
+}
+</style>

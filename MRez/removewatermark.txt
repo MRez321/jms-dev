@@ -1,0 +1,10 @@
+
+
+docker exec -it jms_core bash
+
+(Inside container again):
+
+Bashcd /opt/jumpserver/apps/jumpserver
+sed -i 's/watermark_enabled.*/watermark_enabled = False/' context_processor.py 2>/dev/null || true
+echo "Watermark setting updated"
+exit

@@ -1410,3 +1410,22 @@ _00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amou
 2026-07-01 18:13:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 2026-07-01 18:14:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 2026-07-01 18:14:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:14:56 [DEBU] Create activity log for celery task: 17096b8f-cd93-48c0-82a9-9f0318827075
+2026-07-01 18:14:56 [DEBU] Create activity log for celery task: c2b6cc84-8cb1-4d7a-8b49-779da27fb7d8
+2026-07-01 18:14:56 [INFO] Checking expired permissions: [] ...
+2026-07-01 18:14:56 [DEBU] Create activity log for celery task: 8c33e513-4050-4267-8f75-b552062c5709
+2026-07-01 18:14:56 [DEBU] Create activity log for celery task: c6c90e95-3f96-4560-918f-bb7f536f85c0
+2026-07-01 18:14:57 [DEBU] New site msg created, publish it
+2026-07-01 18:14:57 [DEBU] Create activity log for celery task: e01434b6-2e86-4d49-a720-3d760c9d5039
+2026-07-01 18:14:57 [DEBU] New site msg recv, message users: ['4926d10b-1b63-4482-91e3-ba76b3a24c96']
+2026-07-01 18:14:57 [DEBU] New site msg recv, message users: ['4926d10b-1b63-4482-91e3-ba76b3a24c96']
+2026-07-01 18:14:57 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 8
+2026-07-01 18:14:57 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 8
+2026-07-01 18:15:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:15:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:16:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:16:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:17:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:17:17 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 18:17:17 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 18:17:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True

@@ -9057,3 +9057,21 @@ t: True
 172.18.0.7:47082 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
 2026-07-01 18:14:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 172.18.0.6:57270 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:14:57 [DEBU] New site msg recv, message users: ['4926d10b-1b63-4482-91e3-ba76b3a24c96']
+2026-07-01 18:14:57 [DEBU] New site msg recv, message users: ['4926d10b-1b63-4482-91e3-ba76b3a24c96']
+2026-07-01 18:14:57 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 8
+2026-07-01 18:14:57 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 8
+2026-07-01 18:15:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47964 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:15:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52852 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:16:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52250 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:16:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55792 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:17:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:41590 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:17:17 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 18:17:17 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 18:17:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48368 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200

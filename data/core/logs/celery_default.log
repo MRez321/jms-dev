@@ -11820,3 +11820,26 @@ you should set broker_connection_retry_on_startup to True.
 2026-07-01 18:04:57 >> Set language to en
 2026-07-01 18:04:57 >> Set org to 00000000-0000-0000-0000-000000000000
 2026-07-01 18:04:57 Task terminal.tasks.clean_orphan_session[89f0fa3c-3df5-4854-9861-53f1ee19752b] succeeded in 0.25252380699748755s: None
+2026-07-01 18:14:56 Task perms.tasks.check_asset_permission_expired[17096b8f-cd93-48c0-82a9-9f0318827075] received
+2026-07-01 18:14:56 >> Set language to en
+2026-07-01 18:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:14:56 Task ops.tasks.check_server_performance_period[c2b6cc84-8cb1-4d7a-8b49-779da27fb7d8] received
+2026-07-01 18:14:56 [INFO] Checking expired permissions: [] ...
+2026-07-01 18:14:56 Checking expired permissions: [] ...
+2026-07-01 18:14:56 Task ops.tasks.clean_up_unexpected_jobs[8c33e513-4050-4267-8f75-b552062c5709] received
+2026-07-01 18:14:56 Task perms.tasks.check_asset_permission_expired[17096b8f-cd93-48c0-82a9-9f0318827075] succeeded in 0.27815436300079455s: None
+2026-07-01 18:14:56 >> Set language to en
+2026-07-01 18:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:14:56 Task ops.tasks.clean_up_unexpected_jobs[8c33e513-4050-4267-8f75-b552062c5709] succeeded in 0.0655769719996897s: None
+2026-07-01 18:14:56 >> Set language to en
+2026-07-01 18:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:14:56 Task terminal.tasks.delete_terminal_status_period[c6c90e95-3f96-4560-918f-bb7f536f85c0] received
+2026-07-01 18:14:56 >> Set language to en
+2026-07-01 18:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:14:56 Task terminal.tasks.delete_terminal_status_period[c6c90e95-3f96-4560-918f-bb7f536f85c0] succeeded in 0.1451439280026534s: None
+2026-07-01 18:14:57 [DEBU] New site msg created, publish it
+2026-07-01 18:14:57 New site msg created, publish it
+2026-07-01 18:14:57 Task ops.tasks.check_server_performance_period[c2b6cc84-8cb1-4d7a-8b49-779da27fb7d8] succeeded in 0.7106568169983802s: None
+2026-07-01 18:14:57 >> Set language to en
+2026-07-01 18:14:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:14:57 Task terminal.tasks.clean_orphan_session[e01434b6-2e86-4d49-a720-3d760c9d5039] succeeded in 0.13411727099810378s: None

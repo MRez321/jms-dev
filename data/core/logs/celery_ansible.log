@@ -10255,3 +10255,104 @@ you should set broker_connection_retry_on_startup to True.
 2026-07-01 13:14:54 Create activity log for celery task: 3079e2e9-01c0-437d-a76d-12996f492aee
 2026-07-01 13:14:55 ansible@474ac7c9101c ready.
 2026-07-01 13:14:59 Events of group {task} enabled by remote.
+2026-07-01 19:30:09 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:30:09 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:30:10 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:30:09 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:30:10 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:30:10 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:30:14 Substantial drift from ansible@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 24 seconds.  [orig: 2026-07-01 19:30:14.694734 recv: 2026-07-01 19:29:50.724395]
+2026-07-01 19:30:15 Substantial drift from celery@474ac7c9101c may mean clocks are out of sync.  Current drift is 18 seconds.  [orig: 2026-07-01 19:30:15.396497 recv: 2026-07-01 19:29:57.355712]
+2026-07-01 19:30:15 Substantial drift from celery@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 18 seconds.  [orig: 2026-07-01 19:30:15.959661 recv: 2026-07-01 19:29:57.687979]
+2026-07-01 19:30:58 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:31:05 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:31:05 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:31:05 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:31:10 Substantial drift from ansible@474ac7c9101c may mean clocks are out of sync.  Current drift is 23 seconds.  [orig: 2026-07-01 19:31:09.905000 recv: 2026-07-01 19:30:46.869666]
+2026-07-01 19:31:10 Substantial drift from celery@474ac7c9101c may mean clocks are out of sync.  Current drift is 24 seconds.  [orig: 2026-07-01 19:31:10.194014 recv: 2026-07-01 19:30:46.869449]
+2026-07-01 19:31:47 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:31:47 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:31:47 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:32:48 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:32:48 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:32:49 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:32:57 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:33:03 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:36:13 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:36:13 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:36:13 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:36:13 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:36:13 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:37:18 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:37:18 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:37:18 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:37:39 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:37:39 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:38:25 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:38:25 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:38:26 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:38:26 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:38:26 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:39:40 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:39:40 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:39:40 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:39:40 Substantial drift from celery@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 23 seconds.  [orig: 2026-07-01 19:39:40.403800 recv: 2026-07-01 19:39:17.777270]
+2026-07-01 19:40:07 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:40:07 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:40:07 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:40:20 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:40:21 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:40:21 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:41:08 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:41:08 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:41:08 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:42:45 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:42:45 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:42:45 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:42:58 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:42:58 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:42:58 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:43:30 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:43:30 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:44:47 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:44:47 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:44:47 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:44:47 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:44:47 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:45:42 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:45:42 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:45:42 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:46:25 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:46:27 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:46:28 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:46:55 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:47:01 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:47:04 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:47:11 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:47:12 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:47:12 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:48:29 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:48:29 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:48:29 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:48:29 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:48:29 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:49:33 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:49:33 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:49:33 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:49:57 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:50:04 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:50:09 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:50:10 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:50:17 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:50:35 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:51:26 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:51:26 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:51:26 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:52:13 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:52:14 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:52:14 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:52:15 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:52:15 missed heartbeat from ansible@474ac7c9101c

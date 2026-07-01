@@ -6,7 +6,9 @@ ENV VERSION=$VERSION
 ADD . /data
 
 RUN --mount=type=cache,target=/usr/local/share/.cache/yarn,sharing=locked \
-    sed -i "s@version-dev@${VERSION}@g" src/layout/components/NavHeader/About.vue \
+    corepack enable \
+    && yarn install \
+    && sed -i "s@version-dev@${VERSION}@g" src/layout/components/NavHeader/About.vue \
     && yarn build
 
 FROM nginx:1.24-bullseye

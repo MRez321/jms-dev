@@ -1216,3 +1216,7 @@
 [W 260701 13:14:36 inspector:44] Inspect method active failed
 [W 260701 13:14:36 inspector:44] Inspect method conf failed
 [W 260701 13:14:36 inspector:44] Inspect method scheduled failed
+[W 260701 19:30:10 state:109] Substantial drift from ansible@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 19 seconds.  [orig: 2026-07-01 19:30:09.753043 recv: 2026-07-01 19:29:50.724395]
+[W 260701 19:37:39 state:109] Substantial drift from celery@474ac7c9101c may mean clocks are out of sync.  Current drift is 20 seconds.  [orig: 2026-07-01 19:37:19.510973 recv: 2026-07-01 19:37:39.715737]
+[W 260701 19:39:40 state:109] Substantial drift from celery@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 23 seconds.  [orig: 2026-07-01 19:39:40.424928 recv: 2026-07-01 19:39:17.777270]
+[W 260701 19:39:40 state:109] Substantial drift from ansible@474ac7c9101c may mean clocks are out of sync.  Current drift is 23 seconds.  [orig: 2026-07-01 19:39:40.425022 recv: 2026-07-01 19:39:17.847606]

@@ -11843,3 +11843,553 @@ you should set broker_connection_retry_on_startup to True.
 2026-07-01 18:14:57 >> Set language to en
 2026-07-01 18:14:57 >> Set org to 00000000-0000-0000-0000-000000000000
 2026-07-01 18:14:57 Task terminal.tasks.clean_orphan_session[e01434b6-2e86-4d49-a720-3d760c9d5039] succeeded in 0.13411727099810378s: None
+2026-07-01 18:24:57 Task terminal.tasks.clean_orphan_session[d70aa634-57fd-4e34-b022-b8d67f4ed8a4] received
+2026-07-01 18:24:57 >> Set language to en
+2026-07-01 18:24:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:24:57 Task terminal.tasks.clean_orphan_session[d70aa634-57fd-4e34-b022-b8d67f4ed8a4] succeeded in 0.17984896999769262s: None
+2026-07-01 18:34:57 Task terminal.tasks.clean_orphan_session[4188b30c-1dd1-408a-a42d-8f7cb7e5d6b7] received
+2026-07-01 18:34:57 >> Set language to en
+2026-07-01 18:34:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:34:57 Task terminal.tasks.clean_orphan_session[4188b30c-1dd1-408a-a42d-8f7cb7e5d6b7] succeeded in 0.24834450699927402s: None
+2026-07-01 18:44:57 Task terminal.tasks.clean_orphan_session[35f6a816-f723-4305-a694-92ac8fe44f67] received
+2026-07-01 18:44:57 >> Set language to en
+2026-07-01 18:44:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:44:57 Task terminal.tasks.clean_orphan_session[35f6a816-f723-4305-a694-92ac8fe44f67] succeeded in 0.2533574139997654s: None
+2026-07-01 18:54:57 Task terminal.tasks.clean_orphan_session[be39c19c-4309-45e4-baff-9d84b267e3b5] received
+2026-07-01 18:54:57 >> Set language to en
+2026-07-01 18:54:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 18:54:57 Task terminal.tasks.clean_orphan_session[be39c19c-4309-45e4-baff-9d84b267e3b5] succeeded in 0.243095596000785s: None
+2026-07-01 19:04:57 Task terminal.tasks.clean_orphan_session[486d6065-a124-4010-bb2d-0744e232d115] received
+2026-07-01 19:04:57 >> Set language to en
+2026-07-01 19:04:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:04:57 Task terminal.tasks.clean_orphan_session[486d6065-a124-4010-bb2d-0744e232d115] succeeded in 0.26650068900198676s: None
+2026-07-01 19:14:56 Task perms.tasks.check_asset_permission_expired[d529023f-6b63-4107-8009-66cddea60e8b] received
+2026-07-01 19:14:56 Task ops.tasks.check_server_performance_period[9c85b215-fb30-45d5-80f8-c9de23604763] received
+2026-07-01 19:14:56 >> Set language to en
+2026-07-01 19:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:14:56 Task ops.tasks.clean_up_unexpected_jobs[11db6e37-76ee-4dc2-8534-f22b1e5c42da] received
+2026-07-01 19:14:56 >> Set language to en
+2026-07-01 19:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:14:56 [INFO] Checking expired permissions: [] ...
+2026-07-01 19:14:56 Checking expired permissions: [] ...
+2026-07-01 19:14:56 Task perms.tasks.check_asset_permission_expired[d529023f-6b63-4107-8009-66cddea60e8b] succeeded in 0.5133715779993508s: None
+2026-07-01 19:14:56 Task ops.tasks.clean_up_unexpected_jobs[11db6e37-76ee-4dc2-8534-f22b1e5c42da] succeeded in 0.17226895600106218s: None
+2026-07-01 19:14:56 >> Set language to en
+2026-07-01 19:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:14:56 Task terminal.tasks.delete_terminal_status_period[d2e7b7f8-d087-4852-b4db-8317a5668165] received
+2026-07-01 19:14:56 >> Set language to en
+2026-07-01 19:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:14:56 Task terminal.tasks.delete_terminal_status_period[d2e7b7f8-d087-4852-b4db-8317a5668165] succeeded in 0.07945851999829756s: None
+2026-07-01 19:14:57 Task terminal.tasks.clean_orphan_session[ddc82d3a-a45e-4dad-a95d-ade35b5e29a0] received
+2026-07-01 19:14:57 [DEBU] New site msg created, publish it
+2026-07-01 19:14:57 New site msg created, publish it
+2026-07-01 19:14:57 >> Set language to en
+2026-07-01 19:14:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:14:57 Task ops.tasks.check_server_performance_period[9c85b215-fb30-45d5-80f8-c9de23604763] succeeded in 0.7040509239996027s: None
+2026-07-01 19:14:57 Task terminal.tasks.clean_orphan_session[ddc82d3a-a45e-4dad-a95d-ade35b5e29a0] succeeded in 0.12729714999659336s: None
+2026-07-01 19:24:57 Task terminal.tasks.clean_orphan_session[948d2cbc-61f7-4ed7-b31b-5579140c8208] received
+2026-07-01 19:24:57 >> Set language to en
+2026-07-01 19:24:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:24:57 Task terminal.tasks.clean_orphan_session[948d2cbc-61f7-4ed7-b31b-5579140c8208] succeeded in 0.2730241600002046s: None
+2026-07-01 19:30:09 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:30:10 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:30:10 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:30:09 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:30:10 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:30:10 Substantial drift from ansible@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 20 seconds.  [orig: 2026-07-01 19:30:10.415280 recv: 2026-07-01 19:29:50.724395]
+2026-07-01 19:30:11 Substantial drift from ansible@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 20 seconds.  [orig: 2026-07-01 19:30:10.651858 recv: 2026-07-01 19:29:50.724395]
+2026-07-01 19:30:58 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:31:05 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:31:05 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:31:05 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:31:10 Substantial drift from celery@474ac7c9101c may mean clocks are out of sync.  Current drift is 39 seconds.  [orig: 2026-07-01 19:31:10.380259 recv: 2026-07-01 19:30:31.302847]
+2026-07-01 19:31:10 Substantial drift from ansible@474ac7c9101c may mean clocks are out of sync.  Current drift is 39 seconds.  [orig: 2026-07-01 19:31:10.398631 recv: 2026-07-01 19:30:31.303065]
+2026-07-01 19:31:47 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:31:47 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:32:57 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:33:02 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:33:02 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:33:02 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:33:03 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:33:17 Substantial drift from celery@3f93f2a90cdf may mean clocks are out of sync.  Current drift is 42 seconds.  [orig: 2026-07-01 19:33:17.015828 recv: 2026-07-01 19:32:35.895825]
+2026-07-01 19:33:17 Substantial drift from ansible@474ac7c9101c may mean clocks are out of sync.  Current drift is 27 seconds.  [orig: 2026-07-01 19:33:17.107654 recv: 2026-07-01 19:32:50.318301]
+2026-07-01 19:35:34 Task terminal.tasks.clean_orphan_session[16028f4f-a6a7-4a8b-a6c7-cdaae704eac0] received
+2026-07-01 19:36:13 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:36:13 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:36:13 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:36:10 Signal handler <function on_celery_task_pre_run at 0x70d492abab60> raised: OperationalError(2005, "Unknown server host 'mariadb' (-3)")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 94, in on_celery_task_pre_run
+    while not qs.exists() and count < 5:
+              ^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1226, in exists
+    return self.query.has_results(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/query.py", line 592, in has_results
+    return compiler.has_results()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1366, in has_results
+    return bool(self.execute_sql(SINGLE))
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+2026-07-01 19:36:13 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:36:19 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:36:19 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:36:32 Task terminal.tasks.clean_orphan_session[16028f4f-a6a7-4a8b-a6c7-cdaae704eac0] raised unexpected: TypeError("clean_orphan_session() got an unexpected keyword argument '__current_lang'")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/trace.py", line 477, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/trace.py", line 760, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/decorator.py", line 72, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/decorator.py", line 88, in decorate
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+TypeError: clean_orphan_session() got an unexpected keyword argument '__current_lang'
+2026-07-01 19:37:12 Signal handler <function on_celery_task_post_run at 0x70d492ab9080> raised: OperationalError(2005, "Unknown server host 'mariadb' (-3)")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 118, in on_celery_task_post_run
+    CeleryTaskExecution.objects.filter(id=task_id).update(
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+2026-07-01 19:37:39 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:37:39 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:37:39 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:37:46 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:37:46 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:38:01 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:38:01 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:38:25 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:38:25 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:38:25 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:39:40 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:39:40 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:39:40 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:40:07 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:40:07 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:40:07 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:40:07 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:40:07 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:40:07 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:40:41 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:40:41 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:41:08 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:41:08 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:42:45 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:42:45 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:42:45 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:42:45 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:42:46 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:42:46 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:43:30 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:43:35 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:43:35 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:43:35 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:44:47 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:44:47 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:44:47 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:44:47 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:47:11 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:47:12 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:47:12 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:47:29 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:47:29 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:47:29 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:48:29 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:48:29 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:48:29 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:48:29 Task terminal.tasks.clean_orphan_session[e79a2200-2e82-422c-9010-2ce65bdbecd4] received
+2026-07-01 19:48:44 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:48:45 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:48:45 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:49:08 Signal handler <function on_celery_task_pre_run at 0x70d492abab60> raised: OperationalError(2005, "Unknown server host 'mariadb' (-3)")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 94, in on_celery_task_pre_run
+    while not qs.exists() and count < 5:
+              ^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1226, in exists
+    return self.query.has_results(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/query.py", line 592, in has_results
+    return compiler.has_results()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1366, in has_results
+    return bool(self.execute_sql(SINGLE))
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+2026-07-01 19:49:33 missed heartbeat from ansible@474ac7c9101c
+026-07-01 19:49:33 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:49:33 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:49:33 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:49:33 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:49:58 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:49:55 Task terminal.tasks.clean_orphan_session[e79a2200-2e82-422c-9010-2ce65bdbecd4] raised unexpected: TypeError("clean_orphan_session() got an unexpected keyword argument '__current_lang'")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/trace.py", line 477, in trace_task
+    R = retval = fun(*args, **kwargs)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/trace.py", line 760, in __protected_call__
+    return self.run(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/decorator.py", line 72, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/decorator.py", line 88, in decorate
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/contextlib.py", line 81, in inner
+    return func(*args, **kwds)
+           ^^^^^^^^^^^^^^^^^^^
+TypeError: clean_orphan_session() got an unexpected keyword argument '__current_lang'
+2026-07-01 19:50:10 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:50:16 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:50:16 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:50:18 missed heartbeat from celery@3f93f2a90cdf
+2026-07-01 19:50:35 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:51:26 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:51:26 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:51:07 Signal handler <function on_celery_task_post_run at 0x70d492ab9080> raised: OperationalError(2005, "Unknown server host 'mariadb' (-3)")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 118, in on_celery_task_post_run
+    CeleryTaskExecution.objects.filter(id=task_id).update(
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
+2026-07-01 19:52:14 missed heartbeat from celery@474ac7c9101c
+2026-07-01 19:52:14 missed heartbeat from ansible@3f93f2a90cdf
+2026-07-01 19:52:14 missed heartbeat from ansible@474ac7c9101c
+2026-07-01 19:52:46 Task terminal.tasks.clean_orphan_session[0b2aee7a-634b-48e6-98a2-7b5f8bdf1370] received
+2026-07-01 19:52:46 >> Set language to en
+2026-07-01 19:52:46 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 19:52:46 Task terminal.tasks.clean_orphan_session[0b2aee7a-634b-48e6-98a2-7b5f8bdf1370] succeeded in 0.25732148099996266s: None
+2026-07-01 20:02:46 Task terminal.tasks.clean_orphan_session[e7544b64-9ae8-43d2-80bd-5bde40b4f20e] received
+2026-07-01 20:02:46 Task terminal.tasks.clean_orphan_session[b842acce-38d3-478e-9c19-f5dea13f3268] received
+2026-07-01 20:02:47 >> Set language to en
+2026-07-01 20:02:47 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:02:47 >> Set language to en
+2026-07-01 20:02:47 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:02:47 Task terminal.tasks.clean_orphan_session[b842acce-38d3-478e-9c19-f5dea13f3268] succeeded in 0.2297097729970119s: None
+2026-07-01 20:02:47 Task terminal.tasks.clean_orphan_session[e7544b64-9ae8-43d2-80bd-5bde40b4f20e] succeeded in 0.6182589460004237s: None
+2026-07-01 20:12:46 Task terminal.tasks.clean_orphan_session[a0f4651b-19e8-4a15-87f4-352bfcb4e829] received
+2026-07-01 20:12:47 Task terminal.tasks.clean_orphan_session[fb73d0c1-55ed-4b00-9659-466afa0ddd93] received
+2026-07-01 20:12:47 >> Set language to en
+2026-07-01 20:12:47 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:12:47 Task terminal.tasks.clean_orphan_session[a0f4651b-19e8-4a15-87f4-352bfcb4e829] succeeded in 0.5098082969998359s: None
+2026-07-01 20:12:48 >> Set language to en
+2026-07-01 20:12:48 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:12:48 Task terminal.tasks.clean_orphan_session[fb73d0c1-55ed-4b00-9659-466afa0ddd93] succeeded in 1.3309665760025382s: None
+2026-07-01 20:14:56 Task perms.tasks.check_asset_permission_expired[faa29848-5f0d-45cb-887f-e3acf7718da4] received
+2026-07-01 20:14:56 Task perms.tasks.check_asset_permission_expired[4a632a85-8578-40e2-afe8-bc39b8eb4e29] received
+2026-07-01 20:14:56 >> Set language to en
+2026-07-01 20:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:56 Task ops.tasks.check_server_performance_period[9822f93b-dadf-47d4-b9ea-f4cb191902f3] received
+2026-07-01 20:14:56 >> Set language to en
+2026-07-01 20:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:56 >> Set language to en
+2026-07-01 20:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:56 [INFO] Checking expired permissions: [] ...
+2026-07-01 20:14:56 Checking expired permissions: [] ...
+2026-07-01 20:14:56 Task ops.tasks.clean_up_unexpected_jobs[9dd33557-bff6-4de3-a144-f166a9ec89a8] received
+2026-07-01 20:14:56 Task ops.tasks.check_server_performance_period[57f7d34b-f16d-4778-a249-d09848e78fd3] received
+2026-07-01 20:14:56 Task ops.tasks.clean_up_unexpected_jobs[21d7ac88-b988-41a7-8a9a-8da6b4b68730] received
+2026-07-01 20:14:56 Task perms.tasks.check_asset_permission_expired[faa29848-5f0d-45cb-887f-e3acf7718da4] succeeded in 0.5012059360014973s: None
+2026-07-01 20:14:56 >> Set language to en
+2026-07-01 20:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:56 >> Set language to en
+2026-07-01 20:14:56 >> Set language to en
+2026-07-01 20:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:56 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:56 Task terminal.tasks.delete_terminal_status_period[dd7f8268-2065-4ce5-869b-fe755aff8873] received
+2026-07-01 20:14:56 [INFO] Checking expired permissions: [] ...
+2026-07-01 20:14:56 Task terminal.tasks.delete_terminal_status_period[f19859c7-b5e1-4749-9dca-83bf172ef847] received
+2026-07-01 20:14:56 Checking expired permissions: [] ...
+2026-07-01 20:14:56 Task ops.tasks.clean_up_unexpected_jobs[9dd33557-bff6-4de3-a144-f166a9ec89a8] succeeded in 0.4247238099997048s: None
+2026-07-01 20:14:57 >> Set language to en
+2026-07-01 20:14:57 Task perms.tasks.check_asset_permission_expired[4a632a85-8578-40e2-afe8-bc39b8eb4e29] succeeded in 0.946232718997635s: None
+2026-07-01 20:14:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:57 Task ops.tasks.clean_up_unexpected_jobs[21d7ac88-b988-41a7-8a9a-8da6b4b68730] succeeded in 0.46931916600078694s: None
+2026-07-01 20:14:57 >> Set language to en
+2026-07-01 20:14:57 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:14:57 Task terminal.tasks.delete_terminal_status_period[f19859c7-b5e1-4749-9dca-83bf172ef847] succeeded in 0.2714431329986837s: None
+2026-07-01 20:14:57 [DEBU] New site msg created, publish it
+2026-07-01 20:14:57 New site msg created, publish it
+2026-07-01 20:14:57 Task ops.tasks.check_server_performance_period[57f7d34b-f16d-4778-a249-d09848e78fd3] succeeded in 1.1074539109977195s: None
+2026-07-01 20:14:57 [DEBU] New site msg created, publish it
+2026-07-01 20:14:57 New site msg created, publish it
+2026-07-01 20:14:57 Task ops.tasks.check_server_performance_period[9822f93b-dadf-47d4-b9ea-f4cb191902f3] succeeded in 1.4067437029989378s: None
+2026-07-01 20:14:57 Task terminal.tasks.delete_terminal_status_period[dd7f8268-2065-4ce5-869b-fe755aff8873] succeeded in 1.002946314001747s: None

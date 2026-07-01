@@ -9,9 +9,13 @@
 import { mapState, mapGetters } from 'vuex'
 import { Watermark } from 'watermark-js-plus'
 import { IS_DEV } from '@/utils/env'
+import { useRtl } from '@/composables/useRtl'
 
 export default {
   name: 'App',
+  setup() {
+    useRtl()
+  },
   data() {
     return {
       watermark: null

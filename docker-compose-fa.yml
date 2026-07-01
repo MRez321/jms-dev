@@ -1,0 +1,57 @@
+name: jms-fa
+
+services:
+  core:
+    image: jumpserver/core:v4.10.16-ce-fa
+    container_name: jms_fa_core
+    restart: unless-stopped
+    environment:
+      SECRET_KEY: PleaseChangeMe1234567890abcdefgh
+      BOOTSTRAP_TOKEN: PleaseChangeMe
+      DB_HOST: jms_mariadb
+      DB_PORT: 3306
+      DB_USER: jumpserver
+      DB_PASSWORD: PleaseChangeMe
+      DB_NAME: jumpserver
+      REDIS_HOST: jms_redis
+      REDIS_PORT: 6379
+    ports:
+      - "8083:8080"
+    volumes:
+      - ./data-fa/core:/opt/jumpserver/data
+    networks: [jms_net]
+
+  celery:
+    image: jumpserver/core:v4.10.16-ce-fa
+    container_name: jms_fa_celery
+    restart: unless-stopped
+    command: start task
+    environment:
+      SECRET_KEY: PleaseChangeMe1234567890abcdefgh
+      BOOTSTRAP_TOKEN: PleaseChangeMe
+      DB_HOST: jms_mariadb
+      DB_PORT: 3306
+      DB_USER: jumpserver
+      DB_PASSWORD: PleaseChangeMe
+      DB_NAME: jumpserver
+      REDIS_HOST: jms_redis
+      REDIS_PORT: 6379
+    volumes:
+      - ./data-fa/core:/opt/jumpserver/data
+    depends_on: [core]
+    networks: [jms_net]
+
+  web:
+    image: jumpserver/web:v4.10.16-ce-fa
+    container_name: jms_fa_web
+    restart: unless-stopped
+    ports:
+      - "8082:80"
+    volumes:
+      - ./data-fa/core:/opt/jumpserver/data
+    depends_on: [core]
+    networks: [jms_net]
+
+networks:
+  jms_net:
+    external: true

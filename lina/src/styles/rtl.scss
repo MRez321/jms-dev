@@ -1,0 +1,182 @@
+// RTL Support for JumpServer Lina (Element Plus)
+[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+
+  // ========== Input & Select ==========
+  .el-input__wrapper {
+    text-align: right;
+  }
+
+  .el-input__inner {
+    text-align: right;
+  }
+
+  .el-input__prefix {
+    left: auto;
+    right: 8px;
+  }
+
+  .el-input__suffix {
+    right: auto;
+    left: 8px;
+  }
+
+  .el-select .el-input__inner {
+    text-align: right;
+  }
+
+  .el-input-group__prepend {
+    border-radius: 0 var(--el-border-radius-base) var(--el-border-radius-base) 0;
+  }
+
+  .el-input-group__append {
+    border-radius: var(--el-border-radius-base) 0 0 var(--el-border-radius-base);
+  }
+
+  // ========== Navigation & Menu ==========
+  .el-menu {
+    border-right: none;
+    border-left: 1px solid var(--el-menu-border-color);
+  }
+
+  .el-menu-item {
+    text-align: right;
+  }
+
+  .el-sub-menu .el-sub-menu__title {
+    text-align: right;
+  }
+
+  .el-breadcrumb {
+    direction: rtl;
+  }
+
+  // ========== Table ==========
+  .el-table {
+    th.el-table__cell,
+    td.el-table__cell {
+      text-align: right;
+    }
+
+    th.el-table__cell.is-leaf {
+      text-align: right;
+    }
+  }
+
+  // ========== Form ==========
+  .el-form-item__label {
+    text-align: right;
+    float: right;
+  }
+
+  .el-form-item__content {
+    text-align: right;
+    margin-left: 0 !important;
+    margin-right: 0;
+  }
+
+  // ========== Dialog & Drawer ==========
+  .el-dialog__header {
+    text-align: right;
+  }
+
+  .el-dialog__headerbtn {
+    right: auto;
+    left: 20px;
+  }
+
+  .el-drawer__header {
+    text-align: right;
+  }
+
+  .el-drawer__close-btn {
+    right: auto;
+    left: 20px;
+  }
+
+  .el-message-box__message {
+    text-align: right;
+  }
+
+  .el-message-box__status {
+    margin-right: 0;
+    margin-left: 10px;
+  }
+
+  // ========== Tabs ==========
+  .el-tabs__nav {
+    float: right;
+  }
+
+  .el-tabs__item {
+    text-align: right;
+  }
+
+  // ========== Steps ==========
+  .el-step__title {
+    text-align: right;
+  }
+
+  // ========== Icon Mirroring ==========
+  .el-icon-arrow-left,
+  .el-icon-arrow-right {
+    transform: scaleX(-1);
+  }
+
+  .el-icon-back {
+    transform: scaleX(-1);
+  }
+
+  .el-icon-d-arrow-left,
+  .el-icon-d-arrow-right {
+    transform: scaleX(-1);
+  }
+
+  // ========== Dropdown ==========
+  .el-dropdown-menu__item {
+    text-align: right;
+  }
+
+  // ========== Pagination ==========
+  .el-pagination {
+    .btn-prev,
+    .btn-next {
+      transform: scaleX(-1);
+    }
+
+    .el-pager li {
+      direction: ltr;
+    }
+  }
+
+  // ========== Card ==========
+  .el-card__header {
+    text-align: right;
+  }
+
+  // ========== Misc ==========
+  .el-alert__title {
+    text-align: right;
+  }
+
+  .el-notification__title {
+    text-align: right;
+  }
+
+  .el-descriptions__title {
+    text-align: right;
+  }
+
+  .el-empty__description {
+    text-align: center;
+  }
+
+  // Float directions
+  .float-left { float: right; }
+  .float-right { float: left; }
+
+  // Margin/Padding helpers
+  .ml-auto { margin-left: 0; margin-right: auto; }
+  .mr-auto { margin-right: 0; margin-left: auto; }
+}

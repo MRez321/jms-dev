@@ -45362,3 +45362,102 @@ Get beat lock start to run it
 2026-07-01 14:34:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
 2026-07-01 14:34:56 [DEBU] Create activity log for celery task: d067e9e5-0ba8-4954-904a-9b1afc0d0ca5
 2026-07-01 14:34:56 Create activity log for celery task: d067e9e5-0ba8-4954-904a-9b1afc0d0ca5
+2026-07-01 14:44:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 14:44:56 [DEBU] Create activity log for celery task: 59fb755f-f5f6-433b-b503-7769e8ee0bd0
+2026-07-01 14:44:56 Create activity log for celery task: 59fb755f-f5f6-433b-b503-7769e8ee0bd0
+2026-07-01 14:54:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 14:54:56 [DEBU] Create activity log for celery task: e0cba309-61d0-4c4d-b3c6-5a42c7cb2eb6
+2026-07-01 14:54:56 Create activity log for celery task: e0cba309-61d0-4c4d-b3c6-5a42c7cb2eb6
+2026-07-01 15:04:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 15:04:56 [DEBU] Create activity log for celery task: 9547af3f-6b3f-4ca7-b1c1-6026709d8064
+2026-07-01 15:04:56 Create activity log for celery task: 9547af3f-6b3f-4ca7-b1c1-6026709d8064
+2026-07-01 15:14:55 Scheduler: Sending due task perms.tasks.check_asset_permission_expired (perms.tasks.check_asset_permission_expired)
+2026-07-01 15:14:55 [DEBU] Create activity log for celery task: 929f2d25-6450-48ca-8abb-73b7289eca3c
+2026-07-01 15:14:55 Create activity log for celery task: 929f2d25-6450-48ca-8abb-73b7289eca3c
+2026-07-01 15:14:56 Scheduler: Sending due task ops.tasks.check_server_performance_period (ops.tasks.check_server_performance_period)
+2026-07-01 15:14:56 [DEBU] Create activity log for celery task: c4453d19-c901-4e49-ab7c-0687645eab32
+2026-07-01 15:14:56 Create activity log for celery task: c4453d19-c901-4e49-ab7c-0687645eab32
+2026-07-01 15:14:56 Scheduler: Sending due task ops.tasks.clean_up_unexpected_jobs (ops.tasks.clean_up_unexpected_jobs)
+2026-07-01 15:14:56 [DEBU] Create activity log for celery task: e2902cf8-f6ea-46a0-85ff-ffe15b76d66f
+2026-07-01 15:14:56 Create activity log for celery task: e2902cf8-f6ea-46a0-85ff-ffe15b76d66f
+2026-07-01 15:14:56 Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+2026-07-01 15:14:56 [DEBU] Create activity log for celery task: fe5b1f1e-7566-478d-a2d8-02169b766733
+2026-07-01 15:14:56 Create activity log for celery task: fe5b1f1e-7566-478d-a2d8-02169b766733
+2026-07-01 15:14:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 15:14:56 [DEBU] Create activity log for celery task: 63ceaed9-b0e0-4bca-9a27-58dab2515e08
+2026-07-01 15:14:56 Create activity log for celery task: 63ceaed9-b0e0-4bca-9a27-58dab2515e08
+2026-07-01 15:24:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 15:24:56 [DEBU] Create activity log for celery task: 1cee870c-2345-4093-89a6-fdc118a7b84e
+2026-07-01 15:24:56 Create activity log for celery task: 1cee870c-2345-4093-89a6-fdc118a7b84e
+2026-07-01 15:34:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 15:34:57 [DEBU] Create activity log for celery task: 0d572920-8c8d-4c94-b2fd-c0d0c3371373
+2026-07-01 15:34:57 Create activity log for celery task: 0d572920-8c8d-4c94-b2fd-c0d0c3371373
+2026-07-01 15:44:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 15:44:56 [DEBU] Create activity log for celery task: 59690255-4a3b-48f7-bd39-0e6c5f1648fe
+2026-07-01 15:44:56 Create activity log for celery task: 59690255-4a3b-48f7-bd39-0e6c5f1648fe
+2026-07-01 15:54:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 15:54:57 [DEBU] Create activity log for celery task: 4ab4bb69-d1f2-4b70-b5a7-4cbac8064f70
+2026-07-01 15:54:57 Create activity log for celery task: 4ab4bb69-d1f2-4b70-b5a7-4cbac8064f70
+2026-07-01 16:04:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 16:04:56 [DEBU] Create activity log for celery task: e731e73c-2492-4b65-97c3-074f9ac96572
+2026-07-01 16:04:56 Create activity log for celery task: e731e73c-2492-4b65-97c3-074f9ac96572
+2026-07-01 16:14:55 Scheduler: Sending due task perms.tasks.check_asset_permission_expired (perms.tasks.check_asset_permission_expired)
+2026-07-01 16:14:55 [DEBU] Create activity log for celery task: 3f964be6-f194-4534-afdd-b1ca96ca939f
+2026-07-01 16:14:55 Create activity log for celery task: 3f964be6-f194-4534-afdd-b1ca96ca939f
+2026-07-01 16:14:56 Scheduler: Sending due task ops.tasks.check_server_performance_period (ops.tasks.check_server_performance_period)
+2026-07-01 16:14:56 [DEBU] Create activity log for celery task: cfd390ee-e97d-4567-bbfe-8320cf23fe00
+2026-07-01 16:14:56 Create activity log for celery task: cfd390ee-e97d-4567-bbfe-8320cf23fe00
+2026-07-01 16:14:56 Scheduler: Sending due task ops.tasks.clean_up_unexpected_jobs (ops.tasks.clean_up_unexpected_jobs)
+2026-07-01 16:14:56 [DEBU] Create activity log for celery task: 595cf28f-41ea-463e-8d69-14849b5878da
+2026-07-01 16:14:56 Create activity log for celery task: 595cf28f-41ea-463e-8d69-14849b5878da
+2026-07-01 16:14:56 Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+2026-07-01 16:14:56 [DEBU] Create activity log for celery task: c972c3e1-a0f0-49c9-9f17-a52183e4c012
+2026-07-01 16:14:56 Create activity log for celery task: c972c3e1-a0f0-49c9-9f17-a52183e4c012
+2026-07-01 16:14:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 16:14:56 [DEBU] Create activity log for celery task: d3fb9149-0cfd-4591-ab0a-371eb57105b6
+2026-07-01 16:14:56 Create activity log for celery task: d3fb9149-0cfd-4591-ab0a-371eb57105b6
+2026-07-01 16:24:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 16:24:57 [DEBU] Create activity log for celery task: a548d4fd-a124-4948-a5b5-984da0d4d628
+2026-07-01 16:24:57 Create activity log for celery task: a548d4fd-a124-4948-a5b5-984da0d4d628
+2026-07-01 16:34:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 16:34:57 [DEBU] Create activity log for celery task: d5e5d02c-1009-4f95-86e0-673c311d08c8
+2026-07-01 16:34:57 Create activity log for celery task: d5e5d02c-1009-4f95-86e0-673c311d08c8
+2026-07-01 16:44:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 16:44:57 [DEBU] Create activity log for celery task: 5b5b04c1-1433-48a1-b924-b19300cf68a2
+2026-07-01 16:44:57 Create activity log for celery task: 5b5b04c1-1433-48a1-b924-b19300cf68a2
+2026-07-01 16:54:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 16:54:57 [DEBU] Create activity log for celery task: 87043b35-b4aa-4f20-8f33-8ca44a508b63
+2026-07-01 16:54:57 Create activity log for celery task: 87043b35-b4aa-4f20-8f33-8ca44a508b63
+2026-07-01 17:04:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 17:04:57 [DEBU] Create activity log for celery task: 75a7ecfc-c2e1-4fbf-a750-abb4d5ebe83b
+2026-07-01 17:04:57 Create activity log for celery task: 75a7ecfc-c2e1-4fbf-a750-abb4d5ebe83b
+2026-07-01 17:14:55 Scheduler: Sending due task perms.tasks.check_asset_permission_expired (perms.tasks.check_asset_permission_expired)
+2026-07-01 17:14:56 [DEBU] Create activity log for celery task: 581eac36-4c2a-4e2c-b542-a8eeb7d81e22
+2026-07-01 17:14:56 Create activity log for celery task: 581eac36-4c2a-4e2c-b542-a8eeb7d81e22
+2026-07-01 17:14:56 Scheduler: Sending due task ops.tasks.check_server_performance_period (ops.tasks.check_server_performance_period)
+2026-07-01 17:14:56 [DEBU] Create activity log for celery task: 40baa94a-7b27-4af4-baad-79ada8db8909
+2026-07-01 17:14:56 Create activity log for celery task: 40baa94a-7b27-4af4-baad-79ada8db8909
+2026-07-01 17:14:56 Scheduler: Sending due task ops.tasks.clean_up_unexpected_jobs (ops.tasks.clean_up_unexpected_jobs)
+2026-07-01 17:14:56 [DEBU] Create activity log for celery task: 0e679e9a-1154-41e9-8a21-15cc9435f481
+2026-07-01 17:14:56 Create activity log for celery task: 0e679e9a-1154-41e9-8a21-15cc9435f481
+2026-07-01 17:14:56 Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+2026-07-01 17:14:56 [DEBU] Create activity log for celery task: dd15a609-72a3-46b1-8b16-13ece2c77525
+2026-07-01 17:14:56 Create activity log for celery task: dd15a609-72a3-46b1-8b16-13ece2c77525
+2026-07-01 17:14:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 17:14:56 [DEBU] Create activity log for celery task: d1cd30a7-1194-44c3-b1db-8a0a60dd6530
+2026-07-01 17:14:56 Create activity log for celery task: d1cd30a7-1194-44c3-b1db-8a0a60dd6530
+2026-07-01 17:24:56 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 17:24:57 [DEBU] Create activity log for celery task: 1a2fea1a-4de6-4e2a-9db2-ded1d1642ee9
+2026-07-01 17:24:57 Create activity log for celery task: 1a2fea1a-4de6-4e2a-9db2-ded1d1642ee9
+2026-07-01 17:34:57 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 17:34:57 [DEBU] Create activity log for celery task: 80926e72-1bdf-4a5d-a8d9-224d1a93e71d
+2026-07-01 17:34:57 Create activity log for celery task: 80926e72-1bdf-4a5d-a8d9-224d1a93e71d
+2026-07-01 17:44:57 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 17:44:57 [DEBU] Create activity log for celery task: e57c4651-4585-47b8-b57a-27db942095bb
+2026-07-01 17:44:57 Create activity log for celery task: e57c4651-4585-47b8-b57a-27db942095bb
+2026-07-01 17:54:57 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 17:54:57 [DEBU] Create activity log for celery task: f1da839d-88d1-4745-83a0-18ffe025db52
+2026-07-01 17:54:57 Create activity log for celery task: f1da839d-88d1-4745-83a0-18ffe025db52
+2026-07-01 18:04:57 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-01 18:04:57 [DEBU] Create activity log for celery task: 89f0fa3c-3df5-4854-9861-53f1ee19752b
+2026-07-01 18:04:57 Create activity log for celery task: 89f0fa3c-3df5-4854-9861-53f1ee19752b

@@ -1529,6 +1529,7 @@
     "UploadCsvLth10MHelpText": "Somente upload de csv/xlsx, e não ultrapassar 10M",
     "UploadDir": "Enviar para o diretório",
     "UploadFileLthHelpText": "Só podem ser carregados arquivos menores que {limit} MB",
+    "UploadFileTooLarge": "Upload falhou: o arquivo é muito grande.",
     "UploadHelpText": "Faça upload do arquivo .zip que contém a seguinte estrutura de exemplo de diretório",
     "UploadPlaybook": "Upload Playbook",
     "UploadSucceed": " Upload bem sucedido ",

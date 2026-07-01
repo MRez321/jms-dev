@@ -18,6 +18,7 @@ class BaseTranslateManager:
         'ru': 'Russian',
         'ko': 'Korean',
         'vi': 'Vietnamese',
+        'fa': 'Persian',
     }
 
     def __init__(self, dir_path, oai_trans_instance):

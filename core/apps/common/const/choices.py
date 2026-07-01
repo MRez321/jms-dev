@@ -78,6 +78,7 @@ class Language(models.TextChoices):
     ru = 'ru', 'Русский'
     ko = 'ko', '한국어'
     vi = 'vi', 'Tiếng Việt'
+    fa = 'fa', 'فارسی'
 
     @classmethod
     def get_code_mapper(cls):
@@ -87,6 +88,9 @@ class Language(models.TextChoices):
             'zh-cn': cls.zh_hans.value,
             'zh-tw': cls.zh_hant.value,
             'zh-hk': cls.zh_hant.value,
+
+            'fa-ir': cls.fa.value,
+            'fa_IR': cls.fa.value,
         })
         return code_mapper
 

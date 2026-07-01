@@ -31,6 +31,7 @@ langs_display_map = {
     'en': '英文',
     'ja': '日文',
     'zh_Hant': '繁体中文',
+    'fa': 'Persian',
 }
 
 
@@ -51,7 +52,7 @@ class I18NFileUtil(object):
         data = {}
 
         diff_filepath = f'{self.dir_path}/.diff-zh-{lang}.json'
-        
+
         with open(diff_filepath, 'w', encoding='utf-8') as f:
             for path in diff_paths:
                 value = zh_tree.get(path)
@@ -80,7 +81,7 @@ class I18NFileUtil(object):
             data = json.dumps(data, ensure_ascii=False, indent=2)
             f.write(data)
             print(f'\n翻译文件 {self.dir_path}/{lang}.json 已更新, 总共写入新的翻译 {len(diff_data)} 条.\n')
-            
+
         # 删除 diff 文件
         os.remove(diff_filepath)
 
@@ -92,11 +93,15 @@ class I18NFileUtil(object):
             d[k] = v
         return d
 
+    # @staticmethod
+    # def load_json(filename):
+    #     with open(filename, 'r') as f:
+    #         data = f.read()
+    #         return json.loads(data)
     @staticmethod
     def load_json(filename):
-        with open(filename, 'r') as f:
-            data = f.read()
-            return json.loads(data)
+        with open(filename, 'r', encoding='utf-8') as f:
+            return json.load(f)
 
 
 if __name__ == '__main__':
@@ -115,7 +120,10 @@ if __name__ == '__main__':
         'action', type=str, choices=("diff", "apply"),
     )
     parser.add_argument(
-        'langs', type=str, choices=("en", "ja", "zh_Hant"), nargs='*'
+        'langs',
+        type=str,
+        choices=("en", "ja", "zh_Hant", "fa"),
+        nargs='*'
     )
     args = parser.parse_args()
     action = args.action

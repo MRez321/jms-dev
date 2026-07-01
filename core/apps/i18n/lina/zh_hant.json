@@ -1533,6 +1533,7 @@
     "UploadCsvLth10MHelpText": "只能上傳 csv/xlsx, 且不超過 10M",
     "UploadDir": "上傳目錄",
     "UploadFileLthHelpText": "只能上傳小於{limit}MB檔案",
+    "UploadFileTooLarge": "上傳失敗：文件過大",
     "UploadHelpText": "請上傳包含以下範例結構目錄的 .zip 壓縮文件",
     "UploadPlaybook": "上傳 Playbook",
     "UploadSucceed": "上傳成功",

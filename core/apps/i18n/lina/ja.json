@@ -1533,6 +1533,7 @@
     "UploadCsvLth10MHelpText": "アップロード可能なのは csv/xlsx のみで、10Mを超えないこと",
     "UploadDir": "アップロードディレクトリ",
     "UploadFileLthHelpText": "{limit}MB以下のファイルのみアップロード可能",
+    "UploadFileTooLarge": "アップロード失敗：ファイルが大きすぎます",
     "UploadHelpText": "次のサンプル構造ディレクトリを含む .zip ファイルをアップロードしてください。",
     "UploadPlaybook": "Playbookのアップロード",
     "UploadSucceed": "アップロード成功",

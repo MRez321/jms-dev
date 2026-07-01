@@ -20,85 +20,90 @@ msgstr ""
 
 #: static/js/jumpserver.js:267
 msgid "Update is successful!"
-msgstr ""
+msgstr "به‌روزرسانی با موفقیت انجام شد"
 
 #: static/js/jumpserver.js:269
 msgid "An unknown error occurred while updating.."
-msgstr ""
+msgstr "خطای ناشناخته در زمان به‌روزرسانی رخ داد"
 
 #: static/js/jumpserver.js:342
 msgid "Not found"
-msgstr ""
+msgstr "یافت نشد"
 
 #: static/js/jumpserver.js:344
 msgid "Server error"
-msgstr ""
+msgstr "خطای سرور"
 
 #: static/js/jumpserver.js:346 static/js/jumpserver.js:384
 #: static/js/jumpserver.js:386
 msgid "Error"
-msgstr ""
+msgstr "خطا"
 
 #: static/js/jumpserver.js:352 static/js/jumpserver.js:393
 msgid "Delete the success"
-msgstr ""
+msgstr "حذف با موفقیت انجام شد"
 
 #: static/js/jumpserver.js:359
 msgid "Are you sure about deleting it?"
-msgstr ""
+msgstr "آیا از حذف مطمئن هستید؟"
 
 #: static/js/jumpserver.js:363 static/js/jumpserver.js:404
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #: static/js/jumpserver.js:365 static/js/jumpserver.js:406
 msgid "Confirm"
-msgstr ""
+msgstr "تأیید"
 
 #: static/js/jumpserver.js:384
 msgid ""
 "The organization contains undeleted information. Please try again after "
 "deleting"
 msgstr ""
+"سازمان شامل اطلاعاتی است که حذف نشده‌اند، لطفاً پس از حذف دوباره تلاش کنید"
 
 #: static/js/jumpserver.js:386
 msgid ""
 "Do not perform this operation under this organization. Try again after "
 "switching to another organization"
 msgstr ""
+"لطفاً این عمل را در این سازمان انجام ندهید، پس از تغییر به سازمان دیگر "
+"دوباره تلاش کنید"
 
 #: static/js/jumpserver.js:400
 msgid ""
 "Please ensure that the following information in the organization has been "
 "deleted"
-msgstr ""
+msgstr "لطفاً اطمینان حاصل کنید که اطلاعات زیر در سازمان حذف شده‌اند"
 
 #: static/js/jumpserver.js:401
 msgid ""
-"User list、User group、Asset list、Domain list、Admin user、System user、"
-"Labels、Asset permission"
+"User list、User group、Asset list、Domain list、Admin user、System "
+"user、Labels、Asset permission"
 msgstr ""
+"فهرست کاربران، گروه‌های کاربران، فهرست دارایی‌ها، فهرست دامنه‌ها، کاربران "
+"ویژه، کاربران سیستم، مدیریت برچسب، قوانین مجوز دارایی"
 
 #: static/js/jumpserver.js:650
 msgid "Unknown error occur"
-msgstr ""
+msgstr "خطای ناشناخته رخ داده است"
 
 #: static/js/jumpserver.js:902
 msgid "Password minimum length {N} bits"
-msgstr ""
+msgstr "حداقل طول رمز عبور {N} کاراکتر است"
 
 #: static/js/jumpserver.js:903
 msgid "Must contain capital letters"
-msgstr ""
+msgstr "必须包含大写字母"
 
 #: static/js/jumpserver.js:904
 msgid "Must contain lowercase letters"
-msgstr ""
+msgstr "Must contain uppercase letters"
 
 #: static/js/jumpserver.js:905
 msgid "Must contain numeric characters"
-msgstr ""
+msgstr "必须包含小写字母"
 
 #: static/js/jumpserver.js:906
 msgid "Must contain special characters"
-msgstr ""
+msgstr "Must contain lowercase letters"

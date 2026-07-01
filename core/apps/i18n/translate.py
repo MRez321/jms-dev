@@ -4,8 +4,8 @@ import os
 from _translator.const import LOCALE_DIR, RED
 from _translator.core import CoreTranslateManager
 from _translator.other import OtherTranslateManager
-from _translator.utils import build_translator
-
+# from _translator.utils import build_translator
+from _translator.utils_fa import build_translator
 
 class Translate:
     IGNORE_TRANSLATE_DIRS = ('translate',)

@@ -1,5 +1,5 @@
-FROM jumpserver/core-base:20260122_035753 AS stage-build
-
+FROM jumpserver/core-base:20260122_035753-fa AS stage-build
+#FROM jumpserver/core-base:20260122_035753 AS stage-build
 ARG VERSION
 
 WORKDIR /opt/jumpserver

@@ -93,6 +93,7 @@
     "Face verify": "Face verify",
     "Face verify required": "This login requires face verification. Do you want to continue?",
     "Face verify success": "Face verify success",
+    "FaceOnlineNotSupported": "Face online verification is not supported.",
     "Failed to open address": "Failed to Open Address",
     "Favorite": "Favorite",
     "File Manager": "File Manager",
@@ -208,6 +209,7 @@
     "Search": "Search",
     "Select account": "Select account",
     "SelectCommand": "Please select the command to execute.",
+    "Send": "Send",
     "Send command": "Send command",
     "Send text to all ssh terminals": "Send text to all ssh terminals",
     "SendCommandPlaceholder": "Input command here, Enter for new line, Ctrl+Enter to send",
@@ -288,6 +290,6 @@
     "start time": "Start time",
     "success": "Success",
     "system user": "System user",
-    "user": "User",
-    "tabLimits": "15 tabs are currently open.\nTo ensure system stability, would you like to open Luna in a new browser tab to continue?"
+    "tabLimits": "15 tabs are currently open.\nTo ensure system stability, would you like to open Luna in a new browser tab to continue?",
+    "user": "User"
 }

@@ -5,3 +5,17 @@
 [2026-07-01 20:16:36 +0800] [21] [INFO] Booting worker with pid: 21
 [2026-07-01 20:16:36 +0800] [22] [INFO] Booting worker with pid: 22
 [2026-07-01 20:16:36 +0800] [23] [INFO] Booting worker with pid: 23
+[2026-07-01 20:34:42 +0800] [34] [INFO] Starting gunicorn 23.0.0
+[2026-07-01 20:34:42 +0800] [34] [INFO] Listening at: http://0.0.0.0:8080 (34)
+[2026-07-01 20:34:42 +0800] [34] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-07-01 20:34:42 +0800] [35] [INFO] Booting worker with pid: 35
+[2026-07-01 20:34:43 +0800] [36] [INFO] Booting worker with pid: 36
+[2026-07-01 20:34:43 +0800] [37] [INFO] Booting worker with pid: 37
+[2026-07-01 20:34:43 +0800] [38] [INFO] Booting worker with pid: 38
+[2026-07-01 20:39:34 +0800] [19] [INFO] Starting gunicorn 23.0.0
+[2026-07-01 20:39:34 +0800] [19] [INFO] Listening at: http://0.0.0.0:8080 (19)
+[2026-07-01 20:39:34 +0800] [19] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-07-01 20:39:34 +0800] [20] [INFO] Booting worker with pid: 20
+[2026-07-01 20:39:34 +0800] [21] [INFO] Booting worker with pid: 21
+[2026-07-01 20:39:34 +0800] [22] [INFO] Booting worker with pid: 22
+[2026-07-01 20:39:34 +0800] [23] [INFO] Booting worker with pid: 23

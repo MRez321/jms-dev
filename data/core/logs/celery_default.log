@@ -12393,3 +12393,19 @@ django.db.utils.OperationalError: (2005, "Unknown server host 'mariadb' (-3)")
 2026-07-01 20:14:57 New site msg created, publish it
 2026-07-01 20:14:57 Task ops.tasks.check_server_performance_period[9822f93b-dadf-47d4-b9ea-f4cb191902f3] succeeded in 1.4067437029989378s: None
 2026-07-01 20:14:57 Task terminal.tasks.delete_terminal_status_period[dd7f8268-2065-4ce5-869b-fe755aff8873] succeeded in 1.002946314001747s: None
+2026-07-01 20:22:47 Task terminal.tasks.clean_orphan_session[e7b6534f-fea6-40cb-bd30-78b777bb840f] received
+2026-07-01 20:22:47 Task terminal.tasks.clean_orphan_session[4267ae9e-595b-49dc-9ea6-2b1989bc6718] received
+2026-07-01 20:22:48 >> Set language to en
+2026-07-01 20:22:48 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:22:48 >> Set language to en
+2026-07-01 20:22:48 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:22:48 Task terminal.tasks.clean_orphan_session[4267ae9e-595b-49dc-9ea6-2b1989bc6718] succeeded in 0.2080224929995893s: None
+2026-07-01 20:22:48 Task terminal.tasks.clean_orphan_session[e7b6534f-fea6-40cb-bd30-78b777bb840f] succeeded in 0.2523577389983984s: None
+2026-07-01 20:32:47 Task terminal.tasks.clean_orphan_session[c63facfa-6fea-4313-b0f3-96f7bfe370ed] received
+2026-07-01 20:32:47 Task terminal.tasks.clean_orphan_session[e32b752f-ce9c-482d-96b9-43cc4d814ae9] received
+2026-07-01 20:32:47 >> Set language to en
+2026-07-01 20:32:47 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:32:47 >> Set language to en
+2026-07-01 20:32:47 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-01 20:32:47 Task terminal.tasks.clean_orphan_session[e32b752f-ce9c-482d-96b9-43cc4d814ae9] succeeded in 0.25233048600057373s: None
+2026-07-01 20:32:47 Task terminal.tasks.clean_orphan_session[c63facfa-6fea-4313-b0f3-96f7bfe370ed] succeeded in 0.2531819930009078s: None

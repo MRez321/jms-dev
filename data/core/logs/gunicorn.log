@@ -7792,3 +7792,12 @@ l_count_today_failed_sessions=1 HTTP/1.1" 200
 172.18.0.6:36686 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
 2026-07-01 14:40:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 172.18.0.7:43498 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:40:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38646 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:41:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:41:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:41:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:58576 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:41:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:60348 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:42:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True

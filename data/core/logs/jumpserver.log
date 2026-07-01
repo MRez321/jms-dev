@@ -1402,3 +1402,7 @@ _00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amou
 2026-07-01 18:10:11 [DEBU] pid 116 executor submit run update_user_last_used
 2026-07-01 18:10:11 [DEBU] pid 116 executor submit run update_token_last_used
 2026-07-01 18:10:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:11:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:11:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:12:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 18:12:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True

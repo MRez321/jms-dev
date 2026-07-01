@@ -9041,3 +9041,11 @@ t: True
 2026-07-01 18:10:11 [DEBU] pid 116 executor submit run update_token_last_used
 2026-07-01 18:10:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 172.18.0.6:37846 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:11:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50396 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:11:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:58196 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:12:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:41656 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 18:12:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:49340 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200

@@ -6611,3 +6611,1184 @@ l_count_today_failed_sessions=1 HTTP/1.1" 200
 2026-06-30 20:30:35 [DEBU] Subscription unsubscribed
 2026-06-30 20:30:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa16c33ee90>
 172.18.0.7:39320 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 200
+2026-06-30 20:31:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:42520 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:31:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:52364 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:32:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:45906 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:32:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:59334 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:33:08 [DEBU] pid 28 executor submit run update_user_last_used
+2026-06-30 20:33:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:37870 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:33:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:50036 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:34:08 [DEBU] pid 28 executor submit run update_token_last_used
+2026-06-30 20:34:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:54432 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:34:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:47774 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:35:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:33292 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:35:23 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:51030 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:36:09 [DEBU] pid 26 executor submit run update_user_last_used
+2026-06-30 20:36:09 [DEBU] pid 26 executor submit run update_token_last_used
+2026-06-30 20:36:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.9:37622 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-06-30 20:36:24 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:60818 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-06-30 20:37:08 +0800] [29] [INFO] connection closed
+2026-06-30 20:37:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa1a0321ed0>
+2026-06-30 20:37:08 [DEBU] Subscription unsubscribed
+2026-06-30 20:37:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa1a0321ed0>
+[2026-06-30 20:37:08 +0800] [29] [INFO] connection closed
+2026-06-30 20:37:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa1a04ea650>
+2026-06-30 20:37:08 [DEBU] Subscription unsubscribed
+2026-06-30 20:37:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa1a04ea650>
+[2026-06-30 20:37:08 +0800] [29] [INFO] connection closed
+2026-06-30 20:37:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa1a04e9910>
+2026-06-30 20:37:08 [DEBU] Subscription unsubscribed
+2026-06-30 20:37:09 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7fa1a04e9910>
+[2026-07-01 13:13:56 +0800] [21] [INFO] Starting gunicorn 23.0.0
+[2026-07-01 13:13:56 +0800] [21] [INFO] Listening at: http://0.0.0.0:8080 (21)
+[2026-07-01 13:13:56 +0800] [21] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-07-01 13:13:56 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-07-01 13:13:56 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-07-01 13:13:56 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-07-01 13:13:56 +0800] [29] [INFO] Booting worker with pid: 29
+2026-07-01 13:14:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-01 13:14:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-01 13:14:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-01 13:14:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe vault change
+2026-07-01 13:14:20 [DEBU] Start subscribe vault change
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe vault change
+2026-07-01 13:14:20 [DEBU] Start subscribe vault change
+2026-07-01 13:14:20 [INFO] Start subscribe for stop job execution
+2026-07-01 13:14:20 [INFO] Start subscribe for stop job execution
+2026-07-01 13:14:20 [DEBU] Start subscribe setting change
+2026-07-01 13:14:20 [INFO] Start subscribe for stop job execution
+2026-07-01 13:14:20 [DEBU] Start subscribe setting change
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [INFO] Start subscribe for stop job execution
+2026-07-01 13:14:20 [DEBU] Start subscribe setting change
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe setting change
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:14:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-07-01 13:14:21 +0800] [28] [INFO] Started server process [28]
+[2026-07-01 13:14:21 +0800] [26] [INFO] Started server process [26]
+[2026-07-01 13:14:21 +0800] [28] [INFO] Waiting for application startup.
+[2026-07-01 13:14:21 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-01 13:14:21 +0800] [26] [INFO] Waiting for application startup.
+[2026-07-01 13:14:21 +0800] [27] [INFO] Started server process [27]
+[2026-07-01 13:14:21 +0800] [27] [INFO] Waiting for application startup.
+[2026-07-01 13:14:21 +0800] [29] [INFO] Started server process [29]
+[2026-07-01 13:14:21 +0800] [29] [INFO] Waiting for application startup.
+[2026-07-01 13:14:21 +0800] [28] [INFO] Application startup complete.
+[2026-07-01 13:14:21 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-01 13:14:21 +0800] [26] [INFO] Application startup complete.
+[2026-07-01 13:14:21 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-01 13:14:21 +0800] [27] [INFO] Application startup complete.
+[2026-07-01 13:14:21 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-01 13:14:21 +0800] [29] [INFO] Application startup complete.
+172.18.0.8:37610 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.7:47776 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.6:36852 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.7:40764 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.8:60284 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+[2026-07-01 13:14:49 +0800] [28] [INFO] ('172.18.0.8', 54502) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-01 13:14:49 +0800] [28] [INFO] connection open
+[2026-07-01 13:15:07 +0800] [21] [CRITICAL] WORKER TIMEOUT (pid:29)
+2026-07-01 13:15:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:40766 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-01 13:15:09 +0800] [21] [ERROR] Worker (pid:29) was sent SIGKILL! Perhaps out of memory?
+[2026-07-01 13:15:09 +0800] [28] [INFO] ('172.18.0.7', 33566) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-01 13:15:09 +0800] [28] [INFO] connection open
+[2026-07-01 13:15:09 +0800] [116] [INFO] Booting worker with pid: 116
+2026-07-01 13:15:11 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:54508 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.6:41950 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-07-01 13:15:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41958 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:15:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41958 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:15:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41958 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-01 13:15:18 +0800] [28] [INFO] ('172.18.0.6', 41964) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-01 13:15:18 +0800] [28] [INFO] connection open
+172.18.0.9:35692 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.9:35700 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 200
+172.18.0.9:35714 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 200
+172.18.0.9:35704 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+172.18.0.9:35720 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+172.18.0.9:35732 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 200
+172.18.0.9:35730 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+172.18.0.9:35742 - "GET /api/v1/users/profile/ HTTP/1.0" 200
+172.18.0.7:60576 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.7:60576 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.7:60576 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.7:60576 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+172.18.0.9:35756 - "GET /api/v1/users/profile/permissions/ HTTP/1.0" 200
+172.18.0.9:35760 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.9:35764 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.9:35776 - "GET /api/v1/orgs/orgs/current/ HTTP/1.0" 200
+[2026-07-01 13:15:31 +0800] [28] [INFO] ('172.18.0.9', 34682) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 13:15:31 +0800] [28] [INFO] connection open
+2026-07-01 13:15:34 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:15:34 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:15:34 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:15:34 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:15:34 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:15:34 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:15:34 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-07-01 13:15:35 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-07-01 13:15:35 [DEBU] Attempt acquire lock: lock_id=C/hvJlzepM7efTKdb7wP/J7z lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-01 13:15:35 [DEBU] Attempt acquire lock: lock_id=t7NxfpxP0bvrV5BwxhvyME8Z lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-01 13:15:35 [DEBU] Acquired lock: ok=True lock_id=C/hvJlzepM7efTKdb7wP/J7z lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:15:35 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-07-01 13:15:36 [DEBU] Start init cache: key=cache.orgs.caches.OrgResourceSta172.18.0.7:38406 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+2026-07-01 13:15:36 [DEBU] Start compute cache field: field=users_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+172.18.0.9:34716 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.0" 200
+172.18.0.7:38406 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-07-01 13:15:37 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:15:37 [DEBU] End compute cache field: cost=0.8311011791229248 field=users_amount value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:37 [DEBU] Start compute cache field: field=assets_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:15:37 [DEBU] End compute cache field: cost=0.09568548202514648 field=assets_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:37 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.9:34720 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.0" 200
+y=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: 172.18.0.9:34724 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+0) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:15:37 [DEBU] End compute cache field: cost=0.2990915775299072 field=new_users_amount_this_week value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:37 [DEBU] Start compute cache field: field=new_assets_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:37 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Asset.date_created received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.9:34752 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+s_amount_this_week value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] Start compute cache field: field=nodes_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.9:34760 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.0" 200
+2026-07-01 13:15:38 [DEBU] End compute cache field: cost=0.4894425868988037 field=nodes_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] Start compute cache field: field=zones_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] End compute cache field: cost=0.10421967506408691 field=zones_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] Start compute cache field: field=groups_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] End compute cache field: cost=0.0545806884765625 field=groups_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:38 [DEBU] Start compute cache field: field=accounts_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] End compute cache field: cost=0.17708349227905273 field=accounts_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] Start compute cache field: field=asset_perms_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] End compute cache field: cost=0.07687783241271973 field=asset_perms_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] Start compute cache field: field=total_count_online_users key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] End compute cache field: cost=0.3195176124572754 field=total_count_online_users value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] Start compute cache field: field=total_count_online_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] End compute cache field: cost=0.036978960037231445 field=total_count_online_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] Start compute cache field: field=total_count_today_active_assets key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-07-01 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:15:39 [DEBU] End compute cache field: cost=0.09275245666503906 field=total_count_today_active_assets value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:39 [DEBU] Start compute cache field: field=total_count_today_failed_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:40 [DEBU] End compute cache field: cost=0.04216790199279785 field=total_count_today_failed_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:40 [DEBU] Set data to cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={'users_amount': 1, 'assets_amount': 0, 'new_users_amount_this_week': 1, 'new_assets_amount_this_week': 0, 'nodes_amount': 0, 'zones_amount': 0, 'groups_amount': 0, 'accounts_amount': 0, 'asset_perms_amount': 0, 'total_count_online_users': 0, 'total_count_online_sessions': 0, 'total_count_today_active_assets': 0, 'total_count_today_failed_sessions': 0}
+2026-07-01 13:15:40 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:15:40 [DEBU] End init cache: cost=3.9492290019989014 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-01 13:15:40 [DEBU] Released lock: lock_id=C/hvJlzepM7efTKdb7wP/J7z lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-01 13:15:40 [DEBU] Acquired lock: ok=True lock_id=t7NxfpxP0bvrV5BwxhvyME8Z lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-07-01 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:15:40 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:15:40 [DEBU] Released lock: lock_id=t7NxfpxP0bvrV5BwxhvyME8Z lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+172.18.0.9:34690 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.0" 200
+172.18.0.9:34702 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.0" 200
+2026-07-01 13:15:45 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.9:37302 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.0" 200
+2026-07-01 13:16:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-01 13:16:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-01 13:16:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-01 13:16:04 [DEBU] Start subscribe vault change
+2026-07-01 13:16:04 [INFO] Start subscribe for stop job execution
+2026-07-01 13:16:04 [DEBU] Start subscribe setting change
+2026-07-01 13:16:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-07-01 13:16:05 +0800] [116] [INFO] Started server process [116]
+[2026-07-01 13:16:05 +0800] [116] [INFO] Waiting for application startup.
+[2026-07-01 13:16:05 +0800] [116] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-01 13:16:05 +0800] [116] [INFO] Application startup complete.
+2026-07-01 13:16:17 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-01 13:16:17 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-01 13:16:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:53022 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:57420 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:57406 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-07-01 13:16:28 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.1:57434 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.7:43998 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:57424 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:57444 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+2026-07-01 13:16:28 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:57422 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:35726 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:35740 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:35750 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:16:32 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:35756 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+[2026-07-01 13:16:32 +0800] [28] [INFO] ('172.18.0.1', 35800) - "WebSocket /ws/notifications/site-msg/" [accepted]
+172.18.0.1:35762 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+[2026-07-01 13:16:32 +0800] [28] [INFO] connection open
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:16:32 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:16:32 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:35776 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:35790 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+sult: True
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:35764 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:16:32 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:35806 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-07-01 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:35816 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:35784 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.1:35820 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:16:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:35832 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:16:33 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:35838 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:17:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:33344 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:17:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52386 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:18:11 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-01 13:18:11 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-01 13:18:12 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:38976 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:18:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:42918 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:19:09 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:54386 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:19:18 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-01 13:19:18 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34802 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:20:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:51954 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:20:19 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34120 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:21:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:21:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:21:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:36946 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:21:20 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50182 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:22:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:51530 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:22:25 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56334 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:23:08 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-01 13:23:08 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-01 13:23:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60046 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:23:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50582 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:24:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:44792 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:24:26 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:24:26 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:24:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55706 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:25:13 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47002 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:25:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:47240 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:26:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37362 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:26:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:36032 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:27:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:33798 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:27:29 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:27:29 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:27:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:44248 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:28:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35292 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:55634 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:55644 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:28:21 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+2026-07-01 13:28:21 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:55672 - "GET /api/v1/accounts/pam-dashboard/?total_long_time_no_login_accounts=1&total_new_found_accounts=1&total_groups_changed_accounts=1&total_sudoers_changed_accounts=1&total_authorized_keys_changed_accounts=1&total_account_deleted_accounts=1&total_password_expired_accounts=1&total_long_time_password_accounts=1&total_weak_password_accounts=1&total_leaked_password_accounts=1&total_repeated_password_accounts=1 HTTP/1.1" 200
+172.18.0.1:55670 - "GET /api/v1/accounts/pam-dashboard/?total_count_change_secret_automation=1&total_count_gathered_account_automation=1&total_count_push_account_automation=1&total_count_backup_account_automation=1&total_count_integration_application=1 HTTP/1.1" 200
+2026-07-01 13:28:21 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+2026-07-01 13:28:21 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:55676 - "GET /api/v1/accounts/pam-dashboard/?total_count_type_to_accounts=1 HTTP/1.1" 200
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Account.date_created received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.1:55688 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:55654 - "GET /api/v1/accounts/pam-dashboard/?total_accounts=1&total_week_add_accounts=1&total_privileged_accounts=1&total_secret_reset_accounts=1&total_connectivity_ok_accounts=1&total_valid_accounts=1 HTTP/1.1" 200
+172.18.0.1:55700 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:28:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:22 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:28:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField JobExecution.date_start received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.1:55746 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+172.18.0.1:55732 - "GET /api/v1/index/?days=7%20%20%20%20%20%20%20%20&total_count_job_logs=1%20%20%20%20%20%20%20%20&total_count_job_logs_running=1%20%20%20%20%20%20%20%20&total_count_job_logs_failed=1%20%20%20%20%20%20%20%20&session_dates_metrics=1 HTTP/1.1" 200
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField OperateLog.datetime received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField PasswordChangeLog.datetime received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField FTPLog.date_start received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.1:55720 - "GET /api/v1/index/?days=7%20%20%20%20%20%20%20%20%20%20&total_count_user_login_logs=1%20%20%20%20%20%20%20%20%20%20&total_count_user_login_success_logs=1%20%20%20%20%20%20%20%20%20%20&total_count_commands=1%20%20%20%20%20%20%20%20%20%20&total_count_commands_danger=1 HTTP/1.1" 200
+172.18.0.1:55716 - "GET /api/v1/index/?days=7%20%20%20%20%20%20%20%20&total_count_user_login_logs=1%20%20%20%20%20%20%20%20&total_count_operate_logs=1%20%20%20%20%20%20%20%20&total_count_change_password_logs=1%20%20%20%20%20%20%20%20&total_count_online_sessions=1%20%20%20%20%20%20%20%20&total_count_history_sessions=1%20%20%20%20%20%20%20%20&total_count_ftp_logs=1 HTTP/1.1" 200
+172.18.0.1:55760 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:55772 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+172.18.0.1:55784 - "GET /api/v1/users/preference/?category=luna HTTP/1.1" 200
+172.18.0.1:55794 - "OPTIONS /api/v1/audits/my-login-logs/?limit=5&display=1 HTTP/1.1" 200
+172.18.0.1:55790 - "OPTIONS /api/v1/terminal/my-sessions/?limit=5&display=1 HTTP/1.1" 200
+172.18.0.1:55814 - "GET /api/v1/terminal/my-sessions/?limit=5&offset=0&limit=10&display=1&draw=1 HTTP/1.1" 200
+172.18.0.1:55806 - "GET /api/v1/audits/my-login-logs/?limit=5&offset=0&limit=5&display=1&draw=1 HTTP/1.1" 200
+2026-07-01 13:28:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38578 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:33336 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:33338 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:28:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Session.date_start received a naive datetime (2026-06-24 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.1:33350 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:28:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:50 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-07-01 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:28:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:50 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:33354 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 13:28:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:33374 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:33360 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:33392 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:28:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:28:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:33400 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:28:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:33408 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:33416 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:28:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:33428 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:29:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56008 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:29:29 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:29:29 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:29:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37184 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:30:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:49388 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:30:29 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38094 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:31:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50986 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:31:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:58764 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:32:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:32:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:32:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:41974 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:32:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:47846 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:34812 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:34824 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:32:49 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:34840 - "GET /api/v1/accounts/pam-dashboard/?total_accounts=1&total_week_add_accounts=1&total_privileged_accounts=1&total_secret_reset_accounts=1&total_connectivity_ok_accounts=1&total_valid_accounts=1 HTTP/1.1" 200
+2026-07-01 13:32:49 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:34866 - "GET /api/v1/accounts/pam-dashboard/?total_long_time_no_login_accounts=1&total_new_found_accounts=1&total_groups_changed_accounts=1&total_sudoers_changed_accounts=1&total_authorized_keys_changed_accounts=1&total_account_deleted_accounts=1&total_password_expired_accounts=1&total_long_time_password_accounts=1&total_weak_password_accounts=1&total_leaked_password_accounts=1&total_repeated_password_accounts=1 HTTP/1.1" 200
+2026-07-01 13:32:49 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:34856 - "GET /api/v1/accounts/pam-dashboard/?total_count_change_secret_automation=1&total_count_gathered_account_automation=1&total_count_push_account_automation=1&total_count_backup_account_automation=1&total_count_integration_application=1 HTTP/1.1" 200
+172.18.0.1:34876 - "GET /api/v1/accounts/pam-dashboard/?total_count_type_to_accounts=1 HTTP/1.1" 200
+172.18.0.9:40148 - "GET /api/v1/settings/public/ HTTP/1.0" 200
+172.18.0.9:40156 - "GET /api/v1/orgs/orgs/current/ HTTP/1.0" 200
+172.18.0.9:40168 - "GET /api/v1/assets/categories/?limit=1000 HTTP/1.0" 200
+2026-07-01 13:32:53 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+2026-07-01 13:32:53 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+2026-07-01 13:32:53 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.9:40196 - "GET /api/v1/accounts/pam-dashboard/?total_long_time_no_login_accounts=1&total_new_found_accounts=1&total_groups_changed_accounts=1&total_sudoers_changed_accounts=1&total_authorized_keys_changed_accounts=1&total_account_deleted_accounts=1&total_password_expired_accounts=1&total_long_time_password_accounts=1&total_weak_password_accounts=1&total_leaked_password_accounts=1&total_repeated_password_accounts=1 HTTP/1.0" 200
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField Account.date_created received a naive datetime (2026-06-29 00:00:00) while time zone support is active.
+  warnings.warn(
+2026-07-01 13:32:53 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.9:40194 - "GET /api/v1/accounts/pam-dashboard/?total_count_change_secret_automation=1&total_count_gathered_account_automation=1&total_count_push_account_automation=1&total_count_backup_account_automation=1&total_count_integration_application=1 HTTP/1.0" 200
+172.18.0.9:40184 - "GET /api/v1/accounts/pam-dashboard/?total_accounts=1&total_week_add_accounts=1&total_privileged_accounts=1&total_secret_reset_accounts=1&total_connectivity_ok_accounts=1&total_valid_accounts=1 HTTP/1.0" 200
+172.18.0.9:40200 - "GET /api/v1/accounts/pam-dashboard/?total_count_type_to_accounts=1 HTTP/1.0" 200
+2026-07-01 13:33:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:46670 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:37482 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:37494 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:33:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:37510 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:33:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:33:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:33:15 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:33:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+l_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:37522 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:33:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:33:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:37560 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:33:15 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:37542 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 13:33:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:37568 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:33:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:33:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:37584 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:37588 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:33:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:37602 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:33:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59486 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:34:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:34:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:34:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:44310 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:34:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55264 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:35:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:46770 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:35:30 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:35:30 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:35:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41922 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:36:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:55924 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:36:30 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:53838 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:37:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50632 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:37:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:40822 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:38:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:38:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:38:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:54770 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:38:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:60780 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:39:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:46208 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:39:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:32796 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:40:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:40:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:40:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:39298 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:40:31 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-01 13:40:31 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-01 13:40:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:40500 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:41:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:54742 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:41:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:42894 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:42:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:40274 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:42:31 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:42:31 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:42:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51824 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-01 13:42:38 +0800] [28] [INFO] connection closed
+2026-07-01 13:42:38 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72ab4c9350>
+2026-07-01 13:42:38 [DEBU] Subscription unsubscribed
+2026-07-01 13:42:38 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72ab4c9350>
+2026-07-01 13:42:39 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:37058 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:37050 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:37078 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+2026-07-01 13:42:46 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:37072 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:37060 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:37084 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:37092 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:37104 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:42:49 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:59342 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 13:42:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:42:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:42:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:42:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59346 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:42:49 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:59402 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-07-01 13:42:49 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59392 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+2026-07-01 13:42:49 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+[2026-07-01 13:42:49 +0800] [26] [INFO] ('172.18.0.1', 59382) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 13:42:49 +0800] [26] [INFO] connection open
+2026-07-01 13:42:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59414 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+172.18.0.1:59370 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 13:42:50 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:42:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59420 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:42:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59422 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:42:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59432 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:42:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:59440 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:43:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:44032 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:43:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43206 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:44:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:48058 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:44:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34086 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:45:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:45:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:45:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47450 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:45:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48472 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:46:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50614 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:46:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:44636 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:47:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60708 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:47:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37542 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:48:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50548 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:48:32 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:48:32 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:48:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37518 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:49:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47226 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:49:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52040 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:50:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:48114 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:50:32 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:50:32 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:50:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:44394 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:51:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35146 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:51:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:42602 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:52:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:39572 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:52:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56932 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:53:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52108 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:53:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48216 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-01 13:53:39 +0800] [26] [INFO] connection closed
+2026-07-01 13:53:39 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72bb7cfd50>
+2026-07-01 13:53:40 [DEBU] Subscription unsubscribed
+2026-07-01 13:53:40 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72bb7cfd50>
+2026-07-01 13:53:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:55558 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:55570 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-07-01 13:53:47 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:55588 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:55578 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:55598 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:49606 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:49608 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:49620 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:53:50 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+[2026-07-01 13:53:50 +0800] [26] [INFO] ('172.18.0.1', 49678) - "WebSocket /ws/notifications/site-msg/" [accepted]
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+[2026-07-01 13:53:51 +0800] [26] [INFO] connection open
+2026-07-01 13:53:51 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:53:51 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:53:51 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:49648 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:49646 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:49670 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+sult: True
+172.18.0.1:49654 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+172.18.0.1:49632 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49704 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49708 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49710 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:49622 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+172.18.0.1:49694 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:53:51 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:49720 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:54:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:34164 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:54:19 [WARN] Forbidden: /api/v1/authentication/user-session/
+[2026-07-01 13:54:19 +0800] [26] [INFO] connection closed
+2026-07-01 13:54:19 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b8673d50>
+2026-07-01 13:54:19 [DEBU] Subscription unsubscribed
+2026-07-01 13:54:19 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b8673d50>
+172.18.0.1:54028 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:54018 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-07-01 13:54:25 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:54050 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:54066 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:54034 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:54074 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:54082 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:54098 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:54:28 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:54:28 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:54:28 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:54:28 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:54:28 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:54:28 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:58836 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:58858 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+172.18.0.1:58820 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:58842 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+[2026-07-01 13:54:29 +0800] [27] [INFO] ('172.18.0.1', 58874) - "WebSocket /ws/notifications/site-msg/" [accepted]
+2026-07-01 13:54:29 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:58890 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+[2026-07-01 13:54:29 +0800] [27] [INFO] connection open
+2026-07-01 13:54:29 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:54:29 [WARN] Not Found: /static/img/logo_text_white.png
+2026-07-01 13:54:29 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:54:29 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:58812 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+172.18.0.1:58894 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:58904 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:54:29 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:58920 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:54:29 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:58932 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:54:32 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:54:32 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:54:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38924 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:55:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37200 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:55:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55182 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:56:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:56:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:56:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:55222 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:56:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:33984 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:57:07 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:53092 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+[2026-07-01 13:57:08 +0800] [27] [INFO] connection closed
+2026-07-01 13:57:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b81aa390>
+2026-07-01 13:57:08 [DEBU] Subscription unsubscribed
+2026-07-01 13:57:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b81aa390>
+2026-07-01 13:57:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:38674 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:36116 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-07-01 13:57:16 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:36138 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:36114 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:36150 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:36126 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:36160 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:36170 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:36180 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+[2026-07-01 13:57:19 +0800] [27] [INFO] ('172.18.0.1', 51176) - "WebSocket /ws/notifications/site-msg/" [accepted]
+2026-07-01 13:57:19 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:51164 - "GET /static/img/logo_text_white.png 2026-07-01 13:57:20 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:57:20 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:20 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:20 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:20 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:51194 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+che.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:51198 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-07-01 13:57:20 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:20 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/fields/__init__.py:1564: RuntimeWarning: DateTimeField UserLoginLog.datetime received a naive datetime (2026-07-01 00:00:00) while time zone support is active.
+  warnings.warn(
+172.18.0.1:51210 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 13:57:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:51224 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:51732 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:51734 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:51748 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:24 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:51758 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+[2026-07-01 13:57:24 +0800] [27] [INFO] connection closed
+2026-07-01 13:57:24 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b81de150>
+2026-07-01 13:57:24 [DEBU] Subscription unsubscribed
+2026-07-01 13:57:24 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b81de150>
+172.18.0.1:53312 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:53306 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-07-01 13:57:30 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:53320 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:53318 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:53328 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:53334 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:53342 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:53356 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:57:32 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:53372 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:53388 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+t: True
+2026-07-01 13:57:32 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:53392 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:57:32 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:53410 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+172.18.0.1:53398 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:53404 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+[2026-07-01 13:57:32 +0800] [26] [INFO] ('172.18.0.1', 53412) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 13:57:32 +0800] [26] [INFO] connection open
+2026-07-01 13:57:32 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 3
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:53414 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:53426 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:32 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.6:55660 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:53430 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:32 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:53436 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:57:33 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:53446 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:58:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:48848 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:58:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:33518 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:54856 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:54866 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:58:40 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:54872 - "GET /api/v1/accounts/pam-dashboard/?total_count_change_secret_automation=1&total_count_gathered_account_automation=1&total_count_push_account_automation=1&total_count_backup_account_automation=1&total_count_integration_application=1 HTTP/1.1" 200
+2026-07-01 13:58:40 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:54886 - "GET /api/v1/accounts/pam-dashboard/?total_long_time_no_login_accounts=1&total_new_found_accounts=1&total_groups_changed_accounts=1&total_sudoers_changed_accounts=1&total_authorized_keys_changed_accounts=1&total_account_deleted_accounts=1&total_password_expired_accounts=1&total_long_time_password_accounts=1&total_weak_password_accounts=1&total_leaked_password_accounts=1&total_repeated_password_accounts=1 HTTP/1.1" 200
+2026-07-01 13:58:40 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+2026-07-01 13:58:40 [DEBU] Api require perms: ['rbac.view_pam'], result: True
+172.18.0.1:54898 - "GET /api/v1/accounts/pam-dashboard/?total_accounts=1&total_week_add_accounts=1&total_privileged_accounts=1&total_secret_reset_accounts=1&total_connectivity_ok_accounts=1&total_valid_accounts=1 HTTP/1.1" 200
+172.18.0.1:54900 - "GET /api/v1/accounts/pam-dashboard/?total_count_type_to_accounts=1 HTTP/1.1" 200
+172.18.0.1:54906 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:54914 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 13:58:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:58:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:58:47 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 13:58:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 13:58:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+l_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:54930 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+t: True
+2026-07-01 13:58:47 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:54958 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:54966 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+172.18.0.1:54954 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+2026-07-01 13:58:47 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:54976 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:58:48 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:54988 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:58:48 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:55002 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 13:58:48 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:54996 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 13:58:48 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:55018 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 13:59:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37838 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 13:59:33 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 13:59:33 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 13:59:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48932 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:00:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:36388 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:00:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:54792 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:01:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56088 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:01:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55526 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:02:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:02:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:02:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:42752 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:02:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52086 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:03:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56566 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:03:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:53960 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:04:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47752 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:04:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:45378 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:05:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:59930 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:05:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55174 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:06:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:06:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:06:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35002 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:06:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:36126 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:07:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:58580 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:07:35 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:07:35 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:07:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56024 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:08:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:47092 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:08:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:49712 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:09:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:49854 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:09:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:35382 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:10:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56764 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:10:35 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:10:35 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:10:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:33010 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:11:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:44232 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:11:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48010 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:12:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:39332 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:12:35 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:12:35 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:12:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41758 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:13:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50338 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:13:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48918 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:14:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60998 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:14:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59066 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:14:58 [DEBU] New site msg recv, message users: ['4926d10b-1b63-4482-91e3-ba76b3a24c96']
+2026-07-01 14:14:58 [DEBU] New site msg recv, message users: ['4926d10b-1b63-4482-91e3-ba76b3a24c96']
+2026-07-01 14:14:58 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 4
+2026-07-01 14:14:58 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 4
+2026-07-01 14:15:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:15:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:15:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:40390 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:15:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57926 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:16:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:57328 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:16:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:35646 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:17:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52984 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:17:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:39754 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:18:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:18:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:18:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:45898 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:18:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:53058 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:19:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:50316 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:19:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:42006 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:20:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:39596 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:20:09 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:38980 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+[2026-07-01 14:20:09 +0800] [26] [INFO] connection closed
+2026-07-01 14:20:09 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b81a1350>
+2026-07-01 14:20:09 [DEBU] Subscription unsubscribed
+2026-07-01 14:20:09 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b81a1350>
+172.18.0.1:38982 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:39010 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:38996 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+2026-07-01 14:20:13 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:39030 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:39014 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:39034 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:39048 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:39054 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 14:20:15 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:39068 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 14:20:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:20:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:20:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:20:16 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:20:16 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39086 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:39088 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+172.18.0.1:39094 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39078 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:39116 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+[2026-07-01 14:20:16 +0800] [28] [INFO] ('172.18.0.1', 39114) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 14:20:16 +0800] [28] [INFO] connection open
+2026-07-01 14:20:16 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 4
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39120 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39134 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39144 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:20:16 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39156 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:20:36 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:20:36 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:20:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37428 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:21:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:53542 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:21:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:49792 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:22:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:45904 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:22:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38372 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:23:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52670 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:23:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:53456 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:24:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:55346 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:24:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48042 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:25:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60264 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:25:13 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:57364 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+[2026-07-01 14:25:14 +0800] [28] [INFO] connection closed
+2026-07-01 14:25:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72ab4fa690>
+2026-07-01 14:25:14 [DEBU] Subscription unsubscribed
+2026-07-01 14:25:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72ab4fa690>
+172.18.0.1:57386 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:57394 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:57378 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:33882 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:33898 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:33900 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:33916 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 14:25:21 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:33924 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 14:25:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:25:21 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:25:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:25:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:25:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:25:22 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 14:25:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:25:22 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:33932 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:33954 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+172.18.0.1:33998 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+172.18.0.1:33966 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+172.18.0.1:33944 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+172.18.0.1:33974 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+[2026-07-01 14:25:22 +0800] [27] [INFO] ('172.18.0.1', 33984) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 14:25:22 +0800] [27] [INFO] connection open
+2026-07-01 14:25:22 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 4
+2026-07-01 14:25:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34006 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:25:22 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34014 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:25:23 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34020 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:25:23 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34036 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:25:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50096 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:26:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37182 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:26:37 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:26:37 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:26:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56830 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:27:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:56126 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:27:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57574 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:28:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:46336 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:28:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55478 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:29:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:29:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:29:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52978 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:29:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:37338 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:30:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:41596 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:30:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55992 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:31:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:48344 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:31:08 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:43850 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+[2026-07-01 14:31:08 +0800] [27] [INFO] connection closed
+2026-07-01 14:31:08 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b8204090>
+2026-07-01 14:31:09 [DEBU] Subscription unsubscribed
+2026-07-01 14:31:09 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b8204090>
+172.18.0.1:43852 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:43864 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:43880 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:43874 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:43892 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:43896 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:43912 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 14:31:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39154 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+[2026-07-01 14:31:26 +0800] [116] [INFO] ('172.18.0.1', 39132) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 14:31:26 +0800] [116] [INFO] connection open
+2026-07-01 14:31:26 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 4
+172.18.0.1:39148 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:26 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39196 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:39192 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+172.18.0.1:39184 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39198 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:26 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+172.18.0.1:39168 - "GET /api/v1/index/?total_count_online_sessions=1&total_count_online_users=1&total_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39204 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39220 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:39228 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+172.18.0.1:39236 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 14:31:37 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:31:37 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:31:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34014 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:31:47 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:51816 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+[2026-07-01 14:31:47 +0800] [116] [INFO] connection closed
+2026-07-01 14:31:47 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b0d56a50>
+2026-07-01 14:31:47 [DEBU] Subscription unsubscribed
+2026-07-01 14:31:47 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7b72b0d56a50>
+172.18.0.1:34108 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+172.18.0.1:34134 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 200
+172.18.0.1:34122 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:34146 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+172.18.0.1:34154 - "GET /api/v1/users/profile/permissions/ HTTP/1.1" 200
+172.18.0.1:34164 - "GET /api/v1/settings/public/ HTTP/1.1" 200
+172.18.0.1:34166 - "GET /api/v1/orgs/orgs/current/ HTTP/1.1" 200
+2026-07-01 14:31:53 [WARN] Not Found: /static/img/logo_text_white.png
+172.18.0.1:34178 - "GET /static/img/logo_text_white.png HTTP/1.1" 404
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:54 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+l_count_today_failed_sessions=1 HTTP/1.1" 200
+2026-07-01 14:31:54 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+[2026-07-01 14:31:54 +0800] [116] [INFO] ('172.18.0.1', 34246) - "WebSocket /ws/notifications/site-msg/" [accepted]
+[2026-07-01 14:31:54 +0800] [116] [INFO] connection open
+2026-07-01 14:31:54 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 4
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34192 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+172.18.0.1:34214 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+172.18.0.1:34226 - "GET /api/v1/index/?total_count_users=1%20%20%20%20%20%20%20%20%20%20&total_count_users_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_login_users=1%20%20%20%20%20%20%20%20%20%20&total_count_assets=1%20%20%20%20%20%20%20%20%20%20&total_count_assets_this_week=1%20%20%20%20%20%20%20%20%20%20&total_count_today_active_assets=1 HTTP/1.1" 200
+172.18.0.1:34240 - "GET /api/v1/index/?total_count_type_to_assets_amount=1 HTTP/1.1" 200
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34260 - "GET /api/v1/index/?dates_metrics=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34272 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:54 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34286 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:55 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34290 - "GET /api/v1/index/?dates_login_times_top10_users=1&days=7 HTTP/1.1" 200
+2026-07-01 14:31:55 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+172.18.0.1:34296 - "GET /api/v1/index/?dates_login_times_top10_assets=1&days=7 HTTP/1.1" 200
+2026-07-01 14:32:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:46472 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:32:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59298 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:33:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:41152 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:33:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43218 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:34:08 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:34:08 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:34:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35536 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:34:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43556 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:35:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:58040 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:35:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:53674 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:36:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60876 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:36:38 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:36:38 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:36:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:35430 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:37:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:39522 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:37:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:54940 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:38:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:40522 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:38:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55148 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:39:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:39090 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:39:38 [DEBU] pid 116 executor submit run update_user_last_used
+2026-07-01 14:39:38 [DEBU] pid 116 executor submit run update_token_last_used
+2026-07-01 14:39:38 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:36686 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-01 14:40:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:43498 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200

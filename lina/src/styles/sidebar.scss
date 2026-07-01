@@ -8,7 +8,7 @@
     min-height: 100%;
     height: 100%;
     transition: margin-left 0.28s;
-    margin-left: $sideBarWidth;
+    margin-right: $sideBarWidth;
   }
 
   .sidebar-container {
@@ -20,7 +20,7 @@
     font-size: 0;
     top: $headerHeight;
     bottom: 0;
-    left: 0;
+    right: 0;
     z-index: 1001;
     overflow: hidden;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
@@ -72,7 +72,7 @@
     }
 
     .main-container {
-      margin-left: 54px;
+      margin-right: 54px;
     }
 
     .submenu-title-noDropdown {
@@ -120,7 +120,8 @@
       .sidebar-container {
         pointer-events: none;
         transition-duration: 0.3s;
-        transform: translate3d(-$sideBarWidth, 0, 0);
+        //transform: translate3d(-$sideBarWidth, 0, 0);
+        transform: translate3d(0 , 0,-$sideBarWidth);
       }
     }
   }

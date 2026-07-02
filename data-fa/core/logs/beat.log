@@ -16885,3 +16885,170 @@ redis.exceptions.ConnectionError: Connection closed by server.
 2026-07-02 16:14:05 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
 2026-07-02 16:14:05 [DEBU] Create activity log for celery task: 10920efa-e90b-426a-ab3f-7a766dc72262
 2026-07-02 16:14:05 Create activity log for celery task: 10920efa-e90b-426a-ab3f-7a766dc72262
+2026-07-02 16:24:05 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 16:24:05 [DEBU] Create activity log for celery task: 5f6d404c-3741-4528-9ce2-4de2dfaac07f
+2026-07-02 16:24:05 Create activity log for celery task: 5f6d404c-3741-4528-9ce2-4de2dfaac07f
+2026-07-02 16:34:05 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 16:34:05 [DEBU] Create activity log for celery task: 3a5c230f-ed6b-4def-a78f-0018c3b791ef
+2026-07-02 16:34:05 Create activity log for celery task: 3a5c230f-ed6b-4def-a78f-0018c3b791ef
+Traceback (most recent call last):
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 90, in <module>
+    main()
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 82, in main
+    with redis_lock.Lock(redis_client, name="beat-distribute-start-lock", expire=60, auto_renewal=True):
+  File "/opt/py3/lib/python3.11/site-packages/redis_lock/__init__.py", line 321, in __enter__
+    acquired = self.acquire(blocking=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis_lock/__init__.py", line 231, in acquire
+    timed_out = not self._client.blpop(self._signal, blpop_timeout) and timeout
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/commands/core.py", line 2595, in blpop
+    return self.execute_command("BLPOP", *keys)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 543, in execute_command
+    return conn.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 547, in <lambda>
+    lambda error: self._disconnect_raise(conn, error),
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 533, in _disconnect_raise
+    raise error
+  File "/opt/py3/lib/python3.11/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+           ^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 544, in <lambda>
+    lambda: self._send_command_parse_response(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 520, in _send_command_parse_response
+    return self.parse_response(conn, command_name, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 560, in parse_response
+    response = connection.read_response()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/connection.py", line 512, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2026-07-02 16:39:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 16:39:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 16:39:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 16:39:47 [DEBU] Start subscribe vault change
+2026-07-02 16:39:48 [INFO] Start subscribe for stop job execution
+2026-07-02 16:39:48 [DEBU] Start subscribe setting change
+2026-07-02 16:39:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 16:40:00 beat: Starting...
+2026-07-02 16:41:04 DatabaseScheduler: Schedule changed.
+2026-07-02 16:42:11 DatabaseScheduler: Schedule changed.
+2026-07-02 16:51:29 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 16:51:30 [DEBU] Create activity log for celery task: eb6e4253-1b43-4102-a3c1-897a9de8c571
+2026-07-02 16:51:30 Create activity log for celery task: eb6e4253-1b43-4102-a3c1-897a9de8c571
+2026-07-02 17:01:28 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 17:01:29 [DEBU] Create activity log for celery task: 0970d9e9-c66f-4103-9ee6-cc127c363b6d
+2026-07-02 17:01:29 Create activity log for celery task: 0970d9e9-c66f-4103-9ee6-cc127c363b6d
+2026-07-02 17:11:28 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 17:11:28 [DEBU] Create activity log for celery task: 56fc6713-b6ac-47e7-a5d9-5ca4af669dd0
+2026-07-02 17:11:28 Create activity log for celery task: 56fc6713-b6ac-47e7-a5d9-5ca4af669dd0
+2026-07-02 17:21:28 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 17:21:29 [DEBU] Create activity log for celery task: ef2383f5-e505-4a50-aae8-fe8377d72359
+2026-07-02 17:21:29 Create activity log for celery task: ef2383f5-e505-4a50-aae8-fe8377d72359
+2026-07-02 17:31:28 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 17:31:29 [DEBU] Create activity log for celery task: 8d6e4e54-1df3-4118-b5fb-ee4669cbd149
+2026-07-02 17:31:29 Create activity log for celery task: 8d6e4e54-1df3-4118-b5fb-ee4669cbd149
+2026-07-02 17:41:27 Scheduler: Sending due task perms.tasks.check_asset_permission_expired (perms.tasks.check_asset_permission_expired)
+2026-07-02 17:41:27 [DEBU] Create activity log for celery task: 014e4d17-f12b-43b7-938d-94e437859b61
+2026-07-02 17:41:27 Create activity log for celery task: 014e4d17-f12b-43b7-938d-94e437859b61
+2026-07-02 17:41:28 Scheduler: Sending due task ops.tasks.check_server_performance_period (ops.tasks.check_server_performance_period)
+2026-07-02 17:41:28 [DEBU] Create activity log for celery task: 1618bcc5-7755-4e95-b9cc-acc5579f94e8
+2026-07-02 17:41:28 Create activity log for celery task: 1618bcc5-7755-4e95-b9cc-acc5579f94e8
+2026-07-02 17:41:28 Scheduler: Sending due task ops.tasks.clean_up_unexpected_jobs (ops.tasks.clean_up_unexpected_jobs)
+2026-07-02 17:41:28 [DEBU] Create activity log for celery task: e4cdfc8d-2ef3-44ab-bf83-24514079c10e
+2026-07-02 17:41:28 Create activity log for celery task: e4cdfc8d-2ef3-44ab-bf83-24514079c10e
+2026-07-02 17:41:28 Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+2026-07-02 17:41:28 [DEBU] Create activity log for celery task: 622056b3-a315-4b8f-a38b-744647f114d9
+2026-07-02 17:41:28 Create activity log for celery task: 622056b3-a315-4b8f-a38b-744647f114d9
+2026-07-02 17:41:28 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 17:41:28 [DEBU] Create activity log for celery task: 07fc2d1a-944d-459f-96ca-294ee7e0f0ae
+2026-07-02 17:41:28 Create activity log for celery task: 07fc2d1a-944d-459f-96ca-294ee7e0f0ae
+2026-07-02 17:51:28 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 17:51:29 [DEBU] Create activity log for celery task: 884728f2-868b-4e06-909d-445d4bdadd24
+2026-07-02 17:51:29 Create activity log for celery task: 884728f2-868b-4e06-909d-445d4bdadd24
+2026-07-02 18:01:29 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 18:01:29 [DEBU] Create activity log for celery task: 30f5077f-47f9-422f-bbf2-3e1bd414e798
+2026-07-02 18:01:29 Create activity log for celery task: 30f5077f-47f9-422f-bbf2-3e1bd414e798
+2026-07-02 18:11:29 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 18:11:29 [DEBU] Create activity log for celery task: be06f73f-51ec-40f0-864e-6b836ce7ecbc
+2026-07-02 18:11:29 Create activity log for celery task: be06f73f-51ec-40f0-864e-6b836ce7ecbc
+2026-07-02 18:21:30 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 18:21:30 [DEBU] Create activity log for celery task: 2c8d7817-ffcc-417e-93c8-36f2adc1c093
+2026-07-02 18:21:30 Create activity log for celery task: 2c8d7817-ffcc-417e-93c8-36f2adc1c093
+2026-07-02 18:28:18 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 18:28:21 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 18:28:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 18:28:21 [DEBU] Start subscribe vault change
+2026-07-02 18:28:21 [INFO] Start subscribe for stop job execution
+2026-07-02 18:28:21 [DEBU] Start subscribe setting change
+2026-07-02 18:28:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 18:28:56 beat: Starting...
+2026-07-02 18:30:00 DatabaseScheduler: Schedule changed.
+Traceback (most recent call last):
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 90, in <module>
+    main()
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 82, in main
+    with redis_lock.Lock(redis_client, name="beat-distribute-start-lock", expire=60, auto_renewal=True):
+  File "/opt/py3/lib/python3.11/site-packages/redis_lock/__init__.py", line 321, in __enter__
+    acquired = self.acquire(blocking=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis_lock/__init__.py", line 231, in acquire
+    timed_out = not self._client.blpop(self._signal, blpop_timeout) and timeout
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/commands/core.py", line 2595, in blpop
+    return self.execute_command("BLPOP", *keys)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 543, in execute_command
+    return conn.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 547, in <lambda>
+    lambda error: self._disconnect_raise(conn, error),
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 533, in _disconnect_raise
+    raise error
+  File "/opt/py3/lib/python3.11/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+           ^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 544, in <lambda>
+    lambda: self._send_command_parse_response(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 520, in _send_command_parse_response
+    return self.parse_response(conn, command_name, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 560, in parse_response
+    response = connection.read_response()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/connection.py", line 512, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.

@@ -1,7 +1,52 @@
+@import './custom-fonts';
+
 // RTL Support for JumpServer Lina (Element Plus)
+
+html[lang="fa"] {
+  font-family: "Artin Sharp" !important;
+}
+
+html[lang="fa"] body,
+html[lang="fa"] button,
+html[lang="fa"] input,
+html[lang="fa"] textarea,
+html[lang="fa"] select {
+  font-family: inherit;
+  font-family: 'Artin Sharp', sans-serif;
+
+}
+
 [dir="rtl"] {
   direction: rtl;
   text-align: right;
+
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .page-title,
+  .title,
+  .header,
+  .el-page-header__title,
+  .el-dialog__title,
+  .el-card__header,
+  .el-form-item__label,
+  .el-menu-item,
+  .el-sub-menu__title,
+  .el-dropdown-menu__item,
+  .el-table th,
+  .el-tabs__item,
+  .el-breadcrumb,
+  .el-descriptions__title,
+  .el-alert__title,
+  .el-notification__title,
+  .el-message-box__title {
+    font-family: 'Artin Sharp Bold', sans-serif;
+  }
+
 
   // ========== Input & Select ==========
   .el-input__wrapper {
@@ -35,9 +80,40 @@
   }
 
   // ========== Navigation & Menu ==========
+  @media (max-width: 1000px) {
+    #app .hideSidebar .main-container {
+      margin-left: 0;
+    }
+    //
+    //.openSidebar {
+    //  #app .hideSidebar .main-container {
+    //    margin-left: 200px !important;
+    //  }
+    //  #app .sidebar-container {
+    //    left: unset;
+    //    right: 0;
+    //  }
+    //  #app .sidebar-container {
+    //    margin-left: unset;
+    //    margin-right: 200px;
+    //    transition: margin-right 0.28s;
+    //  }
+    //}
+
+
+  }
+
   .el-menu {
     border-right: none;
     border-left: 1px solid var(--el-menu-border-color);
+
+    .svg-icon {
+      margin-right: 0;
+      margin-left: 10px;
+    }
+    .group-title > span {
+      padding: 10px 20px 2px 20px;
+    }
   }
 
   .el-menu-item {

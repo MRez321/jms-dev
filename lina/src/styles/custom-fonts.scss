@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Artin Sharp';
+  src:
+          url('./fonts/ArtinSharp.woff2') format('woff2'),
+          url('./fonts/ArtinSharp.woff') format('woff'),
+          url('./fonts/ArtinSharp.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Artin Sharp Bold';
+  src:
+          url('./fonts/ArtinSharp-Bold.woff2') format('woff2'),
+          url('./fonts/ArtinSharp-Bold.woff') format('woff'),
+          url('./fonts/ArtinSharp-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

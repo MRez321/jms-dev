@@ -20,3 +20,25 @@ This forces Git to keep Linux line endings for those files.
 3. Renormalize the repository
 git add --renormalize .
 git status
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global core.autocrlf false
+git config --global core.autocrlf
+
+git config --global core.eol lf
+git config --global core.eol
+
+git config --global core.whitespace trailing-space,space-before-tab
+
+
+

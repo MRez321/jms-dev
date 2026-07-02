@@ -47190,3 +47190,22 @@ bc6718
 2026-07-02 14:58:23 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
 2026-07-02 14:58:23 [DEBU] Create activity log for celery task: 6f7c3d97-1655-4c67-85ab-909f08f8816d
 2026-07-02 14:58:23 Create activity log for celery task: 6f7c3d97-1655-4c67-85ab-909f08f8816d
+2026-07-02 15:21:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe vault change
+2026-07-02 15:21:46 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:46 [DEBU] Start subscribe setting change
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:49 beat: Starting...
+2026-07-02 15:21:49 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: 03aef158-a523-431f-852a-152b1abb4531
+2026-07-02 15:21:49 Create activity log for celery task: 03aef158-a523-431f-852a-152b1abb4531
+2026-07-02 15:21:50 DatabaseScheduler: Schedule changed.
+2026-07-02 15:22:50 DatabaseScheduler: Schedule changed.
+2026-07-02 15:32:10 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 15:32:10 [DEBU] Create activity log for celery task: 25fe239c-f82e-450d-8693-bd2d7e8a885c
+2026-07-02 15:32:10 Create activity log for celery task: 25fe239c-f82e-450d-8693-bd2d7e8a885c
+2026-07-02 15:42:10 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 15:42:10 [DEBU] Create activity log for celery task: c010654b-a306-400c-a93f-6300155d2e11
+2026-07-02 15:42:10 Create activity log for celery task: c010654b-a306-400c-a93f-6300155d2e11

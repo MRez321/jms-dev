@@ -2534,3 +2534,289 @@ n.js
 2026-07-02 15:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 2026-07-02 15:01:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 2026-07-02 15:01:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:02:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:02:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:02:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:02:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:03:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:03:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:04:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:04:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:04:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:04:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:05:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:05:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:05:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:05:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:21:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:42 [DEBU] Start subscribe vault change
+2026-07-02 15:21:42 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:42 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:42 [DEBU] Start subscribe setting change
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe vault change
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe vault change
+2026-07-02 15:21:46 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:46 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:46 [DEBU] Start subscribe setting change
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:49 [DEBU] Work ready signal recv
+2026-07-02 15:21:49 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: 29ddb422-3382-4532-b84f-50efdcf8372e
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: ebf57678-70df-46fc-892d-3db7714a9d65
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: 03aef158-a523-431f-852a-152b1abb4531
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: 0acc55c0-a176-45ec-9b5e-8552186b74dd
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: a192ea88-bd4f-439f-bc7e-35077e94aa85
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: 33dca0b5-568a-435a-b67b-cfb134fe079e
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: 779e6e88-fc51-4751-bd7a-c38249461f34
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: 90b2b224-5291-43df-a695-7914c8dd7b2f
+2026-07-02 15:21:50 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:21:51 [DEBU] Create activity log for celery task: f2a502ce-8d8b-4e07-8da1-89f033f3a958
+2026-07-02 15:21:51 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:21:51 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:21:52 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:21:53 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:21:58 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:21:58 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:21:58 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:22:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe vault change
+2026-07-02 15:22:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:03 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:03 [DEBU] Start subscribe setting change
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe vault change
+2026-07-02 15:22:03 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe setting change
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe vault change
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:03 [DEBU] Start subscribe vault change
+2026-07-02 15:22:03 [DEBU] Start subscribe setting change
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:03 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:03 [DEBU] Start subscribe setting change
+2026-07-02 15:22:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:05 [DEBU] Start subscribe vault change
+2026-07-02 15:22:05 [DEBU] Start subscribe vault change
+2026-07-02 15:22:05 [DEBU] Start subscribe vault change
+2026-07-02 15:22:05 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:05 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:05 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:05 [DEBU] Start subscribe setting change
+2026-07-02 15:22:05 [DEBU] Start subscribe setting change
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:08 [DEBU] Work ready signal recv
+2026-07-02 15:22:08 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: c219f248-f04e-4bb7-b9c2-aa843136e6af
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: f3983606-3ef9-43aa-8610-af595961f318
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: 8afec826-a06e-4ba1-865b-fe2bb471332c
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: 0a5b6075-0011-454c-aadc-625ef2321a61
+2026-07-02 15:22:08 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:22:08 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: 30b0d889-64e4-4d9c-bad8-3330fe10968d
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: 39109e26-37b4-48bd-b788-13fbc246631c
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: 88f4bea6-c9c1-4394-8a68-cbb3604b8337
+2026-07-02 15:22:08 [DEBU] Create activity log for celery task: e11cb545-fd3a-4792-bd25-490850c673f4
+2026-07-02 15:22:08 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:22:09 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:22:09 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:23:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:23:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:23:06 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:23:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:23:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:24:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:24:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:25:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:25:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:25:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:25:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:26:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:26:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:28:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:28:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:28:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:28:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:29:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:29:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:29:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:29:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:30:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:30:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:31:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:31:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:32:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:32:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:32:10 [DEBU] Create activity log for celery task: 25fe239c-f82e-450d-8693-bd2d7e8a885c
+2026-07-02 15:33:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:33:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:33:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:33:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:34:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:34:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:35:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:35:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:36:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:36:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:36:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:36:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:37:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:37:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:37:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:37:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:38:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:38:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:39:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:39:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:40:06 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:40:06 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:40:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:40:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:40:24 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x76ab54314710>
+2026-07-02 15:40:24 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x76ab54317590>
+2026-07-02 15:40:24 [DEBU] User login success: admin
+2026-07-02 15:40:25 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 11
+2026-07-02 15:40:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-07-02 15:40:25 [DEBU] Attempt acquire lock: lock_id=2QMAH7mNTv50gdR9rNDyDlHP lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-02 15:40:25 [DEBU] Acquired lock: ok=True lock_id=2QMAH7mNTv50gdR9rNDyDlHP lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-02 15:40:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-07-02 15:40:25 [DEBU] Start init cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=users_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={}
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.007819175720214844 field=users_amount value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=assets_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Attempt acquire lock: lock_id=ekte92wMVW5CLFwTk+TqZmVf lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.003213167190551758 field=assets_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=new_users_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.009866952896118164 field=new_users_amount_this_week value=1 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=new_assets_amount_this_week key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.004822969436645508 field=new_assets_amount_this_week value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=nodes_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.0052547454833984375 field=nodes_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=zones_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.00524449348449707 field=zones_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=groups_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.0026569366455078125 field=groups_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=accounts_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.0041201114654541016 field=accounts_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=asset_perms_amount key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.005181550979614258 field=asset_perms_amount value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=total_count_online_users key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.002200603485107422 field=total_count_online_users value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=total_count_online_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.0017311573028564453 field=total_count_online_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=total_count_today_active_assets key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.0034012794494628906 field=total_count_today_active_assets value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Start compute cache field: field=total_count_today_failed_sessions key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] End compute cache field: cost=0.0018880367279052734 field=total_count_today_failed_sessions value=0 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Set data to cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={'users_amount': 1, 'assets_amount': 0, 'new_users_amount_this_week': 1, 'new_assets_amount_this_week': 0, 'nodes_amount': 0, 'zones_amount': 0, 'groups_amount': 0, 'accounts_amount': 0, 'asset_perms_amount': 0, 'total_count_online_users': 0, 'total_count_online_sessions': 0, 'total_count_today_active_assets': 0, 'total_count_today_failed_sessions': 0}
+2026-07-02 15:40:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-02 15:40:25 [DEBU] End init cache: cost=0.08161473274230957 key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002
+2026-07-02 15:40:25 [DEBU] Released lock: lock_id=2QMAH7mNTv50gdR9rNDyDlHP lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-02 15:40:25 [DEBU] Acquired lock: ok=True lock_id=ekte92wMVW5CLFwTk+TqZmVf lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-02 15:40:25 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-02 15:40:25 [DEBU] Released lock: lock_id=ekte92wMVW5CLFwTk+TqZmVf lock=lock:{compute:cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002}
+2026-07-02 15:40:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:26 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:40:43 [WARN] Unauthorized: /api/v1/notifications/site-messages/mark-as-read/
+2026-07-02 15:40:48 [WARN] Unauthorized: /api/v1/notifications/site-messages/mark-as-read/
+2026-07-02 15:40:51 [WARN] Unauthorized: /api/v1/notifications/site-messages/mark-as-read/
+2026-07-02 15:40:52 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 15:41:02 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x76ab2af7c990>
+2026-07-02 15:41:02 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x76ab2af91b50>
+2026-07-02 15:41:02 [INFO] Try using auth backend: <authentication.backends.pubkey.PublicKeyAuthBackend object at 0x76ab2af08650>
+2026-07-02 15:41:02 [INFO] Try using auth backend: <authentication.backends.sso.AuthorizationTokenAuthentication object at 0x76ab2af92590>
+2026-07-02 15:41:02 [DEBU] User login failed: admin
+2026-07-02 15:41:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:41:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:41:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:41:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:41:13 [INFO] Try using auth backend: <rbac.backends.RBACBackend object at 0x76ab2afbc750>
+2026-07-02 15:41:13 [INFO] Try using auth backend: <authentication.backends.base.JMSModelBackend object at 0x76ab2afadd90>
+2026-07-02 15:41:13 [DEBU] User login success: admin
+2026-07-02 15:41:14 [DEBU] Send unread count to user: 4926d10b-1b63-4482-91e3-ba76b3a24c96 10
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-02 15:41:14 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:14 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:15 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:38 [DEBU] Api require perms: {'users.view_user'}, result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Get data from cache: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 data={b'users_amount': b'1', b'assets_amount': b'0', b'new_users_amount_this_week': b'1', b'new_assets_amount_this_week': b'0', b'nodes_amount': b'0', b'zones_amount': b'0', b'groups_amount': b'0', b'accounts_amount': b'0', b'asset_perms_amount': b'0', b'total_count_online_users': b'0', b'total_count_online_sessions': b'0', b'total_count_today_active_assets': b'0', b'total_count_today_failed_sessions': b'0'}
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:40 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:41 [DEBU] Api require perms: ['rbac.view_audit | rbac.view_console'], result: True
+2026-07-02 15:41:48 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab475a5d50>
+2026-07-02 15:41:48 [DEBU] Subscription unsubscribed
+2026-07-02 15:41:48 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab475a5d50>
+2026-07-02 15:42:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:42:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:42:10 [DEBU] Create activity log for celery task: c010654b-a306-400c-a93f-6300155d2e11
+2026-07-02 15:43:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:43:06 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:43:06 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:43:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:06 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab2afd6dd0>
+2026-07-02 15:44:14 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab2afd6dd0>
+2026-07-02 15:44:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab6c1f6290>
+2026-07-02 15:44:14 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab547ca010>
+2026-07-02 15:44:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab6c1f6290>
+2026-07-02 15:44:14 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:14 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab547ca010>
+2026-07-02 15:44:15 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab54762d10>
+2026-07-02 15:44:15 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:15 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x76ab54762d10>

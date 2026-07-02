@@ -3117,3 +3117,559 @@ ct2/select2.full.min.js
 2026-07-02 15:01:19 [DEBU] Create activity log for celery task: 165f055f-c0dd-4d9d-91ec-4b0fe30b1f41
 2026-07-02 15:01:19 [DEBU] Create activity log for celery task: 15d00271-728f-4b31-aaac-88a2ac14049a
 2026-07-02 15:01:19 [INFO] Checking expired permissions: [] ...
+2026-07-02 15:02:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:02:18 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:02:18 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:02:18 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:03:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:03:18 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:04:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:04:18 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:04:18 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:04:18 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:05:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:05:18 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:06:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:06:18 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:21:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:42 [DEBU] Start subscribe vault change
+2026-07-02 15:21:42 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:42 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:42 [DEBU] Start subscribe setting change
+2026-07-02 15:21:42 [DEBU] Start subscribe setting change
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:21:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe vault change
+2026-07-02 15:21:46 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:46 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:46 [INFO] Start subscribe for stop job execution
+2026-07-02 15:21:46 [DEBU] Start subscribe setting change
+2026-07-02 15:21:46 [DEBU] Start subscribe setting change
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:21:49 [DEBU] Work ready signal recv
+2026-07-02 15:21:49 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: c9a47358-6b20-4fb7-a47c-039e23042f45
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: 04ce53ec-e0d5-4655-84e0-3f1b9fc8b776
+2026-07-02 15:21:49 [DEBU] Create activity log for celery task: 8ed4966f-3db4-45eb-a97a-8b7d61332d7b
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: 15b42602-9954-48cb-b543-90b40b81943b
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: 6be7bd2d-8f9b-4abe-bbbf-8bc28d737bb9
+2026-07-02 15:21:50 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:21:50 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: 926a347a-40a9-4834-ad12-b84cbd170850
+2026-07-02 15:21:50 [DEBU] Create activity log for celery task: b18efa89-0623-488a-9462-5f132196ce1c
+2026-07-02 15:21:51 [DEBU] Create activity log for celery task: d117e8d5-562c-49ea-858e-e3470a643f85
+2026-07-02 15:21:51 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:21:52 [DEBU] Create activity log for celery task: c12f43c1-314f-420c-a6ab-4c4afb84b41b
+2026-07-02 15:21:52 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:21:52 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:21:59 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:21:59 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:21:59 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:22:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe vault change
+de assets id mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe vault change
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:04 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe vault change
+2026-07-02 15:22:04 [DEBU] Start subscribe setting change
+2026-07-02 15:22:04 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe setting change
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:04 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:04 [DEBU] Start subscribe setting change
+2026-07-02 15:22:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:04 [DEBU] Start subscribe vault change
+2026-07-02 15:22:04 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:04 [DEBU] Start subscribe setting change
+2026-07-02 15:22:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:05 [DEBU] Start subscribe vault change
+2026-07-02 15:22:05 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:05 [DEBU] Start subscribe setting change
+2026-07-02 15:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:22:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:22:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:06 [DEBU] Start subscribe vault change
+de assets id mapping from memory
+2026-07-02 15:22:06 [DEBU] Start subscribe vault change
+2026-07-02 15:22:06 [INFO] Start subscribe for stop job execution
+2026-07-02 15:22:06 [DEBU] Start subscribe setting change
+ecution
+2026-07-02 15:22:06 [DEBU] Start subscribe setting change
+ assets id mapping from memory
+2026-07-02 15:22:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:22:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:22:09 [DEBU] Work ready signal recv
+2026-07-02 15:22:09 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:22:09 [DEBU] Create activity log for celery task: b660a0c3-a74f-404a-815d-35cb80dc8cab
+2026-07-02 15:22:09 [DEBU] Create activity log for celery task: 9dae3cbc-b8dd-4647-94f1-2218fa03fb15
+2026-07-02 15:22:09 [DEBU] Create activity log for celery task: 8fb5a362-2b16-47f8-8400-6544af7cca7b
+2026-07-02 15:22:09 [DEBU] Create activity log for celery task: 42a66057-bd97-4c04-baae-775d1262ac86
+2026-07-02 15:22:09 [DEBU] Create activity log for celery task: f787424f-dc66-45f5-85f2-22e1e0dcc1f4
+2026-07-02 15:22:09 [DEBU] Create activity log for celery task: 327f17f8-be50-42f5-92cd-7df9043637d1
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: f0115c31-2ab6-44ed-b93e-9341186397f5
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: f00706d1-57b5-429e-a642-d0d98554ca71
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: 2ff00540-a774-4be3-a160-73e8271f032d
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: 9136c31e-74eb-4117-b610-76b0f2eca7c0
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: 0887b1b0-3a8c-426c-87aa-2ad2584221e9
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: e171f77f-614b-460c-b1d0-3c66159dda2d
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: 9a11c5f3-0c63-41f4-8b6e-59dff8fe104e
+2026-07-02 15:22:10 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: de17961b-074e-4ad3-860d-4dc7aa7b86cc
+2026-07-02 15:22:10 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:22:10 [DEBU] Create activity log for celery task: 8c98fe9e-dee2-4a46-a983-4d65d2f133a8
+2026-07-02 15:22:10 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:22:10 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:22:11 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:22:11 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:22:11 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:22:11 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:22:11 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:22:11 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:23:07 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:23:07 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:23:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:23:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:24:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:24:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:24:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:24:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:24:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:24:44 [DEBU] Start subscribe vault change
+2026-07-02 15:24:44 [INFO] Start subscribe for stop job execution
+2026-07-02 15:24:44 [DEBU] Start subscribe setting change
+2026-07-02 15:24:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:25:01 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:25:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:25:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:25:01 [DEBU] Start subscribe vault change
+2026-07-02 15:25:01 [INFO] Start subscribe for stop job execution
+2026-07-02 15:25:01 [DEBU] Start subscribe setting change
+2026-07-02 15:25:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:25:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:25:08 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:25:08 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:25:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:25:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:25:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:25:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:25:53 [DEBU] Start subscribe vault change
+2026-07-02 15:25:53 [INFO] Start subscribe for stop job execution
+2026-07-02 15:25:53 [DEBU] Start subscribe setting change
+2026-07-02 15:25:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:26:07 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:26:08 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:04 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7030d3ad7d50>
+2026-07-02 15:27:04 [DEBU] Subscription unsubscribed
+2026-07-02 15:27:04 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7030d3ad7d50>
+2026-07-02 15:27:04 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7030e45fdd90>
+2026-07-02 15:27:04 [DEBU] Subscription unsubscribed
+2026-07-02 15:27:04 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7030e45fdd90>
+2026-07-02 15:27:05 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7030e4443950>
+2026-07-02 15:27:05 [DEBU] Subscription unsubscribed
+2026-07-02 15:27:05 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7030e4443950>
+2026-07-02 15:27:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:11 [DEBU] Start subscribe vault change
+2026-07-02 15:27:11 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:11 [DEBU] Start subscribe setting change
+2026-07-02 15:27:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:11 [DEBU] Start subscribe vault change
+2026-07-02 15:27:11 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:11 [DEBU] Start subscribe setting change
+2026-07-02 15:27:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:14 [DEBU] Start subscribe vault change
+2026-07-02 15:27:14 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:14 [DEBU] Start subscribe setting change
+2026-07-02 15:27:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:15 [DEBU] Work ready signal recv
+2026-07-02 15:27:15 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:27:15 [DEBU] Create activity log for celery task: 801d70a6-b1ed-4109-8ac0-515e175ce832
+2026-07-02 15:27:16 [DEBU] Create activity log for celery task: 50738095-042a-4c28-a675-e28d9f5f7dcd
+2026-07-02 15:27:16 [DEBU] Create activity log for celery task: 30915bf5-9a55-4904-a622-68bff4d51e01
+2026-07-02 15:27:17 [DEBU] Create activity log for celery task: 6fd29a2e-503e-4c9d-94f9-21074025f1a4
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: 0f8c6c72-c728-4761-bf98-6a172a7dafa5
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: 003e92cb-8536-40c5-8597-f56a3027e397
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: d0f2ec00-75cf-4165-a172-61204fbed3a0
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: bc212379-f5e1-4ce3-9461-57b47c8941cd
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: 6d636c5f-2ffb-4e1b-b85c-8aee224d7610
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: e85d12c7-31ea-4e88-802b-a4a86fc153ad
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: bec55575-9304-4e6c-b487-6ac9e1d55fc0
+2026-07-02 15:27:18 [DEBU] Create activity log for celery task: 7f3ad10d-e1f3-44bd-a777-2ffd3eae1d6a
+2026-07-02 15:27:19 [DEBU] Create activity log for celery task: 3275a204-355c-4d27-a314-54d8094d599b
+2026-07-02 15:27:19 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:27:19 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:27:19 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:27:19 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:27:19 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:27:19 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:27:19 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:27:20 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:27:20 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:27:21 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:27:25 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:27:25 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:27:25 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:27:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe vault change
+2026-07-02 15:27:29 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:29 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:29 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:29 [DEBU] Start subscribe setting change
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe vault change
+2026-07-02 15:27:29 [DEBU] Start subscribe vault change
+2026-07-02 15:27:29 [DEBU] Start subscribe vault change
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe vault change
+2026-07-02 15:27:29 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:29 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:29 [DEBU] Start subscribe setting change
+2026-07-02 15:27:29 [DEBU] Start subscribe setting change
+2026-07-02 15:27:29 [DEBU] Start subscribe setting change
+2026-07-02 15:27:29 [INFO] Start subscribe for stop job execution
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:29 [DEBU] Start subscribe setting change
+2026-07-02 15:27:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:27:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:31 [DEBU] Work ready signal recv
+2026-07-02 15:27:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:27:31 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: f83a1286-2d64-43d0-9cc8-92353918da71
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: beb17ef8-fa95-4c48-b524-655e939b82d5
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: 6db974dd-2522-4487-b0bd-36ac00fefeb5
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: 303fc5d1-aade-432a-8abd-04168e3e881f
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: 315a63f5-3367-4a53-84b5-558aedc61485
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: 4828624b-6f6d-4f19-b42b-be68702e810f
+2026-07-02 15:27:31 [DEBU] Create activity log for celery task: de7ef5b0-7f6b-4711-aaa3-0c672a5bde8a
+2026-07-02 15:27:32 [DEBU] Create activity log for celery task: 5d9f3201-cd95-4918-8161-102d6183933e
+2026-07-02 15:27:32 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 15:27:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 15:27:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 15:27:32 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:27:32 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:27:32 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 15:27:33 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:27:33 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:27:33 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:27:34 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 15:27:34 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 15:28:13 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:28:13 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:28:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:28:13 [DEBU] Start subscribe vault change
+2026-07-02 15:28:13 [INFO] Start subscribe for stop job execution
+2026-07-02 15:28:13 [DEBU] Start subscribe setting change
+2026-07-02 15:28:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:28:31 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:28:31 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:28:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:28:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:29:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:29:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:30:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:30:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:31:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:31:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:32:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:32:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:33:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:33:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:34:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:34:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:35:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:35:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:36:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:36:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:37:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:37:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:37:34 [DEBU] Create activity log for celery task: 05564344-9980-4ebc-956d-cbc1d28bd4a1
+2026-07-02 15:38:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:38:31 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 15:38:31 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 15:38:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:39:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:39:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:40:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:40:31 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:40:31 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:40:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:41:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:41:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:42:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:42:31 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:42:31 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:42:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:43:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:43:31 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:07 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7eea5d3bb7d0>
+2026-07-02 15:44:07 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:07 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7eea5d3bb7d0>
+2026-07-02 15:44:07 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7eea36d8bd50>
+2026-07-02 15:44:07 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:07 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7eea36d8bd50>
+2026-07-02 15:44:07 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7eea54e66dd0>
+2026-07-02 15:44:07 [DEBU] Subscription unsubscribed
+2026-07-02 15:44:07 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7eea54e66dd0>
+2026-07-02 15:44:22 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:22 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:22 [DEBU] Start subscribe vault change
+2026-07-02 15:44:22 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:22 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:22 [DEBU] Start subscribe setting change
+2026-07-02 15:44:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:24 [DEBU] Start subscribe vault change
+2026-07-02 15:44:24 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:24 [DEBU] Start subscribe setting change
+2026-07-02 15:44:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:26 [DEBU] Work ready signal recv
+2026-07-02 15:44:26 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: 76358598-09d9-456a-b4a5-066819261ae8
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: 2613ac89-0d01-4a73-8ea7-3e2a4b6c27fc
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: d51b0434-2969-4411-a2de-ed8794677590
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: eab166b4-89b7-4a19-8676-fdec31a2a4b8
+2026-07-02 15:44:26 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:44:26 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: c238cfc3-e5f2-445b-8f70-1452ee54ed79
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: 2cb79279-8919-4102-9f99-578a599b3293
+2026-07-02 15:44:26 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: 3a4e4ee7-078a-4e33-bee3-fb9a48229ce0
+2026-07-02 15:44:26 [DEBU] Create activity log for celery task: f855733c-de37-4308-b343-8b02f150ef69
+2026-07-02 15:44:28 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:44:28 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:44:31 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:44:31 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:44:31 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe vault change
+2026-07-02 15:44:34 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:34 [DEBU] Start subscribe setting change
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe vault change
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe vault change
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe setting change
+2026-07-02 15:44:34 [INFO] Start subscribe for stop job execution
+id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe vault change
+2026-07-02 15:44:34 [DEBU] Start subscribe setting change
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe vault change
+2026-07-02 15:44:34 [DEBU] Start subscribe setting change
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:34 [DEBU] Start subscribe setting change
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [DEBU] Start subscribe vault change
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:34 [DEBU] Start subscribe setting change
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 15:44:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:35 [DEBU] Start subscribe vault change
+2026-07-02 15:44:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 15:44:35 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:35 [DEBU] Start subscribe vault change
+2026-07-02 15:44:35 [DEBU] Start subscribe setting change
+2026-07-02 15:44:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:35 [INFO] Start subscribe for stop job execution
+2026-07-02 15:44:35 [DEBU] Start subscribe setting change
+2026-07-02 15:44:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 15:44:37 [DEBU] Work ready signal recv
+2026-07-02 15:44:37 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 15:44:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:37 [DEBU] Create activity log for celery task: eec7fcf0-d2e9-4173-9217-dda974c3b7cd
+2026-07-02 15:44:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:44:37 [DEBU] Create activity log for celery task: fd4e7b70-40a3-4c63-8e4a-911a2b4d3f84
+2026-07-02 15:44:37 [DEBU] Create activity log for celery task: 289316ea-38ea-47fc-8cb7-cb5ebaac134f
+2026-07-02 15:44:38 [DEBU] Create activity log for celery task: e2a191d9-9ee2-4d1f-8826-5aa9c58dc2dd
+2026-07-02 15:44:38 [DEBU] Create activity log for celery task: 0a7e78c3-8cce-4035-ae43-c533562070bc
+2026-07-02 15:44:38 [DEBU] Create activity log for celery task: b6ac5f3b-9702-46b9-8ff5-d171698f467f
+2026-07-02 15:44:38 [DEBU] Create activity log for celery task: 53814c23-a9a4-4f10-bbb0-4ec090ca1cdd
+2026-07-02 15:44:38 [DEBU] Create activity log for celery task: e3d7382d-e3a8-4a00-a832-5baa3fd3b5b9
+2026-07-02 15:44:39 [INFO] Start clean celery periodic tasks.
+2026-07-02 15:44:39 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:44:40 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 15:44:40 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 15:44:40 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 15:44:52 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 15:44:52 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 15:45:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:45:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 15:45:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:45:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:46:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:46:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:46:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:47:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:47:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:48:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:48:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:48:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:49:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:49:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:50:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:50:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:50:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:51:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:51:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:52:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:52:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:52:38 [WARN] Unauthorized: /api/v1/settings/
+2026-07-02 15:52:57 [WARN] Unauthorized: /api/v1/settings/
+2026-07-02 15:53:37 [DEBU] pid 31 executor submit run update_user_last_used
+2026-07-02 15:53:37 [DEBU] pid 31 executor submit run update_token_last_used
+2026-07-02 15:53:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:53:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:54:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:54:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:54:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 15:54:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:54:41 [DEBU] Create activity log for celery task: 0ba87a53-6059-4647-9dcc-a16fbf7ca3a7
+2026-07-02 15:55:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:55:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:56:09 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 15:56:18 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 15:56:28 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 15:56:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:56:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:56:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 15:56:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:57:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:57:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:58:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:58:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 15:58:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 15:58:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:59:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:59:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:00:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 16:00:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 16:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:01:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:01:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:02:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:02:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:03:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:03:37 [DEBU] pid 31 executor submit run update_user_last_used
+2026-07-02 16:03:37 [DEBU] pid 31 executor submit run update_token_last_used
+2026-07-02 16:03:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:04:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:04:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 16:04:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 16:04:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:04:41 [DEBU] Create activity log for celery task: 03a030a7-2e6d-41b4-98ff-e3c1b5692eb3
+2026-07-02 16:05:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:05:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:06:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:06:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 16:06:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 16:06:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:07:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:07:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:08:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 16:08:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 16:08:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:08:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:09:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:09:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:10:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 16:10:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 16:10:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:10:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:11:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:11:37 [DEBU] pid 32 executor submit run update_user_last_used
+2026-07-02 16:11:37 [DEBU] pid 32 executor submit run update_token_last_used
+2026-07-02 16:11:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 16:11:57 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ad18b1c7ad0>
+2026-07-02 16:11:57 [DEBU] Subscription unsubscribed
+2026-07-02 16:11:57 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ad18b1c7ad0>
+2026-07-02 16:11:57 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ad162a95510>
+2026-07-02 16:11:57 [DEBU] Subscription unsubscribed
+2026-07-02 16:11:57 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ad162a95510>
+2026-07-02 16:11:58 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ad18b1dcbd0>
+2026-07-02 16:11:58 [DEBU] Subscription unsubscribed
+2026-07-02 16:11:58 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7ad18b1dcbd0>

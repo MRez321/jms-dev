@@ -7,6 +7,7 @@ import messages from './langs'
 import { getLangCode } from './utils'
 
 const lang = getLangCode()
+console.log('lang =>',lang)
 
 const i18n = createI18n({
   legacy: false, // Use Composition API mode

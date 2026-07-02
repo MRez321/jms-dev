@@ -9075,3 +9075,546 @@ t: True
 2026-07-01 18:17:17 [DEBU] pid 116 executor submit run update_token_last_used
 2026-07-01 18:17:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 172.18.0.6:48368 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-02 10:29:03 +0800] [22] [INFO] Starting gunicorn 23.0.0
+[2026-07-02 10:29:03 +0800] [22] [INFO] Listening at: http://0.0.0.0:8080 (22)
+[2026-07-02 10:29:03 +0800] [22] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-07-02 10:29:03 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-07-02 10:29:03 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-07-02 10:29:03 +0800] [28] [INFO] Booting worker with pid: 28
+[2026-07-02 10:29:03 +0800] [29] [INFO] Booting worker with pid: 29
+2026-07-02 10:29:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 10:29:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 10:29:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 10:29:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe vault change
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe vault change
+2026-07-02 10:29:07 [DEBU] Start subscribe vault change
+2026-07-02 10:29:07 [DEBU] Start subscribe vault change
+2026-07-02 10:29:07 [INFO] Start subscribe for stop job execution
+2026-07-02 10:29:07 [INFO] Start subscribe for stop job execution
+2026-07-02 10:29:07 [INFO] Start subscribe for stop job execution
+2026-07-02 10:29:07 [INFO] Start subscribe for stop job execution
+2026-07-02 10:29:07 [DEBU] Start subscribe setting change
+2026-07-02 10:29:07 [DEBU] Start subscribe setting change
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe setting change
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe setting change
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 10:29:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-07-02 10:29:07 +0800] [27] [INFO] Started server process [27]
+[2026-07-02 10:29:07 +0800] [28] [INFO] Started server process [28]
+[2026-07-02 10:29:07 +0800] [29] [INFO] Started server process [29]
+[2026-07-02 10:29:07 +0800] [26] [INFO] Started server process [26]
+[2026-07-02 10:29:07 +0800] [27] [INFO] Waiting for application startup.
+[2026-07-02 10:29:07 +0800] [28] [INFO] Waiting for application startup.
+[2026-07-02 10:29:07 +0800] [29] [INFO] Waiting for application startup.
+[2026-07-02 10:29:07 +0800] [26] [INFO] Waiting for application startup.
+[2026-07-02 10:29:07 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 10:29:07 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 10:29:07 +0800] [29] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 10:29:07 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 10:29:07 +0800] [27] [INFO] Application startup complete.
+[2026-07-02 10:29:07 +0800] [28] [INFO] Application startup complete.
+[2026-07-02 10:29:07 +0800] [29] [INFO] Application startup complete.
+[2026-07-02 10:29:07 +0800] [26] [INFO] Application startup complete.
+172.18.0.5:55566 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.8:47468 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.7:37220 - "GET /api/health/ HTTP/1.1" 200
+2026-07-02 10:29:09 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.5:55574 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-07-02 10:29:09 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.7:37228 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-07-02 10:29:09 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.8:47472 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+172.18.0.7:37238 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+172.18.0.8:47486 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+[2026-07-02 10:29:10 +0800] [29] [INFO] ('172.18.0.8', 47496) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-02 10:29:10 +0800] [29] [INFO] connection open
+2026-07-02 10:29:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37250 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:29:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.8:47492 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+fig'], result: True
+172.18.0.7:37250 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-02 10:29:10 +0800] [29] [INFO] ('172.18.0.7', 37258) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-02 10:29:10 +0800] [29] [INFO] connection open
+2026-07-02 10:29:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37252 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:55576 - "POST /api/v1/terminal/terminal-registrations/ HTTP/1.1" 201
+172.18.0.5:57646 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-07-02 10:29:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:57648 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-02 10:29:15 +0800] [29] [INFO] ('172.18.0.5', 57650) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-02 10:29:15 +0800] [29] [INFO] connection open
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.5:57664 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-07-02 10:29:40 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 10:29:40 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 10:29:40 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 10:29:40 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 10:29:40 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 10:29:40 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 10:30:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:45904 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:30:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:34918 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:31:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:31:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:31:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:43830 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:31:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:52176 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:32:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:44310 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:32:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:58480 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:33:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:57370 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:33:15 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:33:15 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:33:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:49964 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:34:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60922 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:34:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:58650 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:35:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:51024 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:35:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40496 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:36:10 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 10:36:10 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 10:36:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:54948 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:36:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:46392 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:37:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:37460 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:37:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:60626 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:38:10 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 10:38:10 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 10:38:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52634 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:38:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:59818 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:39:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:48544 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:39:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:52288 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:40:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:40:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:40:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:55684 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:40:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:38608 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:41:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:43532 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:41:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:49790 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:42:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:42:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:42:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:44820 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:42:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37764 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:43:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35220 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:43:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:54016 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:44:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:44:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:44:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60904 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:44:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37626 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:45:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:49834 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:45:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:32790 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:46:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:46:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:46:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35276 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:46:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:47370 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:47:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35268 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:47:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:42398 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:48:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:52320 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:48:15 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:48:15 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:48:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:39746 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:49:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:59516 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:49:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:56226 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:50:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:58446 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:50:15 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:50:15 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:50:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:35834 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:51:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:38586 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:51:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:51916 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:52:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:52:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:52:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:33452 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:52:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:60732 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:53:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:54420 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:53:15 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:53:15 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:53:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:39584 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:54:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:46726 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:54:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:35846 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:55:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:43620 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:55:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:35382 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:56:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:56:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:56:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:35108 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:56:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40394 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:57:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:59826 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:57:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:45124 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:58:10 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 10:58:10 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 10:58:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:42004 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:58:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:50122 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:59:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:36406 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 10:59:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40436 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:00:10 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 11:00:10 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 11:00:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:45204 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:00:15 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 11:00:15 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 11:00:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40018 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:01:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:58102 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:01:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:46600 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:02:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:60518 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:02:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:51730 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:03:10 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 11:03:10 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 11:03:10 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.7:38818 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:03:15 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 11:03:15 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 11:03:15 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:52446 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 11:03:23 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.9:37100 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+[2026-07-02 12:09:22 +0800] [23] [INFO] Starting gunicorn 23.0.0
+[2026-07-02 12:09:22 +0800] [23] [INFO] Listening at: http://0.0.0.0:8080 (23)
+[2026-07-02 12:09:22 +0800] [23] [INFO] Using worker: uvicorn.workers.UvicornWorker
+[2026-07-02 12:09:22 +0800] [25] [INFO] Booting worker with pid: 25
+[2026-07-02 12:09:22 +0800] [26] [INFO] Booting worker with pid: 26
+[2026-07-02 12:09:22 +0800] [27] [INFO] Booting worker with pid: 27
+[2026-07-02 12:09:22 +0800] [28] [INFO] Booting worker with pid: 28
+2026-07-02 12:09:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:09:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:09:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:09:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe vault change
+2026-07-02 12:09:24 [DEBU] Start subscribe vault change
+2026-07-02 12:09:24 [DEBU] Start subscribe vault change
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe vault change
+2026-07-02 12:09:24 [INFO] Start subscribe for stop job execution
+2026-07-02 12:09:24 [INFO] Start subscribe for stop job execution
+2026-07-02 12:09:24 [INFO] Start subscribe for stop job execution
+2026-07-02 12:09:24 [DEBU] Start subscribe setting change
+2026-07-02 12:09:24 [DEBU] Start subscribe setting change
+2026-07-02 12:09:24 [DEBU] Start subscribe setting change
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [INFO] Start subscribe for stop job execution
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:09:24 [DEBU] Start subscribe setting change
+2026-07-02 12:09:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+[2026-07-02 12:09:24 +0800] [27] [INFO] Started server process [27]
+[2026-07-02 12:09:24 +0800] [26] [INFO] Started server process [26]
+[2026-07-02 12:09:24 +0800] [28] [INFO] Started server process [28]
+[2026-07-02 12:09:24 +0800] [25] [INFO] Started server process [25]
+[2026-07-02 12:09:24 +0800] [27] [INFO] Waiting for application startup.
+[2026-07-02 12:09:24 +0800] [26] [INFO] Waiting for application startup.
+[2026-07-02 12:09:24 +0800] [28] [INFO] Waiting for application startup.
+[2026-07-02 12:09:24 +0800] [25] [INFO] Waiting for application startup.
+[2026-07-02 12:09:24 +0800] [27] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 12:09:24 +0800] [26] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 12:09:24 +0800] [28] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 12:09:24 +0800] [25] [INFO] ASGI 'lifespan' protocol appears unsupported.
+[2026-07-02 12:09:24 +0800] [27] [INFO] Application startup complete.
+[2026-07-02 12:09:24 +0800] [26] [INFO] Application startup complete.
+[2026-07-02 12:09:24 +0800] [28] [INFO] Application startup complete.
+[2026-07-02 12:09:24 +0800] [25] [INFO] Application startup complete.
+172.18.0.4:53590 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.3:56506 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.2:33254 - "GET /api/health/ HTTP/1.1" 200
+172.18.0.3:56518 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-07-02 12:09:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:56528 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-02 12:09:26 +0800] [25] [INFO] ('172.18.0.3', 56542) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-02 12:09:26 +0800] [25] [INFO] connection open
+172.18.0.2:33264 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+2026-07-02 12:09:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:33280 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:09:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+[2026-07-02 12:09:26 +0800] [27] [INFO] ('172.18.0.2', 33282) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-02 12:09:26 +0800] [27] [INFO] connection open
+172.18.0.2:33280 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:09:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:33298 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.4:42196 - "GET /api/v1/users/profile/ HTTP/1.1" 200
+[2026-07-02 12:09:27 +0800] [28] [INFO] ('172.18.0.4', 42208) - "WebSocket /ws/terminal-task/" [accepted]
+[2026-07-02 12:09:27 +0800] [28] [INFO] connection open
+2026-07-02 12:09:27 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.4:42210 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=en&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=ja&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=zh&flat=1 HTTP/1.1" 200
+172.18.0.3:42934 - "GET /api/v1/settings/i18n/chen/?lang=zh_hant&flat=1 HTTP/1.1" 200
+2026-07-02 12:10:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:10:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:10:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:58164 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:10:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:37876 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:43864 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.0" 200
+2026-07-02 12:10:57 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.5:43880 - "GET /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.5:43886 - "GET /api/v1/settings/public/open/ HTTP/1.0" 200
+2026-07-02 12:10:57 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.5:43898 - "GET /api/v1/users/profile/ HTTP/1.0" 401
+2026-07-02 12:10:58 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.5:43926 - "DELETE /api/v1/authentication/user-session/ HTTP/1.0" 403
+172.18.0.5:43914 - "GET /core/auth/login/?next=/ui/ HTTP/1.0" 200
+172.18.0.5:43934 - "GET /core/jsi18n/ HTTP/1.0" 200
+172.18.0.5:42746 - "GET /core/jsi18n/ HTTP/1.0" 200
+2026-07-02 12:11:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:51808 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:11:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:43622 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:45958 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.5:35194 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:12:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:50708 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:12:26 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 12:12:26 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 12:12:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:50266 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:37118 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.5:42424 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:13:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:55910 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:13:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:37454 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:43234 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.5:49302 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:14:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:52804 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:14:26 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 12:14:26 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 12:14:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:55558 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:32930 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:15:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:55632 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:15:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:50030 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:33646 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:16:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:50528 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:16:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:45650 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:55798 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:17:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:32938 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:17:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:42324 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:59570 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:18:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:60764 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:18:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:18:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:18:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:39608 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:50386 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:19:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:53806 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:19:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:47684 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:51240 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:20:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:43890 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:20:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:39610 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:57414 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:21:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:21:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:21:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:43402 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:21:26 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 12:21:26 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 12:21:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:37368 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:47046 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:22:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:57982 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:22:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:50320 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:37116 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:23:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:58258 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:23:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:60588 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:34880 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:24:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:24:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:24:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:39666 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:24:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:35266 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:37084 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:25:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:44598 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:25:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:25:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:25:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:51152 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:52342 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:26:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:53082 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:26:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:60340 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:47756 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:27:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:37936 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:27:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:27:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:27:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:50828 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:44686 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:28:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:60972 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:28:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:38372 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:52048 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:29:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:29:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:29:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:56046 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:29:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:35746 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:46266 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:30:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:52822 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:30:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:41772 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:50394 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:31:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:33040 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:31:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:31:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:31:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:48540 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:48056 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:32:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:43512 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:32:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:43108 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:37316 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:33:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:38744 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:33:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:33:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:33:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:49242 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:49670 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:34:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:40922 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:34:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:41172 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:58024 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:35:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:43112 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:35:26 [DEBU] pid 28 executor submit run update_user_last_used
+2026-07-02 12:35:26 [DEBU] pid 28 executor submit run update_token_last_used
+2026-07-02 12:35:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:37970 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:44244 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:36:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:36:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:36:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:43758 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:36:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:55350 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.5:48812 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 12:37:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.3:49858 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 12:37:26 [DEBU] pid 25 executor submit run update_user_last_used
+2026-07-02 12:37:26 [DEBU] pid 25 executor submit run update_token_last_used
+2026-07-02 12:37:26 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.2:54890 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+[2026-07-02 12:37:34 +0800] [27] [INFO] connection closed
+2026-07-02 12:37:34 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c5069a6b610>
+2026-07-02 12:37:34 [DEBU] Subscription unsubscribed
+2026-07-02 12:37:34 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c5069a6b610>
+[2026-07-02 12:37:34 +0800] [25] [INFO] connection closed
+2026-07-02 12:37:34 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c5073174a10>
+2026-07-02 12:37:34 [DEBU] Subscription unsubscribed
+2026-07-02 12:37:34 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c5073174a10>
+[2026-07-02 12:37:35 +0800] [28] [INFO] connection closed
+2026-07-02 12:37:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c50921d0f10>
+2026-07-02 12:37:35 [DEBU] Subscription unsubscribed
+2026-07-02 12:37:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c50921d0f10>

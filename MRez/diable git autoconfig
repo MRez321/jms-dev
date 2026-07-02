@@ -1,0 +1,22 @@
+git config core.autocrlf false
+
+git config core.autocrlf
+
+
+
+
+2. Add or update .gitattributes
+
+Create (or edit) .gitattributes:
+
+*.sh text eol=lf
+*.py text eol=lf
+Dockerfile text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+This forces Git to keep Linux line endings for those files.
+
+3. Renormalize the repository
+git add --renormalize .
+git status

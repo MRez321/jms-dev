@@ -1,0 +1,8 @@
+npm run build
+docker build -f Dockerfile-simple -t jumpserver/web:v4.10.16-ce-fa .
+cd ..
+docker-compose -f docker-compose-fa.yml up -d --force-recreate
+
+
+
+docker build -t jumpserver/core:v4.10.16-ce-fa .

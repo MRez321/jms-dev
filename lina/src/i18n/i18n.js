@@ -55,11 +55,22 @@ i18n.tc = compatTc.bind(i18n.global)
 export async function fetchTranslationsFromAPI() {
   try {
     const res = await axios.get(`/api/v1/settings/i18n/lina/?lang=${lang}&flat=0`)
+    // const data = res.data
+    // for (const key in data) {
+    //   if (Object.prototype.hasOwnProperty.call(data, key)) {
+    //     i18n.global.mergeLocaleMessage(key, data[key])
+    //   }
+    // }
     const data = res.data
+
+    console.log('===== I18N API =====')
+    console.log(data)
+
     for (const key in data) {
-      if (Object.prototype.hasOwnProperty.call(data, key)) {
-        i18n.global.mergeLocaleMessage(key, data[key])
-      }
+      console.log('locale:', key)
+      console.log('value:', data[key])
+
+      i18n.global.mergeLocaleMessage(key, data[key])
     }
   } catch (error) {
     console.log(error)

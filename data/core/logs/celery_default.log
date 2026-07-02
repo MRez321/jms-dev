@@ -13862,3 +13862,43 @@ _user_expired_periodic[415fdc11-a7f5-43bd-842d-edcc178465fe] succeeded in 0.2423
 2026-07-02 14:08:24 >> Set language to en
 2026-07-02 14:08:24 >> Set org to 00000000-0000-0000-0000-000000000000
 2026-07-02 14:08:24 Task terminal.tasks.clean_orphan_session[5f8c70d1-8154-480f-b255-b9a872c7c3d2] succeeded in 1.0710929699998815s: None
+2026-07-02 14:18:23 Task terminal.tasks.clean_orphan_session[d2c79c18-e5bc-4ca1-84b6-6da204e93bba] received
+2026-07-02 14:18:23 >> Set language to en
+2026-07-02 14:18:23 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:18:23 Task terminal.tasks.clean_orphan_session[d2c79c18-e5bc-4ca1-84b6-6da204e93bba] succeeded in 0.09204865699939546s: None
+2026-07-02 14:28:23 Task terminal.tasks.clean_orphan_session[7223ab6d-f993-4bbc-b0fd-d562ea76b94c] received
+2026-07-02 14:28:23 >> Set language to en
+2026-07-02 14:28:23 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:28:23 Task terminal.tasks.clean_orphan_session[7223ab6d-f993-4bbc-b0fd-d562ea76b94c] succeeded in 0.08374482699946384s: None
+2026-07-02 14:38:22 Task perms.tasks.check_asset_permission_expired[97e646b8-b721-442b-b848-9e60c2f06d63] received
+2026-07-02 14:38:22 >> Set language to en
+2026-07-02 14:38:22 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:38:22 [INFO] Checking expired permissions: [] ...
+2026-07-02 14:38:22 Checking expired permissions: [] ...
+2026-07-02 14:38:22 Task perms.tasks.check_asset_permission_expired[97e646b8-b721-442b-b848-9e60c2f06d63] succeeded in 0.11748462099967583s: None
+2026-07-02 14:38:22 Task ops.tasks.check_server_performance_period[c652fb78-0671-44f1-847f-b7b1187c0830] received
+2026-07-02 14:38:22 >> Set language to en
+2026-07-02 14:38:22 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:38:22 [DEBU] New site msg created, publish it
+2026-07-02 14:38:22 New site msg created, publish it
+2026-07-02 14:38:22 Task ops.tasks.check_server_performance_period[c652fb78-0671-44f1-847f-b7b1187c0830] succeeded in 0.21535075999963738s: None
+2026-07-02 14:38:22 Task ops.tasks.clean_up_unexpected_jobs[730c63e6-2e0c-4acf-b5de-ef74427a9779] received
+2026-07-02 14:38:22 >> Set language to en
+2026-07-02 14:38:22 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:38:22 Task ops.tasks.clean_up_unexpected_jobs[730c63e6-2e0c-4acf-b5de-ef74427a9779] succeeded in 0.07881044699934137s: None
+2026-07-02 14:38:23 Task terminal.tasks.delete_terminal_status_period[22947647-37da-44d0-bad6-3c1f11fb112b] received
+2026-07-02 14:38:23 Task terminal.tasks.clean_orphan_session[e610150d-10de-4ec8-b25f-61b8e144739f] received
+2026-07-02 14:38:23 >> Set language to en
+2026-07-02 14:38:23 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:38:23 Task terminal.tasks.clean_orphan_session[e610150d-10de-4ec8-b25f-61b8e144739f] succeeded in 0.06911096799922234s: None
+2026-07-02 14:38:24 >> Set language to en
+2026-07-02 14:38:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:38:24 Task terminal.tasks.delete_terminal_status_period[22947647-37da-44d0-bad6-3c1f11fb112b] succeeded in 1.0519705930000782s: None
+2026-07-02 14:48:23 Task terminal.tasks.clean_orphan_session[21d44b55-78af-42cd-b94f-0617099a4c62] received
+2026-07-02 14:48:23 >> Set language to en
+2026-07-02 14:48:23 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:48:23 Task terminal.tasks.clean_orphan_session[21d44b55-78af-42cd-b94f-0617099a4c62] succeeded in 0.0917265399984899s: None
+2026-07-02 14:58:23 Task terminal.tasks.clean_orphan_session[6f7c3d97-1655-4c67-85ab-909f08f8816d] received
+2026-07-02 14:58:23 >> Set language to en
+2026-07-02 14:58:23 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:58:23 Task terminal.tasks.clean_orphan_session[6f7c3d97-1655-4c67-85ab-909f08f8816d] succeeded in 0.08807430700107943s: None

@@ -10228,3 +10228,462 @@ ssion/
 2026-07-02 14:11:36 [DEBU] pid 29 executor submit run update_token_last_used
 2026-07-02 14:11:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
 172.18.0.5:40178 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:43950 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:12:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:49298 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:12:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:38580 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:38212 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:13:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:13:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:13:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:58134 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:13:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:50524 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:56332 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:14:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41718 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:14:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:43610 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:34102 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:15:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52238 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:15:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:15:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:15:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:36758 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:51604 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:16:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59288 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:16:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:55476 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:38198 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:17:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:17:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:17:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:39738 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:17:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40066 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:48808 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:18:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57720 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:18:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:18:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:18:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:48806 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:54526 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:19:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:54626 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:19:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:56542 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:48142 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:20:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:20:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:20:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:50264 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:20:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:48366 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.1:35298 - "GET /api/v1/settings/public/open/ HTTP/1.1" 200
+172.18.0.1:35282 - "GET /api/v1/settings/i18n/lina/?lang=en&flat=0 HTTP/1.1" 200
+2026-07-02 14:20:43 [WARN] Unauthorized: /api/v1/users/profile/
+172.18.0.1:35312 - "GET /api/v1/users/profile/ HTTP/1.1" 401
+2026-07-02 14:20:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35320 - "GET /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-07-02 14:20:43 [WARN] Not Found: /static/img/facio.ico
+172.18.0.1:35332 - "GET /static/img/facio.ico HTTP/1.1" 404
+172.18.0.1:35340 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:35362 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+172.18.0.1:35406 - "GET /static/css/login-style.css HTTP/1.1" 404
+select2.min.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:35392 - "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 404
+172.18.0.1:35356 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/style.css
+172.18.0.1:35376 - "GET /static/css/style.css HTTP/1.1" 404
+min.css
+172.18.0.1:35346 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:35418 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:35428 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:35454 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Forbidden: /api/v1/authentication/user-session/
+172.18.0.1:35420 - "DELETE /api/v1/authentication/user-session/ HTTP/1.1" 403
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:35462 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:35432 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:35446 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:35456 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:44 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:35470 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+172.18.0.1:35466 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/img/login_image.png
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:35480 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:35474 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:35498 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:35492 - "GET /core/jsi18n/ HTTP/1.1" 200
+172.18.0.1:35510 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:35542 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+172.18.0.1:35534 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:35530 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:35546 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+172.18.0.1:35548 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+172.18.0.1:35560 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:35566 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:35594 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.1:35600 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+" 404
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:35618 - "GET /static/js/plugins/select2/i18n/zh-CN2026-07-02 14:20:4172.18.0.1:35588 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:35598 - "GET /static/js/inspinia.js HTTP/1.1" 404
+172.18.0.1:35582 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:35630 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:35642 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+172.18.0.1:35650 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+min.js
+172.18.0.1:35658 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:51512 - "GET /core/auth/login/?next=/ui/ HTTP/1.1" 200
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/bootstrap.min.css
+172.18.0.1:51520 - "GET /static/css/bootstrap.min.css HTTP/1.1" 404
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/font-awesome.min.css
+172.18.0.1:51524 - "GET /static/css/font-awesome.min.css HTTP/1.1" 404
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/style.css
+min.css HTTP/1.1" 404
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:51538 - "GET /static/css/style.css HTTP/1.1" 404
+astr/toastr.min.css
+172.18.0.1:51568 - "GET /static/css/login-style.css HTTP/1.1" 404
+172.18.0.1:51532 - "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 404
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/jumpserver.css
+172.18.0.1:51580 - "GET /static/css/jumpserver.css HTTP/1.1" 404
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+172.18.0.1:51596 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:51612 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:51610 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:51608 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-07-02 14:20:50 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:20:50 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:50 [WARN] Not Found: /static/img/login_ima172.18.2026-07-02 14:20:50 [WARN] Not Found: /static/css/login-style.css
+172.18.0.1:51640 - "GET /static/img/login_image.png HTTP/1.1" 404
+172.18.0.1:51622 - "GET /static/css/login-style.css HTTP/1.1" 404
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+1" 404
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/inspinia.js
+1" 404
+172.18.0.1:51706 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:51666 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:51650 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+172.18.0.1:51672 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/bootstrap.min.js
+172.18.0.1:51710 - "GET /static/js/jquery-3.6.1.min.js HTTP/1.1" 404
+172.18.0.1:51726 - "GET /static/js/bootstrap.min.js HTTP/1.1" 404
+172.18.0.1:51712 - "GET /static/js/jumpserver.js?v=9 HTTP/1.1" 404
+172.18.0.1:51738 - "GET /core/jsi18n/ HTTP/1.1" 200
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+172.18.0.1:51750 - "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:51760 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/jumpserver.js
+172.18.0.1:51770 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+172.18.0.1:51780 - "GET /static/js/jumpserver.js?v=10 HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+ 404
+172.18.0.1:51800 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/inspinia.js
+172.18.0.1:51812 - "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 404
+172.18.0.1:51822 - "GET /static/js/inspinia.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+172.18.0.1:51804 - "GET /static/js/plugins/select2/i18n/zh-CN.js HTTP/1.1" 404
+172.18.0.1:51820 - "GET /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+172.18.0.1:51838 - "GET /static/js/plugins/markdown-it.min.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+172.18.0.1:51852 - "GET /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js HTTP/1.1" 404
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+172.18.0.1:51854 - "GET /static/js/plugins/cryptojs/crypto-js.min.js HTTP/1.1" 404
+172.18.0.1:51864 - "GET /static/js/plugins/buffer/buffer.min.js HTTP/1.1" 404
+172.18.0.9:36304 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:33606 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:21:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:33862 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:21:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37690 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:38354 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:22:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:58204 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:22:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:36864 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:39486 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:23:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:23:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:23:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34810 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:23:36 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:23:36 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:23:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:55304 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:36540 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:24:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43656 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:24:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:43444 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:34432 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:25:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:25:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:25:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:39310 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:25:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:48400 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:50490 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:26:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48728 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:26:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:26:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:26:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37322 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:43682 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:27:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:46106 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:27:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:45032 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:58456 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:28:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57578 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:28:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:28:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:28:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:54100 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:33812 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:29:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51320 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:29:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:35258 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:32852 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:30:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:30:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:30:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34786 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:30:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:33844 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:40056 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:31:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38942 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:31:37 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:31:37 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:31:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:47420 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:45992 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:32:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38986 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:32:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:34472 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:37804 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:33:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:45222 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:33:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:51324 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:56132 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:34:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:34:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:34:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:38012 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:34:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:49004 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:60096 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:44002 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:35:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:57224 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:35:37 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:35:37 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:35:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:53180 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:51384 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:41716 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:36:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:39154 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:36:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:47996 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:42760 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:37990 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:37:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:37:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:37:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:33710 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:37:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:59230 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:57062 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:38:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:60828 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:38:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:54610 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:41820 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:39:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:43656 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:39:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:46794 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:41462 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:40:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52646 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:40:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:49932 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:59396 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:41:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:41:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:41:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:34638 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:41:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40580 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:32852 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:42:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:36784 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:42:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:42:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:42:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:38636 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:44788 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:43:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:46528 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:43:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:49178 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:54000 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:44:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:39944 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:44:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:44:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:44:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37788 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:51248 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:45:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:55110 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:45:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:53116 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:39462 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:46:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:40762 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:46:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:55116 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:41206 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:47:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56690 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:47:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:48730 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:58738 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:48:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:51712 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:48:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:38130 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:52958 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:49:33 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:49:33 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:49:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:48664 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:49:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:49:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:49:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:57104 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:34454 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:50:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:45142 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:50:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:37116 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:35642 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:51:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:44228 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:51:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:59290 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:54416 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:52:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:52:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:52:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:46792 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:52:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:39804 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:57498 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:53:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41364 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:53:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:60222 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:47206 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:54:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:60088 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:54:37 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:54:37 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:54:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:49614 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:57136 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:55:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:52704 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:55:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:36670 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:37396 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:56:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59116 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:56:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:56:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:56:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:45734 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:34930 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:57:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:60122 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:57:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40438 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:54268 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:42242 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:58:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:56642 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:58:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:40988 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:56448 - "GET /api/health/ HTTP/1.0" 200
+172.18.0.9:58066 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 14:59:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:59:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:59:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41612 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 14:59:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:52568 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:54952 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 15:00:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:41372 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 15:00:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:00:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:47220 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+172.18.0.9:35060 - "GET /api/health/ HTTP/1.0" 200
+2026-07-02 15:01:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.6:59114 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200
+2026-07-02 15:01:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+172.18.0.5:39348 - "GET /api/v1/terminal/terminals/config/ HTTP/1.1" 200

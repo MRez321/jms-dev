@@ -1,13 +1,1 @@
-
-
-docker exec -it jms_core bash
-
-(Inside container again):
-
-cd /opt/jumpserver/apps
-python3 manage.py shell -c "
-from django.conf import settings
-settings.CAPTCHA_ENABLED = False
-settings.CAPTCHA_TEST = True
-print('CAPTCHA disabled successfully')
-"
+docker exec -it jms_core bash(Inside container again):cd /opt/jumpserver/appspython3 manage.py shell -c "from django.conf import settingssettings.CAPTCHA_ENABLED = Falsesettings.CAPTCHA_TEST = Trueprint('CAPTCHA disabled successfully')"

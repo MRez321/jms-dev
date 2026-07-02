@@ -2297,3 +2297,240 @@ ecution
 2026-07-02 14:11:36 [DEBU] pid 29 executor submit run update_user_last_used
 2026-07-02 14:11:36 [DEBU] pid 29 executor submit run update_token_last_used
 2026-07-02 14:11:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:12:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:12:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:13:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:13:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:13:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:13:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:14:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:14:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:15:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:15:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:15:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:15:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:16:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:16:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:17:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:17:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:17:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:17:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:18:23 [DEBU] Create activity log for celery task: d2c79c18-e5bc-4ca1-84b6-6da204e93bba
+2026-07-02 14:18:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:18:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:18:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:18:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:19:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:19:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:20:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:20:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:20:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:20:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:20:43 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 14:20:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 14:20:43 [WARN] Not Found: /static/img/facio.ico
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/style.css
+2026-07-02 14:20:43 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-07-02 14:20:44 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:44 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:44 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:20:44 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:20:45 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/style.css
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-07-02 14:20:49 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:20:50 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:20:50 [WARN] Not Found: /static/img/login_image.png
+2026-07-02 14:20:50 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:20:50 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:20:51 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+n.js
+2026-07-02 14:21:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:21:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:22:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:22:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:23:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:23:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:23:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:23:36 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:23:36 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:23:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:24:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:24:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:25:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:25:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:25:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:25:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:26:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:26:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:26:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:26:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:27:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:27:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:28:23 [DEBU] Create activity log for celery task: 7223ab6d-f993-4bbc-b0fd-d562ea76b94c
+2026-07-02 14:28:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:28:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:28:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:28:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:29:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:29:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:30:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:30:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:30:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:30:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:31:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:31:37 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:31:37 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:31:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:32:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:32:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:33:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:33:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:34:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:34:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:34:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:34:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:35:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:35:37 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:35:37 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:35:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:36:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:36:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:37:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:37:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:37:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:37:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:38:22 [DEBU] Create activity log for celery task: 97e646b8-b721-442b-b848-9e60c2f06d63
+2026-07-02 14:38:22 [INFO] Checking expired permissions: [] ...
+2026-07-02 14:38:22 [DEBU] Create activity log for celery task: c652fb78-0671-44f1-847f-b7b1187c0830
+2026-07-02 14:38:22 [DEBU] New site msg created, publish it
+2026-07-02 14:38:22 [DEBU] Create activity log for celery task: 730c63e6-2e0c-4acf-b5de-ef74427a9779
+2026-07-02 14:38:23 [DEBU] Create activity log for celery task: 22947647-37da-44d0-bad6-3c1f11fb112b
+2026-07-02 14:38:23 [DEBU] Create activity log for celery task: e610150d-10de-4ec8-b25f-61b8e144739f
+2026-07-02 14:38:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:38:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:39:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:39:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:40:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:40:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:41:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:41:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:41:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:41:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:42:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:42:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:42:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:42:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:43:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:43:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:44:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:44:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:44:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:44:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:45:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:45:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:46:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:46:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:47:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:47:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:48:23 [DEBU] Create activity log for celery task: 21d44b55-78af-42cd-b94f-0617099a4c62
+2026-07-02 14:48:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:48:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:49:33 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:49:33 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:49:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:49:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:49:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:49:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:50:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:50:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:51:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:51:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:52:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:52:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:52:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:52:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:53:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:53:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:54:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:54:37 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:54:37 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:54:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:55:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:55:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:56:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:56:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:56:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:56:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:57:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:57:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:58:23 [DEBU] Create activity log for celery task: 6f7c3d97-1655-4c67-85ab-909f08f8816d
+2026-07-02 14:58:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:58:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:59:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:59:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:59:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:59:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:00:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:00:37 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 15:00:37 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 15:00:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:01:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 15:01:37 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True

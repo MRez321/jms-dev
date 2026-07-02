@@ -54,6 +54,9 @@ i18n.global.tc = compatTc
 i18n.tc = compatTc.bind(i18n.global)
 
 export async function fetchTranslationsFromAPI() {
+  console.log("fetchTranslationsFromAPI called")
+  console.log("Request URL:", `/api/v1/settings/i18n/lina/?lang=${lang}&flat=0`)
+
   try {
     const res = await axios.get(`/api/v1/settings/i18n/lina/?lang=${lang}&flat=0`)
     // const data = res.data

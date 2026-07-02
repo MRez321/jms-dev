@@ -110,6 +110,14 @@ for host_port in ALLOWED_DOMAINS:
             continue
         CSRF_TRUSTED_ORIGINS.append('{}://*.{}'.format(schema, origin))
 
+# Local development
+CSRF_TRUSTED_ORIGINS.extend([
+    "http://localhost:8180",
+    "http://localhost",
+    "http://127.0.0.1:8180",
+    "http://127.0.0.1",
+])
+
 CORS_ALLOWED_ORIGINS = [o.replace('*.', '') for o in CSRF_TRUSTED_ORIGINS]
 CSRF_FAILURE_VIEW = 'jumpserver.views.other.csrf_failure'
 # print("CSRF_TRUSTED_ORIGINS: ")

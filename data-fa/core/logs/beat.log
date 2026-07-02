@@ -16820,3 +16820,68 @@ Get beat lock start to run it
 2026-07-02 16:04:41 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
 2026-07-02 16:04:41 [DEBU] Create activity log for celery task: 03a030a7-2e6d-41b4-98ff-e3c1b5692eb3
 2026-07-02 16:04:41 Create activity log for celery task: 03a030a7-2e6d-41b4-98ff-e3c1b5692eb3
+Traceback (most recent call last):
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 90, in <module>
+    main()
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 82, in main
+Traceback (most recent call last):
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 90, in <module>
+    main()
+  File "/opt/jumpserver/utils/start_celery_beat.py", line 82, in main
+    with redis_lock.Lock(redis_client, name="beat-distribute-start-lock", expire=60, auto_renewal=True):
+  File "/opt/py3/lib/python3.11/site-packages/redis_lock/__init__.py", line 321, in __enter__
+    acquired = self.acquire(blocking=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis_lock/__init__.py", line 231, in acquire
+    timed_out = not self._client.blpop(self._signal, blpop_timeout) and timeout
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/commands/core.py", line 2595, in blpop
+    return self.execute_command("BLPOP", *keys)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 543, in execute_command
+    return conn.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/retry.py", line 49, in call_with_retry
+    fail(error)
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 547, in <lambda>
+    lambda error: self._disconnect_raise(conn, error),
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 533, in _disconnect_raise
+    raise error
+  File "/opt/py3/lib/python3.11/site-packages/redis/retry.py", line 46, in call_with_retry
+    return do()
+           ^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 544, in <lambda>
+    lambda: self._send_command_parse_response(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 520, in _send_command_parse_response
+    return self.parse_response(conn, command_name, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/client.py", line 560, in parse_response
+    response = connection.read_response()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/connection.py", line 512, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/resp2.py", line 15, in read_response
+    result = self._read_response(disable_decoding=disable_decoding)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/resp2.py", line 25, in _read_response
+    raw = self._buffer.readline()
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/socket.py", line 115, in readline
+    self._read_from_socket()
+  File "/opt/py3/lib/python3.11/site-packages/redis/_parsers/socket.py", line 68, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2026-07-02 16:13:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 16:13:59 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 16:13:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 16:13:59 [DEBU] Start subscribe vault change
+2026-07-02 16:13:59 [INFO] Start subscribe for stop job execution
+2026-07-02 16:13:59 [DEBU] Start subscribe setting change
+2026-07-02 16:13:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 16:14:04 beat: Starting...
+2026-07-02 16:14:05 Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+2026-07-02 16:14:05 [DEBU] Create activity log for celery task: 10920efa-e90b-426a-ab3f-7a766dc72262
+2026-07-02 16:14:05 Create activity log for celery task: 10920efa-e90b-426a-ab3f-7a766dc72262

@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Artin Sharp';
+    src: url('ArtinSharp-Bold.eot');
+    src: url('ArtinSharp-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ArtinSharp-Bold.woff2') format('woff2'),
+        url('ArtinSharp-Bold.woff') format('woff'),
+        url('ArtinSharp-Bold.ttf') format('truetype'),
+        url('ArtinSharp-Bold.svg#ArtinSharp-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Artin Sharp';
+    src: url('ArtinSharp.eot');
+    src: url('ArtinSharp.eot?#iefix') format('embedded-opentype'),
+        url('ArtinSharp.woff2') format('woff2'),
+        url('ArtinSharp.woff') format('woff'),
+        url('ArtinSharp.ttf') format('truetype'),
+        url('ArtinSharp.svg#ArtinSharp') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,2 @@
+docker exec -it jms_fa_core sh
+

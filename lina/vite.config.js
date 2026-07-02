@@ -75,7 +75,7 @@ function createCorsOptions() {
 export default defineConfig(({ mode }) => {
   const env = createClientEnv(mode)
   const publicPath = normalizePublicPath(env.VITE_PUBLIC_PATH || '/ui/')
-  const coreHost = env.VITE_CORE_HOST || 'http://127.0.0.1:8081'   // ← CHANGED: Use 8081 (core backend)
+  const coreHost = env.VITE_CORE_HOST || 'http://127.0.0.1:8180'   // ← CHANGED: Use xxxx (core backend)
   const kokoHost = env.VITE_KOKO_HOST || 'http://127.0.0.1:5000'
   const port = Number(process.env.PORT || process.env.port || process.env.npm_config_port || 9528)
 
@@ -129,7 +129,7 @@ export default defineConfig(({ mode }) => {
         '/ws/': createProxy(coreHost, true),
         '/koko/': createProxy(kokoHost, true),
         '/chen/': createProxy('http://127.0.0.1:9523', true),
-        '/guacamole/': createProxy('http://127.0.0.1:8081', true),
+        '/guacamole/': createProxy('http://127.0.0.1:8180', true),
         '/luna/': createProxy('http://127.0.0.1:4200'),
         '/facelive/': createProxy('http://localhost:9999', true),
         '/core/': createProxy(coreHost),

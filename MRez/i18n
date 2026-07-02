@@ -1,0 +1,5 @@
+http://localhost:8180/api/v1/settings/i18n/lina/?lang=fa&flat=0
+
+Invoke-WebRequest `
+  -Uri "http://localhost:8180/api/v1/settings/i18n/lina/?lang=fa&flat=0" `
+  -OutFile fa.json

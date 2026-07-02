@@ -13342,3 +13342,523 @@ you should set broker_connection_retry_on_startup to True.
 2026-07-02 12:29:10 >> Set language to en
 2026-07-02 12:29:10 >> Set org to 00000000-0000-0000-0000-000000000000
 2026-07-02 12:29:10 Task terminal.tasks.clean_orphan_session[78d6a56b-c9f7-4a8c-b236-1848ee76b645] succeeded in 1.0604041009999037s: None
+2026-07-02 12:50:20 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:21 [DEBU] Start subscribe vault change
+2026-07-02 12:50:21 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:21 [DEBU] Start subscribe setting change
+2026-07-02 12:50:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@3305878d988d v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 12:50:23
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7b69b98eec50
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:23 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 12:50:23 Connected to redis://redis:6379/3
+2026-07-02 12:50:23 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 12:50:23 celery@3305878d988d ready.
+2026-07-02 12:50:23 Task users.tasks.check_password_expired_periodic[2790e344-1ed2-410b-ba9c-9152226bf7a6] received
+2026-07-02 12:50:24 Task users.tasks.check_user_expired_periodic[b6e2dbed-cd74-4a7a-839c-3d73a86df273] received
+2026-07-02 12:50:24 >> Set language to en
+2026-07-02 12:50:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:24 Task ops.tasks.clean_celery_periodic_tasks[b2827b15-455b-428e-b731-6155f27afb58] received
+2026-07-02 12:50:24 Task terminal.tasks.clean_orphan_session[462eaec4-436a-47b8-8138-b54b27e5693d] received
+2026-07-02 12:50:24 Task ops.tasks.create_or_update_registered_periodic_tasks[f9f58674-5cd8-4ed0-b70d-ec631cf735bc] received
+2026-07-02 12:50:24 >> Set language to en
+2026-07-02 12:50:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:24 [INFO] Start clean celery periodic tasks.
+2026-07-02 12:50:24 Start clean celery periodic tasks.
+2026-07-02 12:50:24 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:24 Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:24 >> Set language to en
+2026-07-02 12:50:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:24 Task settings.tasks.ldap.import_ldap_user_periodic[104c264a-9bfd-4a20-8e23-845c9bbd5d48] received
+2026-07-02 12:50:24 Task users.tasks.check_user_expired_periodic[b6e2dbed-cd74-4a7a-839c-3d73a86df273] succeeded in 0.23747243500019977s: None
+2026-07-02 12:50:24 >> Set language to en
+2026-07-02 12:50:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:24 Task settings.tasks.ldap.import_ldap_ha_user_periodic[d0c7ff54-9607-41f6-834e-0f2353f41d1a] received
+2026-07-02 12:50:24 >> Set language to en
+2026-07-02 12:50:24 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 12:50:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:24 Task terminal.tasks.delete_terminal_status_period[3b41c32a-32c3-475c-89db-9ee75a4de627] received
+2026-07-02 12:50:24 Schedule is not valid: import_ldap_user_periodic
+2026-07-02 12:50:24 Task settings.tasks.ldap.import_ldap_user_periodic[104c264a-9bfd-4a20-8e23-845c9bbd5d48] succeeded in 0.15214915799970186s: None
+2026-07-02 12:50:24 >> Set language to en
+2026-07-02 12:50:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:24 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 12:50:24 Task terminal.tasks.clean_orphan_session[5b8805e5-934e-4149-9cd9-03f33f433a13] received
+2026-07-02 12:50:24 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:24 Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 12:50:24 Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:24 Task ops.tasks.clean_celery_periodic_tasks[b2827b15-455b-428e-b731-6155f27afb58] succeeded in 0.6187839740000527s: None
+2026-07-02 12:50:24 Task settings.tasks.ldap.import_ldap_ha_user_periodic[d0c7ff54-9607-41f6-834e-0f2353f41d1a] succeeded in 0.4362858829999823s: None
+2026-07-02 12:50:25 >> Set language to en
+2026-07-02 12:50:25 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:25 Task users.tasks.check_password_expired_periodic[2790e344-1ed2-410b-ba9c-9152226bf7a6] succeeded in 1.9926592599999822s: None
+2026-07-02 12:50:25 Task terminal.tasks.clean_orphan_session[462eaec4-436a-47b8-8138-b54b27e5693d] succeeded in 1.2601879140001984s: None
+2026-07-02 12:50:25 >> Set language to en
+2026-07-02 12:50:25 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:25 Task terminal.tasks.delete_terminal_status_period[3b41c32a-32c3-475c-89db-9ee75a4de627] succeeded in 1.3009580819998519s: None
+2026-07-02 12:50:25 >> Set language to en
+2026-07-02 12:50:25 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:25 Task terminal.tasks.clean_orphan_session[5b8805e5-934e-4149-9cd9-03f33f433a13] succeeded in 1.0771296869997968s: None
+2026-07-02 12:50:28 Task ops.tasks.create_or_update_registered_periodic_tasks[f9f58674-5cd8-4ed0-b70d-ec631cf735bc] succeeded in 3.9298677130000215s: None
+2026-07-02 12:50:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:33 [DEBU] Start subscribe vault change
+2026-07-02 12:50:33 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:33 [DEBU] Start subscribe setting change
+2026-07-02 12:50:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:33 pidbox command error: KeyError('No such transport: ')
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 62, in resolve_transport
+    transport = TRANSPORT_ALIASES[transport]
+                ~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 102, in dispatch
+    reply = handle(method, arguments)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 121, in handle_call
+    return self.handle(method, arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 118, in handle
+    return self.handlers[method](self.state, **arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/control.py", line 91, in conf
+    return jsonify(state.app.conf.table(with_defaults=with_defaults),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 186, in table
+    return filt({
+           ^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 343, in filter_hidden_settings
+    return {k: maybe_censor(k, v) for k, v in conf.items()}
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 343, in <dictcomp>
+    return {k: maybe_censor(k, v) for k, v in conf.items()}
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 337, in maybe_censor
+    return Connection(value).as_uri(mask=mask)
+           ^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/connection.py", line 201, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 90, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 71, in resolve_transport
+    raise KeyError(f'No such transport: {transport}')
+KeyError: 'No such transport: '
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- celery@74422cdd43a0 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 12:50:35
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x76fe6ccdeb90
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 12:50:35 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 12:50:35 Connected to redis://redis:6379/3
+2026-07-02 12:50:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 12:50:35 celery@74422cdd43a0 ready.
+2026-07-02 12:50:35 Task users.tasks.check_password_expired_periodic[8f64b25c-ab3c-41a5-adef-7ccfd5065ef6] received
+2026-07-02 12:50:36 Task users.tasks.check_user_expired_periodic[fe43d970-a4d5-4e7e-b613-b5bf7f9655d5] received
+2026-07-02 12:50:36 Task ops.tasks.clean_celery_periodic_tasks[e13875f7-31f4-4cf9-96dd-1d09a557e5b6] received
+2026-07-02 12:50:36 >> Set language to en
+2026-07-02 12:50:36 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:36 Task ops.tasks.create_or_update_registered_periodic_tasks[352f1b9f-d175-462c-89c4-93aa842159dc] received
+2026-07-02 12:50:36 >> Set language to en
+2026-07-02 12:50:36 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:36 Task settings.tasks.ldap.import_ldap_user_periodic[86b71813-3166-4ed4-92c7-3a7b002441db] received
+2026-07-02 12:50:36 Task users.tasks.check_user_expired_periodic[fe43d970-a4d5-4e7e-b613-b5bf7f9655d5] succeeded in 0.2015937760002089s: None
+2026-07-02 12:50:36 Task settings.tasks.ldap.import_ldap_ha_user_periodic[c6d382e6-ceff-40b9-9726-4327bdd5bfdd] received
+2026-07-02 12:50:36 >> Set language to en
+2026-07-02 12:50:36 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:36 Task terminal.tasks.delete_terminal_status_period[1159e2c7-189d-4f21-9142-0598e0ae6370] received
+2026-07-02 12:50:36 Task terminal.tasks.clean_orphan_session[9e746c91-e3e8-47d4-8d56-e674328ce768] received
+2026-07-02 12:50:36 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 12:50:36 Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 12:50:36 Task settings.tasks.ldap.import_ldap_ha_user_periodic[c6d382e6-ceff-40b9-9726-4327bdd5bfdd] succeeded in 0.15367642999990494s: None
+2026-07-02 12:50:36 >> Set language to en
+2026-07-02 12:50:36 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:36 Task terminal.tasks.clean_orphan_session[9e746c91-e3e8-47d4-8d56-e674328ce768] succeeded in 0.07339989399997648s: None
+2026-07-02 12:50:37 >> Set language to en
+2026-07-02 12:50:37 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:37 >> Set language to en
+2026-07-02 12:50:37 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:37 [INFO] Start clean celery periodic tasks.
+2026-07-02 12:50:37 Start clean celery periodic tasks.
+2026-07-02 12:50:37 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:37 Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:37 Task users.tasks.check_password_expired_periodic[8f64b25c-ab3c-41a5-adef-7ccfd5065ef6] succeeded in 1.2746640110003682s: None
+2026-07-02 12:50:37 >> Set language to en
+2026-07-02 12:50:37 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:37 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 12:50:37 Schedule is not valid: import_ldap_user_periodic
+2026-07-02 12:50:37 Task settings.tasks.ldap.import_ldap_user_periodic[86b71813-3166-4ed4-92c7-3a7b002441db] succeeded in 1.1901483949995963s: None
+2026-07-02 12:50:37 >> Set language to en
+2026-07-02 12:50:37 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 12:50:37 Task terminal.tasks.delete_terminal_status_period[1159e2c7-189d-4f21-9142-0598e0ae6370] succeeded in 1.0931947730000502s: None
+2026-07-02 12:50:37 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:37 Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:37 Task ops.tasks.clean_celery_periodic_tasks[e13875f7-31f4-4cf9-96dd-1d09a557e5b6] succeeded in 1.428089805000127s: None
+2026-07-02 12:50:38 Task ops.tasks.create_or_update_registered_periodic_tasks[352f1b9f-d175-462c-89c4-93aa842159dc] succeeded in 2.3967207199998484s: None
+2026-07-02 12:50:38 Events of group {task} enabled by remote.
+2026-07-02 13:00:37 Task terminal.tasks.clean_orphan_session[1f34e828-77aa-4820-981c-73c67601f9cc] received
+2026-07-02 13:00:38 >> Set language to en
+2026-07-02 13:00:38 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:00:38 Task terminal.tasks.clean_orphan_session[1f34e828-77aa-4820-981c-73c67601f9cc] succeeded in 1.0966210239998873s: None
+2026-07-02 13:10:37 Task terminal.tasks.clean_orphan_session[da6fddb2-ef57-4c5f-8de3-e8eed86972bc] received
+2026-07-02 13:10:37 >> Set language to en
+2026-07-02 13:10:37 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:10:37 Task terminal.tasks.clean_orphan_session[da6fddb2-ef57-4c5f-8de3-e8eed86972bc] succeeded in 0.07940362299996195s: None
+2026-07-02 13:20:37 Task terminal.tasks.clean_orphan_session[5ff5de68-df46-4232-aff3-709b4e1aa274] received
+2026-07-02 13:20:39 >> Set language to en
+2026-07-02 13:20:39 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:20:39 Task terminal.tasks.clean_orphan_session[5ff5de68-df46-4232-aff3-709b4e1aa274] succeeded in 1.2446506200003569s: None
+2026-07-02 13:30:37 Task terminal.tasks.clean_orphan_session[50bc6d00-e999-401c-9e08-2784e92bd268] received
+2026-07-02 13:30:37 >> Set language to en
+2026-07-02 13:30:37 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:30:37 Task terminal.tasks.clean_orphan_session[50bc6d00-e999-401c-9e08-2784e92bd268] succeeded in 0.10465019500043127s: None
+2026-07-02 13:38:20 Task users.tasks.check_password_expired_periodic[ed3b1759-e2a4-43ed-8b9f-b840faa5b221] received
+2026-07-02 13:38:20 Task users.tasks.check_password_expired_periodic[e1659b1e-a739-4c82-bab2-02c9be106e47] received
+2026-07-02 13:38:20 Task users.tasks.check_user_expired_periodic[ab280a85-7841-4225-963b-87009460c444] received
+2026-07-02 13:38:20 >> Set language to en
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task users.tasks.check_user_expired_periodic[415fdc11-a7f5-43bd-842d-edcc178465fe] received
+2026-07-02 13:38:20 Task ops.tasks.clean_celery_periodic_tasks[120dbbd6-88c9-4a40-8f61-4209173e47fb] received
+2026-07-02 13:38:20 >> Set language to en
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task ops.tasks.clean_celery_periodic_tasks[72e4df3b-6bf9-4d80-bde6-e223ab616d38] received
+2026-07-02 13:38:20 >> Set language to en
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task ops.tasks.create_or_update_registered_periodic_tasks[5e5de911-5602-43c3-ab5d-0b2d2d02bb8b] received
+2026-07-02 13:38:20 [INFO] Start clean celery periodic tasks.
+2026-07-02 13:38:20 Start clean celery periodic tasks.
+2026-07-02 13:38:20 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 13:38:20 Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 13:38:20 Task users.tasks.check_password_expired_periodic[ed3b1759-e2a4-43ed-8b9f-b840faa5b221] succeeded in 0.23205867199976637s: None
+2026-07-02 13:38:20 Task ops.tasks.create_or_update_registered_periodic_tasks[4de5c2c0-02a4-4fb3-a24d-64a862b34d88] received
+2026-07-02 13:38:20 Task users.tasks.check_password_expired_periodic[e1659b1e-a739-4c82-bab2-02c9be106e47] succeeded in 0.26434662100018613s: None
+2026-07-02 13:38:20 Task settings.tasks.ldap.import_ldap_user_periodic[0656fa8c-44bd-4289-9838-3ace6ed95402] received
+2026-07-02 13:38:20 >> Set language to en
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task settings.tasks.ldap.import_ldap_user_periodic[b86abb7c-e91b-49ff-8686-153ed98e5b23] received
+2026-07-02 13:38:20 >> Set language to en
+_user_expired_periodic[415fdc11-a7f5-43bd-842d-edcc178465fe] succeeded in 0.24234323499968013s: None
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task settings.tasks.ldap.import_ldap_ha_user_periodic[d0a647ad-8ddb-4fa9-af62-9aa45db3a02a] received
+2026-07-02 13:38:20 >> Set language to en
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task settings.tasks.ldap.import_ldap_ha_user_periodic[0a059965-8e3a-4c76-8870-98ce7c887628] received
+2026-07-02 13:38:20 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 13:38:20 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 13:38:20 Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 13:38:20 Task terminal.tasks.delete_terminal_status_period[505b5529-74a4-4f9d-b8f0-0a4b3228ec1c] received
+2026-07-02 13:38:20 Schedule is not valid: import_ldap_user_periodic
+2026-07-02 13:38:20 Task ops.tasks.clean_celery_periodic_tasks[120dbbd6-88c9-4a40-8f61-4209173e47fb] succeeded in 0.37698370900034206s: None
+2026-07-02 13:38:20 Task settings.tasks.ldap.import_ldap_user_periodic[0656fa8c-44bd-4289-9838-3ace6ed95402] succeeded in 0.23656404099983774s: None
+2026-07-02 13:38:20 Task settings.tasks.ldap.import_ldap_user_periodic[b86abb7c-e91b-49ff-8686-153ed98e5b23] succeeded in 0.22676401499938947s: None
+2026-07-02 13:38:20 >> Set language to en
+2026-07-02 13:38:20 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:20 Task terminal.tasks.clean_orphan_session[4d591dd9-4215-45d6-af9c-4b1badab1b52] received
+2026-07-02 13:38:20 Task terminal.tasks.delete_terminal_status_period[505b5529-74a4-4f9d-b8f0-0a4b3228ec1c] succeeded in 0.0763118780005243s: None
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 [INFO] Start clean celery periodic tasks.
+2026-07-02 13:38:21 Start clean celery periodic tasks.
+2026-07-02 13:38:21 Task ops.tasks.clean_celery_periodic_tasks[72e4df3b-6bf9-4d80-bde6-e223ab616d38] succeeded in 1.0574729700001626s: None
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 Task users.tasks.check_user_expired_periodic[ab280a85-7841-4225-963b-87009460c444] succeeded in 1.2309398939996754s: None
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 13:38:21 Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 13:38:21 Task settings.tasks.ldap.import_ldap_ha_user_periodic[d0a647ad-8ddb-4fa9-af62-9aa45db3a02a] succeeded in 1.1251559439997436s: None
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 [WARN] Schedule is not2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 13:38:21 Task settings.tasks.ldap.import_ldap_ha_user_periodic[0a059965-8e3a-4c76-8870-98ce7c887628] succeeded in 1.1989132970002174s: None
+2026-07-02 13:38:21 Task terminal.tasks.delete_terminal_status_period[1166e245-6895-43b6-97aa-95725ac49be6] succeeded in 1.0716610890003722s: None
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 Task terminal.tasks.clean_orphan_session[4d591dd9-4215-45d6-af9c-4b1badab1b52] succeeded in 1.0724410860002536s: None
+2026-07-02 13:38:21 >> Set language to en
+2026-07-02 13:38:21 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:38:21 Task terminal.tasks.clean_orphan_session[9e432727-2934-4240-b35e-cf70f5911359] succeeded in 1.1751600449997568s: None
+2026-07-02 13:38:23 Task ops.tasks.create_or_update_registered_periodic_tasks[4de5c2c0-02a4-4fb3-a24d-64a862b34d88] succeeded in 2.9314591929996823s: None
+2026-07-02 13:38:23 Task ops.tasks.create_or_update_registered_periodic_tasks[5e5de911-5602-43c3-ab5d-0b2d2d02bb8b] succeeded in 3.480737680999482s: None
+2026-07-02 13:48:23 Task terminal.tasks.clean_orphan_session[ee6eb043-1c94-4aa9-a21e-c86b9e71acc6] received
+2026-07-02 13:48:23 >> Set language to en
+2026-07-02 13:48:23 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:48:23 Task terminal.tasks.clean_orphan_session[ee6eb043-1c94-4aa9-a21e-c86b9e71acc6] succeeded in 0.08536695899965707s: None
+2026-07-02 13:50:31 missed heartbeat from celery@523cb8a80159
+2026-07-02 13:50:31 missed heartbeat from ansible@523cb8a80159
+2026-07-02 13:50:34 missed heartbeat from celery@523cb8a80159
+2026-07-02 13:50:34 missed heartbeat from ansible@523cb8a80159
+2026-07-02 13:58:23 Task terminal.tasks.clean_orphan_session[aa692989-e6d5-44ad-95e8-f3f2437f21ba] received
+2026-07-02 13:58:24 >> Set language to en
+2026-07-02 13:58:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 13:58:24 Task terminal.tasks.clean_orphan_session[aa692989-e6d5-44ad-95e8-f3f2437f21ba] succeeded in 1.0996098920004442s: None
+2026-07-02 14:00:00 Task users.tasks.check_unused_users[542d2a49-3252-45ce-85fd-8d59e2293082] received
+2026-07-02 14:00:00 Task users.tasks.check_user_expired[eed7050f-14cb-4083-ae9b-70d3fdfd7c59] received
+2026-07-02 14:00:00 >> Set language to en
+2026-07-02 14:00:00 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:00:00 Task users.tasks.check_user_expired[eed7050f-14cb-4083-ae9b-70d3fdfd7c59] succeeded in 0.1980778819997795s: None
+2026-07-02 14:00:01 >> Set language to en
+2026-07-02 14:00:01 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:00:01 Task users.tasks.check_unused_users[542d2a49-3252-45ce-85fd-8d59e2293082] succeeded in 1.0815482429998156s: None
+2026-07-02 14:08:23 Task terminal.tasks.clean_orphan_session[5f8c70d1-8154-480f-b255-b9a872c7c3d2] received
+2026-07-02 14:08:24 >> Set language to en
+2026-07-02 14:08:24 >> Set org to 00000000-0000-0000-0000-000000000000
+2026-07-02 14:08:24 Task terminal.tasks.clean_orphan_session[5f8c70d1-8154-480f-b255-b9a872c7c3d2] succeeded in 1.0710929699998815s: None

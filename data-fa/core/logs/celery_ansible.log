@@ -1,0 +1,3103 @@
+2026-07-02 13:16:55 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:55 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:55 [DEBU] Start subscribe vault change
+2026-07-02 13:16:55 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:55 [DEBU] Start subscribe setting change
+2026-07-02 13:16:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:12 [DEBU] Start subscribe vault change
+2026-07-02 13:17:12 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:12 [DEBU] Start subscribe setting change
+2026-07-02 13:17:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:29 [DEBU] Start subscribe vault change
+2026-07-02 13:17:29 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:29 [DEBU] Start subscribe setting change
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:54 [DEBU] Start subscribe vault change
+2026-07-02 13:18:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:54 [DEBU] Start subscribe setting change
+2026-07-02 13:18:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:33 [DEBU] Start subscribe vault change
+2026-07-02 13:19:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:33 [DEBU] Start subscribe setting change
+2026-07-02 13:19:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:47 [DEBU] Start subscribe vault change
+2026-07-02 13:19:47 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:47 [DEBU] Start subscribe setting change
+2026-07-02 13:19:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:53 [DEBU] Start subscribe vault change
+2026-07-02 13:19:53 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:53 [DEBU] Start subscribe setting change
+2026-07-02 13:19:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:58 [DEBU] Start subscribe vault change
+2026-07-02 13:19:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:58 [DEBU] Start subscribe setting change
+2026-07-02 13:19:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:03 [DEBU] Start subscribe vault change
+2026-07-02 13:21:03 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:03 [DEBU] Start subscribe setting change
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:24:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:24:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:06 [DEBU] Start subscribe vault change
+2026-07-02 13:24:06 [INFO] Start subscribe for stop job execution
+2026-07-02 13:24:06 [DEBU] Start subscribe setting change
+2026-07-02 13:24:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:25:10 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:25:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:10 [DEBU] Start subscribe vault change
+2026-07-02 13:25:10 [INFO] Start subscribe for stop job execution
+2026-07-02 13:25:10 [DEBU] Start subscribe setting change
+2026-07-02 13:25:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:35 [DEBU] Start subscribe vault change
+2026-07-02 13:31:35 [INFO] Start subscribe for stop job execution
+2026-07-02 13:31:35 [DEBU] Start subscribe setting change
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:17 [DEBU] Start subscribe vault change
+2026-07-02 13:38:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:17 [DEBU] Start subscribe setting change
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@523cb8a80159 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:38:20
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7de06ac73850
+- ** ---------- .> transport:   redis://jms_redis:6379/3
+- ** ---------- .> results:     redis://jms_redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:38:20 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:38:20 Connected to redis://jms_redis:6379/3
+2026-07-02 13:38:20 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:38:20 [DEBU] Work ready signal recv
+2026-07-02 13:38:20 Work ready signal recv
+2026-07-02 13:38:20 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:38:20 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: e1659b1e-a739-4c82-bab2-02c9be106e47
+2026-07-02 13:38:20 Create activity log for celery task: e1659b1e-a739-4c82-bab2-02c9be106e47
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 415fdc11-a7f5-43bd-842d-edcc178465fe
+2026-07-02 13:38:20 Create activity log for celery task: 415fdc11-a7f5-43bd-842d-edcc178465fe
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 72e4df3b-6bf9-4d80-bde6-e223ab616d38
+2026-07-02 13:38:20 Create activity log for celery task: 72e4df3b-6bf9-4d80-bde6-e223ab616d38
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 4de5c2c0-02a4-4fb3-a24d-64a862b34d88
+2026-07-02 13:38:20 Create activity log for celery task: 4de5c2c0-02a4-4fb3-a24d-64a862b34d88
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: b86abb7c-e91b-49ff-8686-153ed98e5b23
+2026-07-02 13:38:20 Create activity log for celery task: b86abb7c-e91b-49ff-8686-153ed98e5b23
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 0a059965-8e3a-4c76-8870-98ce7c887628
+2026-07-02 13:38:20 Create activity log for celery task: 0a059965-8e3a-4c76-8870-98ce7c887628
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 1166e245-6895-43b6-97aa-95725ac49be6
+2026-07-02 13:38:20 Create activity log for celery task: 1166e245-6895-43b6-97aa-95725ac49be6
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 9e432727-2934-4240-b35e-cf70f5911359
+2026-07-02 13:38:20 Create activity log for celery task: 9e432727-2934-4240-b35e-cf70f5911359
+2026-07-02 13:38:20 ansible@523cb8a80159 ready.
+2026-07-02 13:38:23 Events of group {task} enabled by remote.
+2026-07-02 13:50:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe vault change
+2026-07-02 13:50:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:42 [DEBU] Start subscribe setting change
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:50:44
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x705dc706f750
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:50:44 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:50:44 Connected to redis://redis:6379/3
+2026-07-02 13:50:44 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:50:44 [DEBU] Work ready signal recv
+2026-07-02 13:50:44 Work ready signal recv
+2026-07-02 13:50:44 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:50:44 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:50:44 Signal handler <function on_app_ready at 0x705db9e114e0> raised: OperationalError(2002, "Can't connect to server on 'mariadb' (115)")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2002, "Can't connect to server on 'mariadb' (115)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2002, "Can't connect to server on 'mariadb' (115)")
+2026-07-02 13:50:44 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:51:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe vault change
+2026-07-02 13:51:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:17 [DEBU] Start subscribe setting change
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:51:19
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7b39d0f11610
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:19 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:51:19 Connected to redis://redis:6379/3
+2026-07-02 13:51:19 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:51:19 [DEBU] Work ready signal recv
+2026-07-02 13:51:19 Work ready signal recv
+2026-07-02 13:51:19 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:51:19 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:51:19 Signal handler <function on_app_ready at 0x7b39c8129bc0> raised: OperationalError(2002, "Can't connect to server on 'mariadb' (115)")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+MySQLdb.OperationalError: (2002, "Can't connect to server on 'mariadb' (115)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    cursor = self.connection.cursor()
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+           ^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 281, in ensure_connection
+    with self.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/__init__.py", line 121, in Connect
+    return Connection(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 195, in __init__
+    super().__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2002, "Can't connect to server on 'mariadb' (115)")
+2026-07-02 13:51:19 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:51:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe vault change
+2026-07-02 13:51:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:58 [DEBU] Start subscribe setting change
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:51:59
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7113fbdd9250
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:51:59 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:51:59 Connected to redis://redis:6379/3
+2026-07-02 13:51:59 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:51:59 [DEBU] Work ready signal recv
+2026-07-02 13:51:59 Work ready signal recv
+2026-07-02 13:51:59 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:51:59 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:51:59 Signal handler <function on_app_ready at 0x7113ef0f9bc0> raised: ProgrammingError(1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+2026-07-02 13:51:59 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:52:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe vault change
+2026-07-02 13:52:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:52:38 [DEBU] Start subscribe setting change
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:52:40
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7429ebe0af10
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:52:40 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:52:40 Connected to redis://redis:6379/3
+2026-07-02 13:52:40 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:52:40 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:53:12 [DEBU] Worker shutdown signal recv
+2026-07-02 13:53:12 Worker shutdown signal recv
+2026-07-02 13:53:12 [DEBU] Clean period tasks: []
+2026-07-02 13:53:12 Clean period tasks: []
+2026-07-02 13:53:16 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe vault change
+2026-07-02 13:53:16 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:16 [DEBU] Start subscribe setting change
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:53:18
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x72421f1f4cd0
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:18 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:53:18 Connected to redis://redis:6379/3
+2026-07-02 13:53:18 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:53:18 [DEBU] Work ready signal recv
+2026-07-02 13:53:18 Work ready signal recv
+2026-07-02 13:53:18 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:53:18 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:53:18 Signal handler <function on_app_ready at 0x724212301bc0> raised: ProgrammingError(1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+2026-07-02 13:53:18 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:53:49 [DEBU] Worker shutdown signal recv
+2026-07-02 13:53:49 Worker shutdown signal recv
+2026-07-02 13:53:49 [DEBU] Clean period tasks: []
+2026-07-02 13:53:49 Clean period tasks: []
+2026-07-02 13:53:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe vault change
+2026-07-02 13:53:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:54 [DEBU] Start subscribe setting change
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:53:55
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7fa1647a6c50
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:53:56 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:53:56 Connected to redis://redis:6379/3
+2026-07-02 13:53:56 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:53:56 [DEBU] Work ready signal recv
+2026-07-02 13:53:56 Work ready signal recv
+2026-07-02 13:53:56 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:53:56 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:53:56 Signal handler <function on_app_ready at 0x7fa15c01dbc0> raised: ProgrammingError(1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+2026-07-02 13:53:56 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:54:29 [DEBU] Worker shutdown signal recv
+2026-07-02 13:54:29 Worker shutdown signal recv
+2026-07-02 13:54:29 [DEBU] Clean period tasks: []
+2026-07-02 13:54:29 Clean period tasks: []
+2026-07-02 13:54:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe vault change
+2026-07-02 13:54:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:54:33 [DEBU] Start subscribe setting change
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:54:35
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7c03aebd8dd0
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:54:35 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:54:35 Connected to redis://redis:6379/3
+2026-07-02 13:54:35 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:54:35 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:55:06 [DEBU] Worker shutdown signal recv
+2026-07-02 13:55:06 Worker shutdown signal recv
+2026-07-02 13:55:06 [DEBU] Clean period tasks: []
+2026-07-02 13:55:06 Clean period tasks: []
+2026-07-02 13:55:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe vault change
+2026-07-02 13:55:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:11 [DEBU] Start subscribe setting change
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:55:12
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x782932011590
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:12 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:55:12 Connected to redis://redis:6379/3
+2026-07-02 13:55:12 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:55:13 [DEBU] Work ready signal recv
+2026-07-02 13:55:13 Work ready signal recv
+2026-07-02 13:55:13 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:55:13 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:55:13 Signal handler <function on_app_ready at 0x782925125bc0> raised: ProgrammingError(1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+2026-07-02 13:55:13 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:55:45 [DEBU] Worker shutdown signal recv
+2026-07-02 13:55:45 Worker shutdown signal recv
+2026-07-02 13:55:45 [DEBU] Clean period tasks: []
+2026-07-02 13:55:45 Clean period tasks: []
+2026-07-02 13:55:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:49 [DEBU] Start subscribe vault change
+2026-07-02 13:55:50 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:50 [DEBU] Start subscribe setting change
+2026-07-02 13:55:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:55:51
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7f1ccde4c3d0
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:55:51 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:55:51 Connected to redis://redis:6379/3
+2026-07-02 13:55:51 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:55:51 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:56:22 [DEBU] Worker shutdown signal recv
+2026-07-02 13:56:22 Worker shutdown signal recv
+2026-07-02 13:56:22 [DEBU] Clean period tasks: []
+2026-07-02 13:56:22 Clean period tasks: []
+2026-07-02 13:56:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe vault change
+2026-07-02 13:56:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:56:27 [DEBU] Start subscribe setting change
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:56:29
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x70dd87fdd650
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:56:29 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:56:29 Connected to redis://redis:6379/3
+2026-07-02 13:56:29 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:56:29 [DEBU] Work ready signal recv
+2026-07-02 13:56:29 Work ready signal recv
+2026-07-02 13:56:29 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:56:29 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:56:29 Signal handler <function on_app_ready at 0x70dd7b10dbc0> raised: ProgrammingError(1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+2026-07-02 13:56:29 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:57:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:07 [DEBU] Start subscribe vault change
+2026-07-02 13:57:07 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:07 [DEBU] Start subscribe setting change
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:57:08
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x792247de3110
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:08 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:57:08 Connected to redis://redis:6379/3
+2026-07-02 13:57:08 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:57:09 [DEBU] Work ready signal recv
+2026-07-02 13:57:09 Work ready signal recv
+2026-07-02 13:57:09 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:57:09 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:57:09 Signal handler <function on_app_ready at 0x79223b61d940> raised: ProgrammingError(1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/celery/signal_handler.py", line 29, in on_app_ready
+    periodic_task = PeriodicTask.objects.filter(task=task).first()
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1047, in first
+    for obj in (self if self.ordered else self.order_by("pk"))[:1]:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 394, in __iter__
+    self._fetch_all()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1867, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/cursors.py", line 330, in _query
+    db.query(q)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/MySQLdb/connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'jumpserver.django_celery_beat_periodictask' doesn't exist")
+2026-07-02 13:57:09 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:57:42 [DEBU] Worker shutdown signal recv
+2026-07-02 13:57:42 Worker shutdown signal recv
+2026-07-02 13:57:42 [DEBU] Clean period tasks: []
+2026-07-02 13:57:42 Clean period tasks: []
+2026-07-02 13:57:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:46 [DEBU] Start subscribe vault change
+2026-07-02 13:57:46 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:46 [DEBU] Start subscribe setting change
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:57:48
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x73add1479190
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:57:48 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:57:48 Connected to redis://redis:6379/3
+2026-07-02 13:57:48 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:57:48 ansible@352cac9d7b99 ready.
+
+worker: Warm shutdown (MainProcess)
+2026-07-02 13:58:21 [DEBU] Worker shutdown signal recv
+2026-07-02 13:58:21 Worker shutdown signal recv
+2026-07-02 13:58:21 [DEBU] Clean period tasks: []
+2026-07-02 13:58:21 Clean period tasks: []
+2026-07-02 13:58:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe vault change
+2026-07-02 13:58:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:58:26 [DEBU] Start subscribe setting change
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@352cac9d7b99 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 13:58:28
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x749faadbd3d0
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 13:58:28 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:58:28 Connected to redis://redis:6379/3
+2026-07-02 13:58:28 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 13:58:28 [DEBU] Work ready signal recv
+2026-07-02 13:58:28 Work ready signal recv
+2026-07-02 13:58:28 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:58:28 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 9b830aa0-bb09-44d7-97b7-830e089e03d1
+2026-07-02 13:58:28 Create activity log for celery task: 9b830aa0-bb09-44d7-97b7-830e089e03d1
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 5889f025-6f0c-452a-83e4-bff0e9e1dfeb
+2026-07-02 13:58:28 Create activity log for celery task: 5889f025-6f0c-452a-83e4-bff0e9e1dfeb
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 1e2deb2c-b102-42a7-8f07-0b95a6916a94
+2026-07-02 13:58:28 Create activity log for celery task: 1e2deb2c-b102-42a7-8f07-0b95a6916a94
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 6e655fd0-15a8-4129-9609-d403abe832b7
+2026-07-02 13:58:28 Create activity log for celery task: 6e655fd0-15a8-4129-9609-d403abe832b7
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 530c8a4a-bf52-47c5-87fd-1c7f7129e70b
+2026-07-02 13:58:28 Create activity log for celery task: 530c8a4a-bf52-47c5-87fd-1c7f7129e70b
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: efe94401-49ea-4b7b-93c1-a4cb3fa244e4
+2026-07-02 13:58:28 Create activity log for celery task: efe94401-49ea-4b7b-93c1-a4cb3fa244e4
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: da2b2df8-4a0c-4a86-9905-4a7971e741a3
+2026-07-02 13:58:28 Create activity log for celery task: da2b2df8-4a0c-4a86-9905-4a7971e741a3
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 067c66bb-e68d-455a-89cb-1093b5a62a68
+2026-07-02 13:58:28 Create activity log for celery task: 067c66bb-e68d-455a-89cb-1093b5a62a68
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 Signal handler <function task_sent_handler at 0x749f9de33ba0> raised: TransactionManagementError("An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.")
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/apps/ops/signal_handlers.py", line 164, in task_sent_handler
+    CeleryTask.objects.filter(name=task).update(date_last_publish=timezone.now())
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1191, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor = super().execute_sql(result_type)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1398, in execute_sql
+    cursor.execute(sql, params)
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 83, in _execute
+    self.db.validate_no_broken_transaction()
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/django/db/backends/base/base.py", line 520, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2026-07-02 13:58:28 ansible@352cac9d7b99 ready.
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe vault change
+2026-07-02 14:01:14 [INFO] Start subscribe for stop job execution
+2026-07-02 14:01:14 [DEBU] Start subscribe setting change
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:16 pidbox command error: KeyError('No such transport: ')
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 62, in resolve_transport
+    transport = TRANSPORT_ALIASES[transport]
+                ~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 102, in dispatch
+    reply = handle(method, arguments)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 121, in handle_call
+    return self.handle(method, arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/pidbox.py", line 118, in handle
+    return self.handlers[method](self.state, **arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/control.py", line 91, in conf
+    return jsonify(state.app.conf.table(with_defaults=with_defaults),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 186, in table
+    return filt({
+           ^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 343, in filter_hidden_settings
+    return {k: maybe_censor(k, v) for k, v in conf.items()}
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 343, in <dictcomp>
+    return {k: maybe_censor(k, v) for k, v in conf.items()}
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py", line 337, in maybe_censor
+    return Connection(value).as_uri(mask=mask)
+           ^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/connection.py", line 201, in __init__
+    if not get_transport_cls(transport).can_parse_url:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 90, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/jumpserver/.venv/lib/python3.11/site-packages/kombu/transport/__init__.py", line 71, in resolve_transport
+    raise KeyError(f'No such transport: {transport}')
+KeyError: 'No such transport: '
+/opt/jumpserver/.venv/lib/python3.11/site-packages/celery/platforms.py:829: SecurityWarning: You're running the worker with superuser privileges: this is
+absolutely not recommended!
+
+Please specify a different user using the --uid option.
+
+User information: uid=0 euid=0 gid=0 egid=0
+
+  warnings.warn(SecurityWarning(ROOT_DISCOURAGED.format(
+ 
+ -------------- ansible@d4e86b1ce9a4 v5.3.1 (emerald-rush)
+--- ***** ----- 
+-- ******* ---- Linux-6.18.33.1-microsoft-standard-WSL2-x86_64-with-glibc2.41 2026-07-02 14:01:16
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         jumpserver:0x7e1ed1e2e250
+- ** ---------- .> transport:   redis://redis:6379/3
+- ** ---------- .> results:     redis://redis:6379/3
+- *** --- * --- .> concurrency: 10 (thread)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> ansible          exchange=ansible(direct) key=ansible
+                
+
+[tasks]
+  . accounts.tasks.automation.clean_change_secret_and_push_record_period
+  . accounts.tasks.automation.execute_account_automation_task
+  . accounts.tasks.automation.execute_automation_record_task
+  . accounts.tasks.push_account.change_secret_accounts_to_assets_task
+  . accounts.tasks.push_account.push_accounts_to_assets_task
+  . accounts.tasks.remove_account.clean_historical_accounts
+  . accounts.tasks.remove_account.remove_accounts_task
+  . accounts.tasks.template.template_sync_related_accounts
+  . accounts.tasks.vault.sync_secret_to_vault
+  . accounts.tasks.verify_account.verify_accounts_connectivity_task
+  . assets.tasks.automation.execute_asset_automation_task
+  . assets.tasks.gather_facts.gather_assets_facts_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_period_task
+  . assets.tasks.nodes_amount.check_node_assets_amount_task
+  . assets.tasks.ping.test_assets_connectivity_task
+  . assets.tasks.ping_gateway.test_gateways_connectivity_task
+  . audits.tasks.clean_audits_log_period
+  . audits.tasks.upload_ftp_file_to_external_storage
+  . authentication.tasks.clean_django_sessions
+  . authentication.tasks.clean_expire_token
+  . common.tasks.send_mail_async
+  . common.tasks.send_mail_attachment_async
+  . common.tasks.upload_backup_to_obj_storage
+  . common.utils.verify_code.send_sms_async
+  . notifications.notifications.publish_task
+  . ops.tasks.check_server_performance_period
+  . ops.tasks.clean_celery_periodic_tasks
+  . ops.tasks.clean_job_execution_period
+  . ops.tasks.clean_up_unexpected_jobs
+  . ops.tasks.create_or_update_registered_periodic_tasks
+  . ops.tasks.run_ops_job
+  . ops.tasks.run_ops_job_execution
+  . orgs.tasks.refresh_org_cache_task
+  . perms.tasks.check_asset_permission_expired
+  . perms.tasks.check_asset_permission_will_expired
+  . settings.tasks.ldap.import_ldap_ha_user
+  . settings.tasks.ldap.import_ldap_ha_user_periodic
+  . settings.tasks.ldap.import_ldap_user
+  . settings.tasks.ldap.import_ldap_user_periodic
+  . terminal.tasks.applet_host_generate_accounts
+  . terminal.tasks.check_command_replay_storage_connectivity
+  . terminal.tasks.clean_orphan_session
+  . terminal.tasks.delete_terminal_status_period
+  . terminal.tasks.run_applet_host_deployment
+  . terminal.tasks.run_applet_host_deployment_install_applet
+  . terminal.tasks.run_applet_host_deployment_uninstall_applet
+  . terminal.tasks.upload_session_replay_file_to_external_storage
+  . terminal.tasks.upload_session_replay_to_external_storage
+  . users.signal_handlers.clean_expired_user_session_period
+  . users.tasks.check_password_expired
+  . users.tasks.check_password_expired_periodic
+  . users.tasks.check_unused_users
+  . users.tasks.check_user_expired
+  . users.tasks.check_user_expired_periodic
+
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TIMEZONE' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the timezone instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_RESULT_BACKEND' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the result_backend instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_ACCEPT_CONTENT' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the accept_content instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_TASK_SERIALIZER' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_serializer instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/app/utils.py:203: CDeprecationWarning: 
+    The 'CELERY_QUEUES' setting is deprecated and scheduled for removal in
+    version 6.0.0. Use the task_queues instead
+
+  deprecated.warn(description=f'The {setting!r} setting',
+
+2026-07-02 14:01:16 Please run `celery upgrade settings path/to/settings.py` to avoid these warnings and to allow a smoother upgrade to Celery 6.0.
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 14:01:16 Connected to redis://redis:6379/3
+2026-07-02 14:01:16 /opt/jumpserver/.venv/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:498: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+2026-07-02 14:01:16 [DEBU] Work ready signal recv
+2026-07-02 14:01:16 Work ready signal recv
+2026-07-02 14:01:16 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 14:01:16 Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: c3e3695e-33e5-4605-bdba-53f91afc26a0
+2026-07-02 14:01:16 Create activity log for celery task: c3e3695e-33e5-4605-bdba-53f91afc26a0
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: e5f28c8a-659d-4c1c-937f-7a0966516585
+2026-07-02 14:01:16 Create activity log for celery task: e5f28c8a-659d-4c1c-937f-7a0966516585
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: cb03915c-a44d-4829-9bd7-927fe4b85d53
+2026-07-02 14:01:16 Create activity log for celery task: cb03915c-a44d-4829-9bd7-927fe4b85d53
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: d54f7deb-4884-420f-bec2-f00f65308cbe
+2026-07-02 14:01:16 Create activity log for celery task: d54f7deb-4884-420f-bec2-f00f65308cbe
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 09aa4e19-4957-4d0e-b163-ad24751608b2
+2026-07-02 14:01:17 Create activity log for celery task: 09aa4e19-4957-4d0e-b163-ad24751608b2
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 534973e8-6d26-4e73-82a8-eadfc485132e
+2026-07-02 14:01:17 Create activity log for celery task: 534973e8-6d26-4e73-82a8-eadfc485132e
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 736d6bc3-5bfd-4852-8d46-cc17c994a1a9
+2026-07-02 14:01:17 Create activity log for celery task: 736d6bc3-5bfd-4852-8d46-cc17c994a1a9
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 57e916de-ca3a-4361-9646-0753b2c04826
+2026-07-02 14:01:17 Create activity log for celery task: 57e916de-ca3a-4361-9646-0753b2c04826
+2026-07-02 14:01:17 ansible@d4e86b1ce9a4 ready.
+2026-07-02 14:01:21 Events of group {task} enabled by remote.

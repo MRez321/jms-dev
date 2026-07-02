@@ -1936,3 +1936,364 @@ de assets id mapping from memory
 2026-07-02 12:37:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c50921d0f10>
 2026-07-02 12:37:35 [DEBU] Subscription unsubscribed
 2026-07-02 12:37:35 [INFO] Unsubscribed from channel: <redis.client.PubSub object at 0x7c50921d0f10>
+2026-07-02 12:50:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:17 [DEBU] Start subscribe vault change
+2026-07-02 12:50:17 [DEBU] Start subscribe vault change
+2026-07-02 12:50:17 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:17 [DEBU] Start subscribe setting change
+ecution
+2026-07-02 12:50:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:17 [DEBU] Start subscribe setting change
+2026-07-02 12:50:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:20 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:21 [DEBU] Start subscribe vault change
+2026-07-02 12:50:21 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:21 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:21 [DEBU] Start subscribe setting change
+2026-07-02 12:50:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:23 [DEBU] Work ready signal recv
+2026-07-02 12:50:23 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 12:50:23 [DEBU] Create activity log for celery task: 2790e344-1ed2-410b-ba9c-9152226bf7a6
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: b6e2dbed-cd74-4a7a-839c-3d73a86df273
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: b2827b15-455b-428e-b731-6155f27afb58
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: 462eaec4-436a-47b8-8138-b54b27e5693d
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: f9f58674-5cd8-4ed0-b70d-ec631cf735bc
+2026-07-02 12:50:24 [INFO] Start clean celery periodic tasks.
+2026-07-02 12:50:24 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: 104c264a-9bfd-4a20-8e23-845c9bbd5d48
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: d0c7ff54-9607-41f6-834e-0f2353f41d1a
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: 3b41c32a-32c3-475c-89db-9ee75a4de627
+2026-07-02 12:50:24 [DEBU] Create activity log for celery task: 5b8805e5-934e-4149-9cd9-03f33f433a13
+2026-07-02 12:50:24 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 12:50:24 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:28 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 12:50:28 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 12:50:28 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 12:50:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe vault change
+2026-07-02 12:50:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:32 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:32 [DEBU] Start subscribe setting change
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe vault change
+2026-07-02 12:50:32 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:32 [DEBU] Start subscribe setting change
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe vault change
+2026-07-02 12:50:32 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:32 [DEBU] Start subscribe setting change
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe vault change
+2026-07-02 12:50:32 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:32 [DEBU] Start subscribe setting change
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:32 [DEBU] Start subscribe vault change
+2026-07-02 12:50:32 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:32 [DEBU] Start subscribe setting change
+2026-07-02 12:50:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 12:50:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 12:50:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:33 [DEBU] Start subscribe vault change
+2026-07-02 12:50:33 [INFO] Start subscribe for stop job execution
+2026-07-02 12:50:33 [DEBU] Start subscribe setting change
+2026-07-02 12:50:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 12:50:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:50:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:50:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:50:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:50:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:50:35 [DEBU] Work ready signal recv
+2026-07-02 12:50:35 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 12:50:35 [DEBU] Create activity log for celery task: 8f64b25c-ab3c-41a5-adef-7ccfd5065ef6
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: fe43d970-a4d5-4e7e-b613-b5bf7f9655d5
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: e13875f7-31f4-4cf9-96dd-1d09a557e5b6
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: 352f1b9f-d175-462c-89c4-93aa842159dc
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: 86b71813-3166-4ed4-92c7-3a7b002441db
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: c6d382e6-ceff-40b9-9726-4327bdd5bfdd
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: 1159e2c7-189d-4f21-9142-0598e0ae6370
+2026-07-02 12:50:36 [DEBU] Create activity log for celery task: 9e746c91-e3e8-47d4-8d56-e674328ce768
+2026-07-02 12:50:36 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 12:50:37 [INFO] Start clean celery periodic tasks.
+2026-07-02 12:50:37 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:50:37 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 12:50:37 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 12:51:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 12:51:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 12:51:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:51:35 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 12:51:35 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 12:51:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:52:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:52:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:53:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:53:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 12:53:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 12:53:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:54:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:54:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:55:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:55:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:56:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:56:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:57:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:57:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 12:57:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 12:57:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:58:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:58:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:59:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 12:59:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 12:59:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 12:59:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:00:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:00:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:00:37 [DEBU] Create activity log for celery task: 1f34e828-77aa-4820-981c-73c67601f9cc
+2026-07-02 13:01:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:01:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:01:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:01:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:02:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:02:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:03:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:03:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:04:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:04:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:04:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:04:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:05:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:05:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:06:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:06:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:06:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:06:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:07:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:07:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:08:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:08:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:08:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:08:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:09:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:09:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:10:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:10:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:10:37 [DEBU] Create activity log for celery task: da6fddb2-ef57-4c5f-8de3-e8eed86972bc
+2026-07-02 13:11:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:11:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:11:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:11:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:12:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:12:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:13:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:13:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:13:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:13:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:14:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:14:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:15:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:15:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:15:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:15:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:16:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:16:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:17:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:17:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:17:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:17:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:18:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:18:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:19:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:19:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:19:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:19:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:20:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:20:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:20:37 [DEBU] Create activity log for celery task: 5ff5de68-df46-4232-aff3-709b4e1aa274
+2026-07-02 13:21:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:21:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:21:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:21:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:22:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:22:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:23:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:23:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:23:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:23:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:24:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:24:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:25:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:25:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:25:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:25:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:26:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:26:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:27:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:27:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:27:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:27:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:28:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:28:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:29:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:29:35 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:29:35 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:29:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:30:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:30:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:30:37 [DEBU] Create activity log for celery task: 50bc6d00-e999-401c-9e08-2784e92bd268
+2026-07-02 13:31:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:31:35 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 13:31:35 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 13:31:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:32:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:32:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:33:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:33:35 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:34:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:34:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:35:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:35:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:36:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:36:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:36:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:36:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:37:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:37:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:38:20 [INFO] Start clean celery periodic tasks.
+2026-07-02 13:38:20 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 13:38:20 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 13:38:20 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 13:38:21 [INFO] Start clean celery periodic tasks.
+2026-07-02 13:38:21 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 13:38:21 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 13:38:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:38:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:38:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 13:38:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 13:38:42 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 13:38:42 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 13:38:42 [WARN] Unauthorized: /api/v1/users/profile/
+2026-07-02 13:38:43 [WARN] Forbidden: /api/v1/authentication/user-session/
+2026-07-02 13:39:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:39:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:39:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:39:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:40:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:40:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:40:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:40:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:41:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:41:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:42:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:42:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:42:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:42:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:43:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:43:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:44:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:44:36 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 13:44:36 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 13:44:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:45:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:45:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:46:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:46:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:46:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:46:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:47:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:47:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:47:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:47:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:48:23 [DEBU] Create activity log for celery task: ee6eb043-1c94-4aa9-a21e-c86b9e71acc6
+2026-07-02 13:48:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:48:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:49:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:49:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:50:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:50:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:50:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:50:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:51:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:51:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:52:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:52:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:53:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:53:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:53:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:53:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:54:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:54:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:55:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:55:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:56:34 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:56:34 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:56:34 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:56:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:57:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:57:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 13:57:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 13:57:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:58:23 [DEBU] Create activity log for celery task: aa692989-e6d5-44ad-95e8-f3f2437f21ba
+2026-07-02 13:58:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:58:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:59:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 13:59:36 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 13:59:36 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 13:59:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:00:00 [DEBU] Create activity log for celery task: 542d2a49-3252-45ce-85fd-8d59e2293082
+2026-07-02 14:00:00 [DEBU] Create activity log for celery task: eed7050f-14cb-4083-ae9b-70d3fdfd7c59
+2026-07-02 14:00:33 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:00:33 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:00:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:00:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:36 [DEBU] pid 26 executor submit run update_user_last_used
+2026-07-02 14:01:36 [DEBU] pid 26 executor submit run update_token_last_used
+2026-07-02 14:01:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:02:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:02:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:02:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:02:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:03:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:03:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:04:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:04:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:04:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:04:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:05:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:05:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:06:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:06:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:06:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:06:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:07:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:07:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:08:23 [DEBU] Create activity log for celery task: 5f8c70d1-8154-480f-b255-b9a872c7c3d2
+2026-07-02 14:08:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:08:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:09:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:09:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:09:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:09:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:10:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:10:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:11:33 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:11:36 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:11:36 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:11:36 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True

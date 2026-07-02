@@ -57,6 +57,9 @@ COPY --from=stage-build /opt /opt
 COPY --from=stage-build /usr/local/bin /usr/local/bin
 COPY --from=stage-build /opt/jumpserver/apps/libs/ansible/ansible.cfg /etc/ansible/
 
+RUN mkdir -p /opt/jumpserver/tmp \
+    && chmod 755 /opt/jumpserver/tmp
+
 WORKDIR /opt/jumpserver
 
 VOLUME /opt/jumpserver/data

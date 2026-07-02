@@ -1098,3 +1098,1854 @@ id mapping from memory
 2026-07-01 20:41:58 [DEBU] Start subscribe vault change
 2026-07-01 20:41:58 [INFO] Start subscribe for stop job execution
 2026-07-01 20:41:58 [DEBU] Start subscribe setting change
+2026-07-02 13:16:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:27 [DEBU] Start subscribe vault change
+2026-07-02 13:16:27 [DEBU] Start subscribe vault change
+2026-07-02 13:16:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:27 [DEBU] Start subscribe setting change
+2026-07-02 13:16:27 [DEBU] Start subscribe setting change
+2026-07-02 13:16:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:31 [DEBU] Start subscribe vault change
+2026-07-02 13:16:31 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:31 [DEBU] Start subscribe setting change
+2026-07-02 13:16:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:37 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:37 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:37 [DEBU] Start subscribe vault change
+2026-07-02 13:16:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:38 [DEBU] Start subscribe setting change
+2026-07-02 13:16:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:39 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:39 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:39 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:39 [DEBU] Start subscribe vault change
+2026-07-02 13:16:39 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:39 [DEBU] Start subscribe setting change
+2026-07-02 13:16:39 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:42 [DEBU] Start subscribe vault change
+2026-07-02 13:16:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:42 [DEBU] Start subscribe setting change
+2026-07-02 13:16:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:44 [DEBU] Start subscribe vault change
+2026-07-02 13:16:44 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:44 [DEBU] Start subscribe setting change
+2026-07-02 13:16:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:48 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:48 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:48 [DEBU] Start subscribe vault change
+2026-07-02 13:16:48 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:48 [DEBU] Start subscribe setting change
+2026-07-02 13:16:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:49 [DEBU] Start subscribe vault change
+2026-07-02 13:16:49 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:49 [DEBU] Start subscribe setting change
+2026-07-02 13:16:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:49 [DEBU] Start subscribe vault change
+2026-07-02 13:16:49 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:49 [DEBU] Start subscribe setting change
+2026-07-02 13:16:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:53 [DEBU] Start subscribe vault change
+2026-07-02 13:16:53 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:53 [DEBU] Start subscribe setting change
+2026-07-02 13:16:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:55 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:55 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:55 [DEBU] Start subscribe vault change
+2026-07-02 13:16:55 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:55 [DEBU] Start subscribe setting change
+2026-07-02 13:16:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:59 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:16:59 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:16:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:16:59 [DEBU] Start subscribe vault change
+2026-07-02 13:16:59 [INFO] Start subscribe for stop job execution
+2026-07-02 13:16:59 [DEBU] Start subscribe setting change
+2026-07-02 13:16:59 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:00 [DEBU] Start subscribe vault change
+2026-07-02 13:17:00 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:00 [DEBU] Start subscribe setting change
+2026-07-02 13:17:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:02 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:02 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:02 [DEBU] Start subscribe vault change
+2026-07-02 13:17:02 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:02 [DEBU] Start subscribe setting change
+2026-07-02 13:17:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:08 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:08 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:08 [DEBU] Start subscribe vault change
+2026-07-02 13:17:08 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:08 [DEBU] Start subscribe setting change
+2026-07-02 13:17:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:11 [DEBU] Start subscribe vault change
+2026-07-02 13:17:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:11 [DEBU] Start subscribe setting change
+2026-07-02 13:17:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:12 [DEBU] Start subscribe vault change
+2026-07-02 13:17:12 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:12 [DEBU] Start subscribe setting change
+2026-07-02 13:17:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:18 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:18 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:18 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:18 [DEBU] Start subscribe vault change
+2026-07-02 13:17:18 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:18 [DEBU] Start subscribe setting change
+2026-07-02 13:17:18 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:27 [DEBU] Start subscribe vault change
+2026-07-02 13:17:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:27 [DEBU] Start subscribe setting change
+2026-07-02 13:17:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:29 [DEBU] Start subscribe vault change
+2026-07-02 13:17:29 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:29 [DEBU] Start subscribe setting change
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:29 [DEBU] Start subscribe vault change
+2026-07-02 13:17:29 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:29 [DEBU] Start subscribe setting change
+2026-07-02 13:17:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:38 [DEBU] Start subscribe vault change
+2026-07-02 13:17:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:38 [DEBU] Start subscribe setting change
+2026-07-02 13:17:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:48 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:48 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:48 [DEBU] Start subscribe vault change
+2026-07-02 13:17:48 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:48 [DEBU] Start subscribe setting change
+2026-07-02 13:17:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:57 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:57 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:57 [DEBU] Start subscribe vault change
+2026-07-02 13:17:57 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:57 [DEBU] Start subscribe setting change
+2026-07-02 13:17:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:57 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:17:57 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:17:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:17:57 [DEBU] Start subscribe vault change
+2026-07-02 13:17:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:17:58 [DEBU] Start subscribe setting change
+2026-07-02 13:17:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:08 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:08 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:08 [DEBU] Start subscribe vault change
+2026-07-02 13:18:08 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:08 [DEBU] Start subscribe setting change
+2026-07-02 13:18:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:19 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:19 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:19 [DEBU] Start subscribe vault change
+2026-07-02 13:18:19 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:19 [DEBU] Start subscribe setting change
+2026-07-02 13:18:19 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:28 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:28 [DEBU] Start subscribe vault change
+2026-07-02 13:18:28 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:28 [DEBU] Start subscribe setting change
+2026-07-02 13:18:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:39 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:39 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:39 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:39 [DEBU] Start subscribe vault change
+2026-07-02 13:18:39 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:39 [DEBU] Start subscribe setting change
+2026-07-02 13:18:39 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:49 [DEBU] Start subscribe vault change
+2026-07-02 13:18:49 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:49 [DEBU] Start subscribe setting change
+2026-07-02 13:18:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:52 [DEBU] Start subscribe vault change
+2026-07-02 13:18:52 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:52 [DEBU] Start subscribe setting change
+2026-07-02 13:18:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:54 [DEBU] Start subscribe vault change
+2026-07-02 13:18:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:54 [DEBU] Start subscribe setting change
+2026-07-02 13:18:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:18:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:18:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:18:58 [DEBU] Start subscribe vault change
+2026-07-02 13:18:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:18:58 [DEBU] Start subscribe setting change
+2026-07-02 13:18:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:09 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:09 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:09 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:09 [DEBU] Start subscribe vault change
+2026-07-02 13:19:09 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:09 [DEBU] Start subscribe setting change
+2026-07-02 13:19:09 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:18 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:18 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:18 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:18 [DEBU] Start subscribe vault change
+2026-07-02 13:19:18 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:18 [DEBU] Start subscribe setting change
+2026-07-02 13:19:18 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:31 [DEBU] Start subscribe vault change
+2026-07-02 13:19:31 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:31 [DEBU] Start subscribe setting change
+2026-07-02 13:19:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:31 [DEBU] Start subscribe vault change
+2026-07-02 13:19:31 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:31 [DEBU] Start subscribe setting change
+2026-07-02 13:19:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:33 [DEBU] Start subscribe vault change
+2026-07-02 13:19:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:33 [DEBU] Start subscribe setting change
+2026-07-02 13:19:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:36 [DEBU] Start subscribe vault change
+2026-07-02 13:19:36 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:36 [DEBU] Start subscribe setting change
+2026-07-02 13:19:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:37 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:37 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:37 [DEBU] Start subscribe vault change
+2026-07-02 13:19:37 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:37 [DEBU] Start subscribe setting change
+2026-07-02 13:19:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:40 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:40 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:40 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:40 [DEBU] Start subscribe vault change
+2026-07-02 13:19:41 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:41 [DEBU] Start subscribe setting change
+2026-07-02 13:19:41 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:42 [DEBU] Start subscribe vault change
+2026-07-02 13:19:43 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:43 [DEBU] Start subscribe setting change
+2026-07-02 13:19:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:45 [DEBU] Start subscribe vault change
+2026-07-02 13:19:45 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:45 [DEBU] Start subscribe setting change
+2026-07-02 13:19:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:47 [DEBU] Start subscribe vault change
+2026-07-02 13:19:47 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:47 [DEBU] Start subscribe setting change
+2026-07-02 13:19:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:51 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:51 [DEBU] Start subscribe vault change
+2026-07-02 13:19:51 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:51 [DEBU] Start subscribe setting change
+2026-07-02 13:19:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:53 [DEBU] Start subscribe vault change
+2026-07-02 13:19:53 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:53 [DEBU] Start subscribe setting change
+2026-07-02 13:19:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:54 [DEBU] Start subscribe vault change
+2026-07-02 13:19:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:54 [DEBU] Start subscribe setting change
+2026-07-02 13:19:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:57 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:57 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:57 [DEBU] Start subscribe vault change
+2026-07-02 13:19:57 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:57 [DEBU] Start subscribe setting change
+2026-07-02 13:19:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:19:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:19:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:19:58 [DEBU] Start subscribe vault change
+2026-07-02 13:19:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:19:58 [DEBU] Start subscribe setting change
+2026-07-02 13:19:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:04 [DEBU] Start subscribe vault change
+2026-07-02 13:20:04 [DEBU] Start subscribe vault change
+2026-07-02 13:20:04 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:04 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:04 [DEBU] Start subscribe setting change
+2026-07-02 13:20:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:06 [DEBU] Start subscribe vault change
+2026-07-02 13:20:06 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:06 [DEBU] Start subscribe setting change
+2026-07-02 13:20:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:13 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:13 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:13 [DEBU] Start subscribe vault change
+2026-07-02 13:20:14 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:14 [DEBU] Start subscribe setting change
+2026-07-02 13:20:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:14 [DEBU] Start subscribe vault change
+2026-07-02 13:20:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:15 [DEBU] Start subscribe setting change
+2026-07-02 13:20:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:24 [DEBU] Start subscribe vault change
+2026-07-02 13:20:24 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:24 [DEBU] Start subscribe setting change
+2026-07-02 13:20:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:32 [DEBU] Start subscribe vault change
+2026-07-02 13:20:32 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:32 [DEBU] Start subscribe setting change
+2026-07-02 13:20:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:33 [DEBU] Start subscribe vault change
+2026-07-02 13:20:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:33 [DEBU] Start subscribe setting change
+2026-07-02 13:20:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:34 [DEBU] Start subscribe vault change
+2026-07-02 13:20:34 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:34 [DEBU] Start subscribe setting change
+2026-07-02 13:20:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:43 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:43 [DEBU] Start subscribe vault change
+2026-07-02 13:20:43 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:43 [DEBU] Start subscribe setting change
+2026-07-02 13:20:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:20:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:20:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:20:54 [DEBU] Start subscribe vault change
+2026-07-02 13:20:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:20:54 [DEBU] Start subscribe setting change
+2026-07-02 13:20:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:01 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:01 [DEBU] Start subscribe vault change
+2026-07-02 13:21:02 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:02 [DEBU] Start subscribe setting change
+2026-07-02 13:21:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:03 [DEBU] Start subscribe vault change
+2026-07-02 13:21:03 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:03 [DEBU] Start subscribe setting change
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:03 [DEBU] Start subscribe vault change
+2026-07-02 13:21:03 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:03 [DEBU] Start subscribe setting change
+2026-07-02 13:21:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:13 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:13 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:13 [DEBU] Start subscribe vault change
+2026-07-02 13:21:13 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:13 [DEBU] Start subscribe setting change
+2026-07-02 13:21:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:23 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:23 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:23 [DEBU] Start subscribe vault change
+2026-07-02 13:21:23 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:23 [DEBU] Start subscribe setting change
+2026-07-02 13:21:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:33 [DEBU] Start subscribe vault change
+2026-07-02 13:21:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:33 [DEBU] Start subscribe setting change
+2026-07-02 13:21:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:43 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:43 [DEBU] Start subscribe vault change
+2026-07-02 13:21:43 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:43 [DEBU] Start subscribe setting change
+2026-07-02 13:21:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:53 [DEBU] Start subscribe vault change
+2026-07-02 13:21:53 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:53 [DEBU] Start subscribe setting change
+2026-07-02 13:21:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:57 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:57 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:57 [DEBU] Start subscribe vault change
+2026-07-02 13:21:57 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:57 [DEBU] Start subscribe setting change
+2026-07-02 13:21:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:21:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:21:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:21:58 [DEBU] Start subscribe vault change
+2026-07-02 13:21:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:21:58 [DEBU] Start subscribe setting change
+2026-07-02 13:21:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:22:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:22:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:22:05 [DEBU] Start subscribe vault change
+2026-07-02 13:22:05 [INFO] Start subscribe for stop job execution
+2026-07-02 13:22:05 [DEBU] Start subscribe setting change
+2026-07-02 13:22:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:22:20 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:22:20 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:22:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:22:20 [DEBU] Start subscribe vault change
+2026-07-02 13:22:20 [INFO] Start subscribe for stop job execution
+2026-07-02 13:22:20 [DEBU] Start subscribe setting change
+2026-07-02 13:22:20 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:22:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:22:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:22:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:22:42 [DEBU] Start subscribe vault change
+2026-07-02 13:22:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:22:42 [DEBU] Start subscribe setting change
+2026-07-02 13:22:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:23:01 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:23:01 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:23:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:23:01 [DEBU] Start subscribe vault change
+2026-07-02 13:23:01 [INFO] Start subscribe for stop job execution
+2026-07-02 13:23:01 [DEBU] Start subscribe setting change
+2026-07-02 13:23:01 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:23:02 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:23:02 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:23:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:23:02 [DEBU] Start subscribe vault change
+2026-07-02 13:23:02 [INFO] Start subscribe for stop job execution
+2026-07-02 13:23:02 [DEBU] Start subscribe setting change
+2026-07-02 13:23:02 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:23:16 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:23:16 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:23:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:23:16 [DEBU] Start subscribe vault change
+2026-07-02 13:23:16 [INFO] Start subscribe for stop job execution
+2026-07-02 13:23:16 [DEBU] Start subscribe setting change
+2026-07-02 13:23:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:04 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:24:04 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:24:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:04 [DEBU] Start subscribe vault change
+2026-07-02 13:24:04 [INFO] Start subscribe for stop job execution
+2026-07-02 13:24:04 [DEBU] Start subscribe setting change
+2026-07-02 13:24:04 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:24:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:24:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:06 [DEBU] Start subscribe vault change
+2026-07-02 13:24:06 [INFO] Start subscribe for stop job execution
+2026-07-02 13:24:06 [DEBU] Start subscribe setting change
+2026-07-02 13:24:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:24:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:24:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:24:17 [DEBU] Start subscribe vault change
+2026-07-02 13:24:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:24:17 [DEBU] Start subscribe setting change
+2026-07-02 13:24:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:08 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:25:08 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:25:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:08 [DEBU] Start subscribe vault change
+2026-07-02 13:25:08 [INFO] Start subscribe for stop job execution
+2026-07-02 13:25:08 [DEBU] Start subscribe setting change
+2026-07-02 13:25:08 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:10 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:25:10 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:25:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:10 [DEBU] Start subscribe vault change
+2026-07-02 13:25:10 [INFO] Start subscribe for stop job execution
+2026-07-02 13:25:10 [DEBU] Start subscribe setting change
+2026-07-02 13:25:10 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:25:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:25:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:25:26 [DEBU] Start subscribe vault change
+2026-07-02 13:25:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:25:26 [DEBU] Start subscribe setting change
+2026-07-02 13:25:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:26:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:26:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:12 [DEBU] Start subscribe vault change
+2026-07-02 13:26:12 [INFO] Start subscribe for stop job execution
+2026-07-02 13:26:12 [DEBU] Start subscribe setting change
+2026-07-02 13:26:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:26:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:26:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:35 [DEBU] Start subscribe vault change
+2026-07-02 13:26:35 [INFO] Start subscribe for stop job execution
+2026-07-02 13:26:35 [DEBU] Start subscribe setting change
+2026-07-02 13:26:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:26:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:26:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:46 [DEBU] Start subscribe vault change
+2026-07-02 13:26:46 [INFO] Start subscribe for stop job execution
+2026-07-02 13:26:46 [DEBU] Start subscribe setting change
+2026-07-02 13:26:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:26:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:26:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:26:56 [DEBU] Start subscribe vault change
+2026-07-02 13:26:57 [INFO] Start subscribe for stop job execution
+2026-07-02 13:26:57 [DEBU] Start subscribe setting change
+2026-07-02 13:26:57 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:27:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:27:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:06 [DEBU] Start subscribe vault change
+2026-07-02 13:27:07 [INFO] Start subscribe for stop job execution
+2026-07-02 13:27:07 [DEBU] Start subscribe setting change
+2026-07-02 13:27:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:27:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:27:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:17 [DEBU] Start subscribe vault change
+2026-07-02 13:27:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:27:17 [DEBU] Start subscribe setting change
+2026-07-02 13:27:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:18 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:27:18 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:27:18 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:18 [DEBU] Start subscribe vault change
+2026-07-02 13:27:18 [INFO] Start subscribe for stop job execution
+2026-07-02 13:27:18 [DEBU] Start subscribe setting change
+2026-07-02 13:27:18 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:28 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:27:28 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:27:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:28 [DEBU] Start subscribe vault change
+2026-07-02 13:27:28 [INFO] Start subscribe for stop job execution
+2026-07-02 13:27:28 [DEBU] Start subscribe setting change
+2026-07-02 13:27:28 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:27:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:27:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:38 [DEBU] Start subscribe vault change
+2026-07-02 13:27:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:27:38 [DEBU] Start subscribe setting change
+2026-07-02 13:27:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:27:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:27:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:27:49 [DEBU] Start subscribe vault change
+2026-07-02 13:27:49 [INFO] Start subscribe for stop job execution
+2026-07-02 13:27:49 [DEBU] Start subscribe setting change
+2026-07-02 13:27:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:28:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:28:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:00 [DEBU] Start subscribe vault change
+2026-07-02 13:28:00 [INFO] Start subscribe for stop job execution
+2026-07-02 13:28:00 [DEBU] Start subscribe setting change
+2026-07-02 13:28:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:13 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:28:13 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:28:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:13 [DEBU] Start subscribe vault change
+2026-07-02 13:28:13 [INFO] Start subscribe for stop job execution
+2026-07-02 13:28:13 [DEBU] Start subscribe setting change
+2026-07-02 13:28:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:22 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:28:22 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:28:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:22 [DEBU] Start subscribe vault change
+2026-07-02 13:28:22 [INFO] Start subscribe for stop job execution
+2026-07-02 13:28:22 [DEBU] Start subscribe setting change
+2026-07-02 13:28:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:29 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:28:29 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:28:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:29 [DEBU] Start subscribe vault change
+2026-07-02 13:28:29 [INFO] Start subscribe for stop job execution
+2026-07-02 13:28:29 [DEBU] Start subscribe setting change
+2026-07-02 13:28:29 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:51 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:28:51 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:28:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:28:51 [DEBU] Start subscribe vault change
+2026-07-02 13:28:51 [INFO] Start subscribe for stop job execution
+2026-07-02 13:28:51 [DEBU] Start subscribe setting change
+2026-07-02 13:28:51 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:29:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:29:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:29:26 [DEBU] Start subscribe vault change
+2026-07-02 13:29:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:29:26 [DEBU] Start subscribe setting change
+2026-07-02 13:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:29:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:29:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:29:26 [DEBU] Start subscribe vault change
+2026-07-02 13:29:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:29:26 [DEBU] Start subscribe setting change
+2026-07-02 13:29:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:29:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:29:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:29:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:29:27 [DEBU] Start subscribe vault change
+2026-07-02 13:29:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:29:27 [DEBU] Start subscribe setting change
+2026-07-02 13:29:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:30:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:30:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:30:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:30:26 [DEBU] Start subscribe vault change
+2026-07-02 13:30:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:30:26 [DEBU] Start subscribe setting change
+2026-07-02 13:30:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:30:30 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:30:30 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:30:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:30:30 [DEBU] Start subscribe vault change
+2026-07-02 13:30:30 [INFO] Start subscribe for stop job execution
+2026-07-02 13:30:30 [DEBU] Start subscribe setting change
+2026-07-02 13:30:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:30:31 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:30:31 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:30:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:30:31 [DEBU] Start subscribe vault change
+2026-07-02 13:30:31 [INFO] Start subscribe for stop job execution
+2026-07-02 13:30:31 [DEBU] Start subscribe setting change
+2026-07-02 13:30:31 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:34 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:31:34 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:34 [DEBU] Start subscribe vault change
+2026-07-02 13:31:34 [INFO] Start subscribe for stop job execution
+2026-07-02 13:31:34 [DEBU] Start subscribe setting change
+2026-07-02 13:31:34 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:35 [DEBU] Start subscribe vault change
+2026-07-02 13:31:35 [INFO] Start subscribe for stop job execution
+2026-07-02 13:31:35 [DEBU] Start subscribe setting change
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:31:35 [DEBU] Start subscribe vault change
+2026-07-02 13:31:35 [INFO] Start subscribe for stop job execution
+2026-07-02 13:31:35 [DEBU] Start subscribe setting change
+2026-07-02 13:31:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:32:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:32:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:32:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:32:38 [DEBU] Start subscribe vault change
+2026-07-02 13:32:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:32:38 [DEBU] Start subscribe setting change
+2026-07-02 13:32:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:32:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:32:43 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:32:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:32:43 [DEBU] Start subscribe vault change
+2026-07-02 13:32:43 [INFO] Start subscribe for stop job execution
+2026-07-02 13:32:43 [DEBU] Start subscribe setting change
+2026-07-02 13:32:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:33:41 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:33:41 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:33:41 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:33:41 [DEBU] Start subscribe vault change
+2026-07-02 13:33:41 [INFO] Start subscribe for stop job execution
+2026-07-02 13:33:41 [DEBU] Start subscribe setting change
+2026-07-02 13:33:41 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:33:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:33:43 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:33:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:33:43 [DEBU] Start subscribe vault change
+2026-07-02 13:33:43 [INFO] Start subscribe for stop job execution
+2026-07-02 13:33:43 [DEBU] Start subscribe setting change
+2026-07-02 13:33:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:33:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:33:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:33:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:33:53 [DEBU] Start subscribe vault change
+2026-07-02 13:33:53 [INFO] Start subscribe for stop job execution
+2026-07-02 13:33:53 [DEBU] Start subscribe setting change
+2026-07-02 13:33:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:34:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:34:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:34:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:34:45 [DEBU] Start subscribe vault change
+2026-07-02 13:34:45 [INFO] Start subscribe for stop job execution
+2026-07-02 13:34:45 [DEBU] Start subscribe setting change
+2026-07-02 13:34:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:35:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:35:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:35:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:35:03 [DEBU] Start subscribe vault change
+2026-07-02 13:35:03 [INFO] Start subscribe for stop job execution
+2026-07-02 13:35:03 [DEBU] Start subscribe setting change
+2026-07-02 13:35:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:35:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:35:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:35:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:35:49 [DEBU] Start subscribe vault change
+2026-07-02 13:35:49 [INFO] Start subscribe for stop job execution
+2026-07-02 13:35:49 [DEBU] Start subscribe setting change
+2026-07-02 13:35:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:11 [DEBU] Start subscribe vault change
+2026-07-02 13:38:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:11 [DEBU] Start subscribe setting change
+data/system/leak_passwords.db
+2026-07-02 13:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:11 [DEBU] Start subscribe vault change
+2026-07-02 13:38:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:11 [DEBU] Start subscribe setting change
+2026-07-02 13:38:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:17 [DEBU] Start subscribe vault change
+2026-07-02 13:38:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:17 [DEBU] Start subscribe setting change
+2026-07-02 13:38:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:20 [DEBU] Work ready signal recv
+2026-07-02 13:38:20 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: e1659b1e-a739-4c82-bab2-02c9be106e47
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: ab280a85-7841-4225-963b-87009460c444
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 415fdc11-a7f5-43bd-842d-edcc178465fe
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 120dbbd6-88c9-4a40-8f61-4209173e47fb
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 72e4df3b-6bf9-4d80-bde6-e223ab616d38
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 5e5de911-5602-43c3-ab5d-0b2d2d02bb8b
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 4de5c2c0-02a4-4fb3-a24d-64a862b34d88
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 0656fa8c-44bd-4289-9838-3ace6ed95402
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: b86abb7c-e91b-49ff-8686-153ed98e5b23
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: d0a647ad-8ddb-4fa9-af62-9aa45db3a02a
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 0a059965-8e3a-4c76-8870-98ce7c887628
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 1166e245-6895-43b6-97aa-95725ac49be6
+2026-07-02 13:38:20 [DEBU] Create activity log for celery task: 9e432727-2934-4240-b35e-cf70f5911359
+2026-07-02 13:38:23 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:23 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:23 [DEBU] Start subscribe vault change
+2026-07-02 13:38:23 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:23 [DEBU] Start subscribe setting change
+2026-07-02 13:38:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:33 [DEBU] Start subscribe vault change
+2026-07-02 13:38:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:33 [DEBU] Start subscribe setting change
+2026-07-02 13:38:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:41 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 13:38:41 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 13:38:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:42 [DEBU] Start subscribe vault change
+2026-07-02 13:38:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:42 [DEBU] Start subscribe setting change
+2026-07-02 13:38:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:53 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:38:53 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:38:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:38:53 [DEBU] Start subscribe vault change
+2026-07-02 13:38:53 [INFO] Start subscribe for stop job execution
+2026-07-02 13:38:53 [DEBU] Start subscribe setting change
+2026-07-02 13:38:53 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:39:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:39:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:03 [DEBU] Start subscribe vault change
+2026-07-02 13:39:03 [INFO] Start subscribe for stop job execution
+2026-07-02 13:39:03 [DEBU] Start subscribe setting change
+2026-07-02 13:39:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:13 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:39:13 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:39:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:13 [DEBU] Start subscribe vault change
+2026-07-02 13:39:13 [INFO] Start subscribe for stop job execution
+2026-07-02 13:39:13 [DEBU] Start subscribe setting change
+2026-07-02 13:39:13 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:22 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:39:22 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:39:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:22 [DEBU] Start subscribe vault change
+2026-07-02 13:39:22 [INFO] Start subscribe for stop job execution
+2026-07-02 13:39:22 [DEBU] Start subscribe setting change
+2026-07-02 13:39:22 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:39:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:39:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:33 [DEBU] Start subscribe vault change
+2026-07-02 13:39:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:39:33 [DEBU] Start subscribe setting change
+2026-07-02 13:39:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:43 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:39:43 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:39:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:43 [DEBU] Start subscribe vault change
+2026-07-02 13:39:43 [INFO] Start subscribe for stop job execution
+2026-07-02 13:39:43 [DEBU] Start subscribe setting change
+2026-07-02 13:39:43 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:39:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:39:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:39:54 [DEBU] Start subscribe vault change
+2026-07-02 13:39:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:39:54 [DEBU] Start subscribe setting change
+2026-07-02 13:39:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:40:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:40:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:05 [DEBU] Start subscribe vault change
+2026-07-02 13:40:05 [INFO] Start subscribe for stop job execution
+2026-07-02 13:40:05 [DEBU] Start subscribe setting change
+2026-07-02 13:40:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:40:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:40:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:14 [DEBU] Start subscribe vault change
+2026-07-02 13:40:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:40:15 [DEBU] Start subscribe setting change
+2026-07-02 13:40:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:40:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:40:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:25 [DEBU] Start subscribe vault change
+2026-07-02 13:40:25 [INFO] Start subscribe for stop job execution
+2026-07-02 13:40:25 [DEBU] Start subscribe setting change
+2026-07-02 13:40:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:35 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:40:35 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:40:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:35 [DEBU] Start subscribe vault change
+2026-07-02 13:40:35 [INFO] Start subscribe for stop job execution
+2026-07-02 13:40:35 [DEBU] Start subscribe setting change
+2026-07-02 13:40:35 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:40:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:40:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:45 [DEBU] Start subscribe vault change
+2026-07-02 13:40:45 [INFO] Start subscribe for stop job execution
+2026-07-02 13:40:45 [DEBU] Start subscribe setting change
+2026-07-02 13:40:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:55 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:40:55 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:40:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:40:55 [DEBU] Start subscribe vault change
+2026-07-02 13:40:55 [INFO] Start subscribe for stop job execution
+2026-07-02 13:40:55 [DEBU] Start subscribe setting change
+2026-07-02 13:40:55 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:41:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:41:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:05 [DEBU] Start subscribe vault change
+2026-07-02 13:41:05 [INFO] Start subscribe for stop job execution
+2026-07-02 13:41:05 [DEBU] Start subscribe setting change
+2026-07-02 13:41:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:41:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:41:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:14 [DEBU] Start subscribe vault change
+2026-07-02 13:41:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:41:15 [DEBU] Start subscribe setting change
+2026-07-02 13:41:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:41:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:41:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:25 [DEBU] Start subscribe vault change
+2026-07-02 13:41:25 [INFO] Start subscribe for stop job execution
+2026-07-02 13:41:25 [DEBU] Start subscribe setting change
+2026-07-02 13:41:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:37 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:41:37 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:41:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:37 [DEBU] Start subscribe vault change
+2026-07-02 13:41:37 [INFO] Start subscribe for stop job execution
+2026-07-02 13:41:37 [DEBU] Start subscribe setting change
+2026-07-02 13:41:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:41:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:41:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:47 [DEBU] Start subscribe vault change
+2026-07-02 13:41:47 [INFO] Start subscribe for stop job execution
+2026-07-02 13:41:47 [DEBU] Start subscribe setting change
+2026-07-02 13:41:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:41:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:41:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:41:56 [DEBU] Start subscribe vault change
+2026-07-02 13:41:56 [INFO] Start subscribe for stop job execution
+2026-07-02 13:41:56 [DEBU] Start subscribe setting change
+2026-07-02 13:41:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:42:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:42:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:05 [DEBU] Start subscribe vault change
+2026-07-02 13:42:05 [INFO] Start subscribe for stop job execution
+2026-07-02 13:42:05 [DEBU] Start subscribe setting change
+2026-07-02 13:42:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:42:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:42:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:15 [DEBU] Start subscribe vault change
+2026-07-02 13:42:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:42:15 [DEBU] Start subscribe setting change
+2026-07-02 13:42:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:42:25 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:42:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:25 [DEBU] Start subscribe vault change
+2026-07-02 13:42:25 [INFO] Start subscribe for stop job execution
+2026-07-02 13:42:25 [DEBU] Start subscribe setting change
+2026-07-02 13:42:25 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:37 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:42:37 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:42:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:37 [DEBU] Start subscribe vault change
+2026-07-02 13:42:37 [INFO] Start subscribe for stop job execution
+2026-07-02 13:42:37 [DEBU] Start subscribe setting change
+2026-07-02 13:42:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:42:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:42:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:47 [DEBU] Start subscribe vault change
+2026-07-02 13:42:47 [INFO] Start subscribe for stop job execution
+2026-07-02 13:42:47 [DEBU] Start subscribe setting change
+2026-07-02 13:42:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:42:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:42:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:42:56 [DEBU] Start subscribe vault change
+2026-07-02 13:42:56 [INFO] Start subscribe for stop job execution
+2026-07-02 13:42:56 [DEBU] Start subscribe setting change
+2026-07-02 13:42:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:43:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:43:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:07 [DEBU] Start subscribe vault change
+2026-07-02 13:43:07 [INFO] Start subscribe for stop job execution
+2026-07-02 13:43:07 [DEBU] Start subscribe setting change
+2026-07-02 13:43:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:43:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:43:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:17 [DEBU] Start subscribe vault change
+2026-07-02 13:43:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:43:17 [DEBU] Start subscribe setting change
+2026-07-02 13:43:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:43:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:43:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:27 [DEBU] Start subscribe vault change
+2026-07-02 13:43:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:43:27 [DEBU] Start subscribe setting change
+2026-07-02 13:43:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:36 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:43:36 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:43:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:36 [DEBU] Start subscribe vault change
+2026-07-02 13:43:36 [INFO] Start subscribe for stop job execution
+2026-07-02 13:43:36 [DEBU] Start subscribe setting change
+2026-07-02 13:43:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:48 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:43:48 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:43:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:43:48 [DEBU] Start subscribe vault change
+2026-07-02 13:43:48 [INFO] Start subscribe for stop job execution
+2026-07-02 13:43:48 [DEBU] Start subscribe setting change
+2026-07-02 13:43:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:44:00 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:44:00 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:44:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:44:00 [DEBU] Start subscribe vault change
+2026-07-02 13:44:00 [INFO] Start subscribe for stop job execution
+2026-07-02 13:44:00 [DEBU] Start subscribe setting change
+2026-07-02 13:44:00 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:44:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:44:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:44:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:44:15 [DEBU] Start subscribe vault change
+2026-07-02 13:44:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:44:15 [DEBU] Start subscribe setting change
+2026-07-02 13:44:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:44:37 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:44:37 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:44:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:44:37 [DEBU] Start subscribe vault change
+2026-07-02 13:44:37 [INFO] Start subscribe for stop job execution
+2026-07-02 13:44:37 [DEBU] Start subscribe setting change
+2026-07-02 13:44:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:45:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:45:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:45:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:45:12 [DEBU] Start subscribe vault change
+2026-07-02 13:45:12 [INFO] Start subscribe for stop job execution
+2026-07-02 13:45:12 [DEBU] Start subscribe setting change
+2026-07-02 13:45:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:46:12 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:46:12 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:46:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:46:12 [DEBU] Start subscribe vault change
+2026-07-02 13:46:12 [INFO] Start subscribe for stop job execution
+2026-07-02 13:46:12 [DEBU] Start subscribe setting change
+2026-07-02 13:46:12 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:47:21 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:47:21 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:47:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:47:21 [DEBU] Start subscribe vault change
+2026-07-02 13:47:21 [INFO] Start subscribe for stop job execution
+2026-07-02 13:47:21 [DEBU] Start subscribe setting change
+2026-07-02 13:47:21 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:48:30 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:48:30 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:48:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:48:30 [DEBU] Start subscribe vault change
+2026-07-02 13:48:30 [INFO] Start subscribe for stop job execution
+2026-07-02 13:48:30 [DEBU] Start subscribe setting change
+2026-07-02 13:48:30 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:48:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:48:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:48:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:48:42 [DEBU] Start subscribe vault change
+2026-07-02 13:48:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:48:42 [DEBU] Start subscribe setting change
+2026-07-02 13:48:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:48:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:48:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:48:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:48:52 [DEBU] Start subscribe vault change
+2026-07-02 13:48:52 [INFO] Start subscribe for stop job execution
+2026-07-02 13:48:52 [DEBU] Start subscribe setting change
+2026-07-02 13:48:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:03 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:49:03 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:49:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:03 [DEBU] Start subscribe vault change
+2026-07-02 13:49:03 [INFO] Start subscribe for stop job execution
+2026-07-02 13:49:03 [DEBU] Start subscribe setting change
+2026-07-02 13:49:03 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:49:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:49:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:14 [DEBU] Start subscribe vault change
+2026-07-02 13:49:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:49:15 [DEBU] Start subscribe setting change
+2026-07-02 13:49:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:23 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:49:23 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:49:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:23 [DEBU] Start subscribe vault change
+2026-07-02 13:49:23 [INFO] Start subscribe for stop job execution
+2026-07-02 13:49:23 [DEBU] Start subscribe setting change
+2026-07-02 13:49:23 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:49:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:49:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:32 [DEBU] Start subscribe vault change
+2026-07-02 13:49:32 [INFO] Start subscribe for stop job execution
+2026-07-02 13:49:32 [DEBU] Start subscribe setting change
+2026-07-02 13:49:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:44 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:49:44 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:49:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:44 [DEBU] Start subscribe vault change
+2026-07-02 13:49:44 [INFO] Start subscribe for stop job execution
+2026-07-02 13:49:44 [DEBU] Start subscribe setting change
+2026-07-02 13:49:44 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:49:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:49:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:49:56 [DEBU] Start subscribe vault change
+2026-07-02 13:49:56 [INFO] Start subscribe for stop job execution
+2026-07-02 13:49:56 [DEBU] Start subscribe setting change
+2026-07-02 13:49:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:06 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:06 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:06 [DEBU] Start subscribe vault change
+2026-07-02 13:50:06 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:06 [DEBU] Start subscribe setting change
+2026-07-02 13:50:06 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:36 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:36 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:36 [DEBU] Start subscribe vault change
+2026-07-02 13:50:36 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:36 [DEBU] Start subscribe setting change
+2026-07-02 13:50:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:36 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:36 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:36 [DEBU] Start subscribe vault change
+2026-07-02 13:50:36 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:36 [DEBU] Start subscribe setting change
+2026-07-02 13:50:37 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe vault change
+2026-07-02 13:50:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:42 [DEBU] Start subscribe setting change
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:42 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe vault change
+de assets id mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe vault change
+2026-07-02 13:50:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:42 [INFO] Start subscribe for stop job execution
+2026-07-02 13:50:42 [DEBU] Start subscribe setting change
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:42 [DEBU] Start subscribe setting change
+2026-07-02 13:50:42 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:50:44 [DEBU] Work ready signal recv
+2026-07-02 13:50:44 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:51:12 [DEBU] Worker shutdown signal recv
+2026-07-02 13:51:12 [DEBU] Clean period tasks: []
+2026-07-02 13:51:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:15 [DEBU] Start subscribe vault change
+2026-07-02 13:51:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:15 [DEBU] Start subscribe setting change
+2026-07-02 13:51:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:17 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe vault change
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe vault change
+2026-07-02 13:51:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:17 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:17 [DEBU] Start subscribe setting change
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:17 [DEBU] Start subscribe setting change
+2026-07-02 13:51:17 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:19 [DEBU] Work ready signal recv
+2026-07-02 13:51:19 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:51:52 [DEBU] Worker shutdown signal recv
+2026-07-02 13:51:52 [DEBU] Clean period tasks: []
+2026-07-02 13:51:56 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:56 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:56 [DEBU] Start subscribe vault change
+2026-07-02 13:51:56 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:56 [DEBU] Start subscribe setting change
+2026-07-02 13:51:56 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe vault change
+2026-07-02 13:51:58 [DEBU] Start subscribe vault change
+2026-07-02 13:51:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:58 [DEBU] Start subscribe setting change
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe setting change
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:58 [DEBU] Start subscribe vault change
+2026-07-02 13:51:58 [INFO] Start subscribe for stop job execution
+2026-07-02 13:51:58 [DEBU] Start subscribe setting change
+2026-07-02 13:51:58 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:51:59 [DEBU] Work ready signal recv
+2026-07-02 13:51:59 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:52:33 [DEBU] Worker shutdown signal recv
+2026-07-02 13:52:33 [DEBU] Clean period tasks: []
+2026-07-02 13:52:36 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:52:36 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:52:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:36 [DEBU] Start subscribe vault change
+2026-07-02 13:52:36 [INFO] Start subscribe for stop job execution
+2026-07-02 13:52:36 [DEBU] Start subscribe setting change
+2026-07-02 13:52:36 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:52:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe vault change
+2026-07-02 13:52:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:52:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:52:38 [DEBU] Start subscribe setting change
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe setting change
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:38 [DEBU] Start subscribe vault change
+2026-07-02 13:52:38 [INFO] Start subscribe for stop job execution
+2026-07-02 13:52:38 [DEBU] Start subscribe setting change
+2026-07-02 13:52:38 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:52:40 [DEBU] Work ready signal recv
+2026-07-02 13:52:40 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:53:12 [DEBU] Worker shutdown signal recv
+2026-07-02 13:53:12 [DEBU] Clean period tasks: []
+2026-07-02 13:53:15 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:15 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:15 [DEBU] Start subscribe vault change
+2026-07-02 13:53:15 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:15 [DEBU] Start subscribe setting change
+2026-07-02 13:53:15 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:16 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe vault change
+2026-07-02 13:53:16 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:16 [DEBU] Start subscribe setting change
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:16 [DEBU] Start subscribe setting change
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:16 [DEBU] Start subscribe vault change
+2026-07-02 13:53:16 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:16 [DEBU] Start subscribe setting change
+2026-07-02 13:53:16 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:18 [DEBU] Work ready signal recv
+2026-07-02 13:53:18 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:53:49 [DEBU] Worker shutdown signal recv
+2026-07-02 13:53:49 [DEBU] Clean period tasks: []
+2026-07-02 13:53:52 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:52 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:52 [DEBU] Start subscribe vault change
+2026-07-02 13:53:52 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:52 [DEBU] Start subscribe setting change
+2026-07-02 13:53:52 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe vault change
+2026-07-02 13:53:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:54 [DEBU] Start subscribe setting change
+2026-07-02 13:53:54 [DEBU] Start subscribe setting change
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:54 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:54 [DEBU] Start subscribe vault change
+2026-07-02 13:53:54 [INFO] Start subscribe for stop job execution
+2026-07-02 13:53:54 [DEBU] Start subscribe setting change
+2026-07-02 13:53:54 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:53:56 [DEBU] Work ready signal recv
+2026-07-02 13:53:56 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:54:29 [DEBU] Worker shutdown signal recv
+2026-07-02 13:54:29 [DEBU] Clean period tasks: []
+2026-07-02 13:54:32 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:54:32 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:54:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:32 [DEBU] Start subscribe vault change
+2026-07-02 13:54:32 [INFO] Start subscribe for stop job execution
+2026-07-02 13:54:32 [DEBU] Start subscribe setting change
+2026-07-02 13:54:32 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:54:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe vault change
+2026-07-02 13:54:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:54:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:54:33 [DEBU] Start subscribe setting change
+2026-07-02 13:54:33 [DEBU] Start subscribe setting change
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:33 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:33 [DEBU] Start subscribe vault change
+2026-07-02 13:54:33 [INFO] Start subscribe for stop job execution
+2026-07-02 13:54:33 [DEBU] Start subscribe setting change
+2026-07-02 13:54:33 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:54:35 [DEBU] Work ready signal recv
+2026-07-02 13:54:35 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:55:06 [DEBU] Worker shutdown signal recv
+2026-07-02 13:55:06 [DEBU] Clean period tasks: []
+2026-07-02 13:55:09 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:09 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:09 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:09 [DEBU] Start subscribe vault change
+2026-07-02 13:55:09 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:09 [DEBU] Start subscribe setting change
+2026-07-02 13:55:09 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe vault change
+2026-07-02 13:55:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:11 [DEBU] Start subscribe setting change
+2026-07-02 13:55:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe vault change
+2026-07-02 13:55:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:11 [DEBU] Start subscribe setting change
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:11 [DEBU] Start subscribe vault change
+2026-07-02 13:55:11 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:11 [DEBU] Start subscribe setting change
+2026-07-02 13:55:11 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:13 [DEBU] Work ready signal recv
+2026-07-02 13:55:13 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:55:45 [DEBU] Worker shutdown signal recv
+2026-07-02 13:55:45 [DEBU] Clean period tasks: []
+2026-07-02 13:55:48 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:48 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:48 [DEBU] Start subscribe vault change
+2026-07-02 13:55:48 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:48 [DEBU] Start subscribe setting change
+2026-07-02 13:55:48 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:49 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:49 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:49 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:49 [DEBU] Start subscribe vault change
+2026-07-02 13:55:49 [DEBU] Start subscribe vault change
+2026-07-02 13:55:49 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:50 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:50 [DEBU] Start subscribe setting change
+2026-07-02 13:55:50 [DEBU] Start subscribe setting change
+2026-07-02 13:55:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:50 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:55:50 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:55:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:50 [DEBU] Start subscribe vault change
+2026-07-02 13:55:50 [INFO] Start subscribe for stop job execution
+2026-07-02 13:55:50 [DEBU] Start subscribe setting change
+2026-07-02 13:55:50 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:55:51 [DEBU] Work ready signal recv
+2026-07-02 13:55:51 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:56:22 [DEBU] Worker shutdown signal recv
+2026-07-02 13:56:22 [DEBU] Clean period tasks: []
+2026-07-02 13:56:25 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:56:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:56:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:26 [DEBU] Start subscribe vault change
+2026-07-02 13:56:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:56:26 [DEBU] Start subscribe setting change
+2026-07-02 13:56:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe vault change
+2026-07-02 13:56:27 [DEBU] Start subscribe vault change
+2026-07-02 13:56:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:56:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:56:27 [DEBU] Start subscribe setting change
+2026-07-02 13:56:27 [DEBU] Start subscribe setting change
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:27 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:27 [DEBU] Start subscribe vault change
+2026-07-02 13:56:27 [INFO] Start subscribe for stop job execution
+2026-07-02 13:56:27 [DEBU] Start subscribe setting change
+2026-07-02 13:56:27 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:56:29 [DEBU] Work ready signal recv
+2026-07-02 13:56:29 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:57:02 [DEBU] Worker shutdown signal recv
+2026-07-02 13:57:02 [DEBU] Clean period tasks: []
+2026-07-02 13:57:05 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:05 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:05 [DEBU] Start subscribe vault change
+2026-07-02 13:57:05 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:05 [DEBU] Start subscribe setting change
+2026-07-02 13:57:05 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:07 [DEBU] Start subscribe vault change
+2026-07-02 13:57:07 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:07 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:07 [DEBU] Start subscribe setting change
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:07 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:07 [DEBU] Start subscribe vault change
+2026-07-02 13:57:07 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:07 [DEBU] Start subscribe setting change
+2026-07-02 13:57:07 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:09 [DEBU] Work ready signal recv
+2026-07-02 13:57:09 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:57:42 [DEBU] Worker shutdown signal recv
+2026-07-02 13:57:42 [DEBU] Clean period tasks: []
+2026-07-02 13:57:45 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:45 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:45 [DEBU] Start subscribe vault change
+2026-07-02 13:57:45 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:45 [DEBU] Start subscribe setting change
+2026-07-02 13:57:45 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:46 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:46 [DEBU] Start subscribe vault change
+2026-07-02 13:57:46 [DEBU] Start subscribe vault change
+2026-07-02 13:57:46 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:46 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:46 [DEBU] Start subscribe setting change
+2026-07-02 13:57:46 [DEBU] Start subscribe setting change
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:46 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:47 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:57:47 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:57:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:47 [DEBU] Start subscribe vault change
+2026-07-02 13:57:47 [INFO] Start subscribe for stop job execution
+2026-07-02 13:57:47 [DEBU] Start subscribe setting change
+2026-07-02 13:57:47 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:57:48 [DEBU] Work ready signal recv
+2026-07-02 13:57:48 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:58:21 [DEBU] Worker shutdown signal recv
+2026-07-02 13:58:21 [DEBU] Clean period tasks: []
+2026-07-02 13:58:24 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:58:24 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:58:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:24 [DEBU] Start subscribe vault change
+2026-07-02 13:58:24 [INFO] Start subscribe for stop job execution
+2026-07-02 13:58:24 [DEBU] Start subscribe setting change
+2026-07-02 13:58:24 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:58:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe vault change
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:58:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe vault change
+2026-07-02 13:58:26 [DEBU] Start subscribe setting change
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:58:26 [DEBU] Start subscribe setting change
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:26 [DEBU] Start subscribe vault change
+2026-07-02 13:58:26 [INFO] Start subscribe for stop job execution
+2026-07-02 13:58:26 [DEBU] Start subscribe setting change
+2026-07-02 13:58:26 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 13:58:28 [DEBU] Work ready signal recv
+2026-07-02 13:58:28 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 9b830aa0-bb09-44d7-97b7-830e089e03d1
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 5889f025-6f0c-452a-83e4-bff0e9e1dfeb
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 1e2deb2c-b102-42a7-8f07-0b95a6916a94
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 6e655fd0-15a8-4129-9609-d403abe832b7
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 530c8a4a-bf52-47c5-87fd-1c7f7129e70b
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: efe94401-49ea-4b7b-93c1-a4cb3fa244e4
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: da2b2df8-4a0c-4a86-9905-4a7971e741a3
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:28 [DEBU] Create activity log for celery task: 067c66bb-e68d-455a-89cb-1093b5a62a68
+2026-07-02 13:58:28 [ERRO] Create celery task execution error: (1054, "Unknown column 'creator_id' in 'INSERT INTO'")
+2026-07-02 13:58:33 [INFO] Start clean celery periodic tasks.
+2026-07-02 13:58:33 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 13:58:33 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 14:00:00 [DEBU] Create activity log for celery task: 716c3237-7912-4baa-9767-9ab8dd6fcb1d
+2026-07-02 14:00:00 [DEBU] Create activity log for celery task: 6f4aca1f-f23b-4e09-9f3d-48f0c279b0e7
+2026-07-02 14:01:03 [INFO] Create MsgSubscription: package=ops type=ServerPerformanceMessage
+2026-07-02 14:01:03 [INFO] Create MsgSubscription: package=terminal type=CommandAlertMessage
+2026-07-02 14:01:03 [INFO] Create MsgSubscription: package=terminal type=CommandExecutionAlert
+2026-07-02 14:01:03 [INFO] Create MsgSubscription: package=terminal type=StorageConnectivityMessage
+2026-07-02 14:01:07 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 14:01:07 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 14:01:07 [DEBU] Recv asset nodes changed signal, expire memery node asset mapping
+2026-07-02 14:01:08 [DEBU] JumpServer Client: client_secret is not hashed; hashing it now.
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [INFO] init sqlite db /opt/jumpserver/data/system/leak_passwords.db
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire orgs mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe vault change
+2026-07-02 14:01:14 [DEBU] Start subscribe vault change
+2026-07-02 14:01:14 [DEBU] Start subscribe vault change
+2026-07-02 14:01:14 [DEBU] Start subscribe vault change
+2026-07-02 14:01:14 [INFO] Start subscribe for stop job execution
+2026-07-02 14:01:14 [INFO] Start subscribe for stop job execution
+2026-07-02 14:01:14 [INFO] Start subscribe for stop job execution
+2026-07-02 14:01:14 [INFO] Start subscribe for stop job execution
+2026-07-02 14:01:14 [DEBU] Start subscribe setting change
+2026-07-02 14:01:14 [DEBU] Start subscribe setting change
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets 2026-07-02 14:01:14 [DE2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets 2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:14 [DEBU] Start subscribe setting change
+2026-07-02 14:01:14 [DEBU] Start subscribe for expire node assets id mapping from memory
+2026-07-02 14:01:16 [DEBU] Work ready signal recv
+2026-07-02 14:01:16 [DEBU] Start need start task: [users.tasks.check_password_expired_periodic, users.tasks.check_user_expired_periodic, ops.tasks.clean_celery_periodic_tasks, ops.tasks.create_or_update_registered_periodic_tasks, settings.tasks.ldap.import_ldap_user_periodic, settings.tasks.ldap.import_ldap_ha_user_periodic, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: c3e3695e-33e5-4605-bdba-53f91afc26a0
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: 1ce9561c-90c8-49d0-98d2-1f26d4867872
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: e5f28c8a-659d-4c1c-937f-7a0966516585
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: af836658-1fa2-403d-90bb-e5c7c9810246
+2026-07-02 14:01:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: cb03915c-a44d-4829-9bd7-927fe4b85d53
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: eeb4ce1a-c9b4-4cb9-b54a-816a39da5b25
+2026-07-02 14:01:16 [DEBU] Create activity log for celery task: d54f7deb-4884-420f-bec2-f00f65308cbe
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 5f084ed5-1ace-4223-add7-cbc0951688fa
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 09aa4e19-4957-4d0e-b163-ad24751608b2
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 234aecf9-ffcb-49bf-be6a-fd5c6ea23fc1
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 534973e8-6d26-4e73-82a8-eadfc485132e
+2026-07-02 14:01:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:17 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 8d160851-00fd-4ec7-b54c-b209e5834825
+2026-07-02 14:01:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 736d6bc3-5bfd-4852-8d46-cc17c994a1a9
+2026-07-02 14:01:17 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 97ded78f-2357-424f-a404-129bfc382fa8
+2026-07-02 14:01:17 [WARN] Schedule is not valid: import_ldap_user_periodic
+2026-07-02 14:01:17 [DEBU] Create activity log for celery task: 57e916de-ca3a-4361-9646-0753b2c04826
+2026-07-02 14:01:17 [WARN] Schedule is not valid: import_ldap_ha_user_periodic
+2026-07-02 14:01:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:01:17 [INFO] Start clean celery periodic tasks.
+2026-07-02 14:01:17 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 14:01:17 [INFO] Start clean celery periodic tasks.
+2026-07-02 14:01:17 [INFO] Start clean task: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 14:01:18 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 14:01:18 [INFO] Clean task success: authentication.tasks.clear_oauth2_provider_expired_tokens
+2026-07-02 14:01:38 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:38 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:45 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:45 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:47 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:47 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:47 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000002 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:01:47 [DEBU] Expire cached fields: key=cache.orgs.caches.OrgResourceStatisticsCache.org_00000000-0000-0000-0000-000000000000 fields=('users_amount', 'new_users_amount_this_week')
+2026-07-02 14:02:17 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:02:17 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:02:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:02:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/style.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:02:50 [WARN] Not Found: /static/img/login_image.png
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/inspinia.js
+ct2/select2.full.min.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:02:50 [WARN] Not Found: /static/img/facio.ico
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:02:51 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/style.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/font-awesome.min.css
+.min.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/img/login_image.png
+2026-07-02 14:02:57 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:02:57 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/style.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/img/login_image.png
+2026-07-02 14:03:08 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/inspinia.js
+ct2/select2.full.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:03:08 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:03:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:03:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/bootstrap.min.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/font-awesome.min.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/plugins/select2/select2.min.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/plugins/toastr/toastr.min.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/style.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/jquery-3.6.1.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/img/logo.png
+2026-07-02 14:03:17 [WARN] Not Found: /static/img/login_image.png
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/bootstrap.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/login-style.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/css/jumpserver.css
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/toastr/toastr.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/metisMenu/jquery.metisMenu.3.0.7.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/select2/select2.full.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/markdown-it.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/jumpserver.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/inspinia.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/select2/i18n/zh-CN.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/jsencrypt/jsencrypt.3.3.2.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/buffer/buffer.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/js/plugins/cryptojs/crypto-js.min.js
+2026-07-02 14:03:17 [WARN] Not Found: /static/img/facio.ico
+2026-07-02 14:04:16 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:04:16 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:04:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:04:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:05:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:05:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:06:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:06:17 [DEBU] pid 30 executor submit run update_user_last_used
+2026-07-02 14:06:17 [DEBU] pid 30 executor submit run update_token_last_used
+2026-07-02 14:06:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:07:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:07:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:08:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:08:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:09:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:09:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:10:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:10:17 [DEBU] pid 29 executor submit run update_user_last_used
+2026-07-02 14:10:17 [DEBU] pid 29 executor submit run update_token_last_used
+2026-07-02 14:10:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:11:16 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:11:17 [DEBU] Api require perms: ['terminal.view_terminalconfig'], result: True
+2026-07-02 14:11:19 [DEBU] Create activity log for celery task: 3374f6d2-7389-4baf-bf4c-56b1933b89d1
